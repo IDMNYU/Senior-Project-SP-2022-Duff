@@ -10,27 +10,27 @@ _**“If you put off everything ‘till you’re sure of it, you’ll get nothin
 _**"We thrive when we stay on our own leading edge."**_ \~ Sarah Lewis\
 from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p. 20).
 
-| PROFESSOR        |                                                                                         | COURSE INFO      |                           |
-| ---------------- | --------------------------------------------------------------------------------------- | ---------------- | ------------------------- |
-| **Name**         | De Angela L. Duff                                                                       | **Term & Year**  | Spring 2021               |
-| **Email**        | deangela.duff@nyu.edu                                                                   | **Meeting Day**  | Mondays                   |
-| **Phone**        | 646 997 3758                                                                            | **Meeting Time** | 2:00-3:50pm               |
-| **Office**       | Zoom                                                                                    | **Location**     | Zoom & (at times) Airmeet |
-| **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3                         |
+| PROFESSOR        |                                                                                         | COURSE INFO      |             |
+| ---------------- | --------------------------------------------------------------------------------------- | ---------------- | ----------- |
+| **Name**         | De Angela L. Duff                                                                       | **Term & Year**  | Spring 2022 |
+| **Email**        | deangela.duff@nyu.edu                                                                   | **Meeting Day**  | Mondays     |
+| ****             |                                                                                         | **Meeting Time** | 2:00-3:50pm |
+| **Office**       | Zoom                                                                                    | **Location**     | 370 Jay     |
+| **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3           |
 
-This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** **BEFORE drop/add**, depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. The four senior project faculty will collectively decide and inform specific students. Students should not seek to switch sections on their own. You will be notified first in person and subsequently by email for follow up instructions.
+This semester there are six different sections of senior project. Please be aware that you may be **switched into another section** **BEFORE drop/add**, depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. The four senior project faculty will collectively decide and inform specific students. Students should not seek to switch sections on their own. You will be notified first in person and subsequently by email for follow up instructions.
 
 ## **Course Website**
 
-[https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/)\
+[https://deangela.gitbook.io/idm-senior-project-sp-2022-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2022-duff/)\
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 ## **Course Communication**
 
-[https://idmspsp2021.slack.com](https://idmspsp2021.slack.com)\
-Slack will be our primary communication tool. Join with nyu.edu email address.
+[https://idmspsp2022.slack.com](https://idmspsp2022.slack.com)\
+Slack will be our primary communication tool. Join with a **nyu.edu** email address only.
 
-Our slack workspace is not just for me. It's for you, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. Also share resources and references with each other. Also, interact with the students in the other sections in the student lounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
+Our slack workspace is not just for me. It's for you and the other sections, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our #social-lounge slack channel. Also share resources and references with each other. Also, interact with the students in the other sections there as well. You can also direct message any student or faculty member from the other sections on slack. All classes are using the same slack workspace.
 
 ## **Welcome to Senior Project In Digital Media!**
 
@@ -95,13 +95,15 @@ This course will help students to:
 
 ## Learning Outcomes
 
-By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes (employment, gallery shows, starting a business, etc.).
+By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes (employment, gallery shows, starting a business, etc.) **beyond NYU graduation**.
 
 ## Course Structure
 
-This class will consist of individual "one on one" meetings, process and project critiques team and class critiques, project demos, and presentations.
+This class will consist of individual "one on one" meetings, process and project critiques, team and class critiques, project demos, and presentations.
 
-**Individual "One on One" Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.
+**Individual "One on One" Meetings**&#x20;
+
+Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready to go, as well.
 
 Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
@@ -139,7 +141,7 @@ It is the responsibility of each senior to invite an outside critic to _at least
 * Schedule your time (keep a calendar of some sort).
 * Come to class, individual meetings, and special events on time.
 * Participate in class critiques and discussions. Be vocal.
-* Consult slack at least once a week for up to date info.
+* Consult slack at least once a week for up-to-date info.
 * Maintain a weekly, dedicated, process website.
 * **Back up your work constantly**.
 * Complete all deliverables by their due dates.
@@ -205,23 +207,25 @@ Each student will be judged on the iteration & improvement (process), craft & co
 
 *   **A Excellent**
 
-    Process, execution, documentation & presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expections.
+    Process, execution, documentation & presentation, and attendance of the student have been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expectations.
 *   **B Very Good / Good**
 
-    Process, execution, documentation & presentation, and attendance of students has been, good, though not of the highest level. Work demonstrates a better than average sensitivity to senior project and meets expectations.
+    Process, execution, documentation & presentation, and attendance of students have been, good, though not of the highest level. Work demonstrates a better than average sensitivity to senior project and meets expectations.
 *   **C Satisfactory**
 
-    Process, execution, documentation & presentation, and attendance of the students has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of senior project.
+    Process, execution, documentation & presentation, and attendance of the students have been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of senior project.
 *   **D Poor / Below Average**
 
-    Process, execution, documentation & presentation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of senior project. Problems may include lack of interest, procrastination, and/or poor time management.
+    Process, execution, documentation & presentation, and attendance of the student have been less than adequate. Work is lacking in many areas that show any understanding of senior project. Problems may include lack of interest, procrastination, and/or poor time management.
 *   **F Unacceptable**
 
-    Process, execution, documentation & presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
+    Process, execution, documentation & presentation, and attendance of the student have been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
 ## Technology Use In The Classroom
 
-Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please be present and engaged.**
+Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc.&#x20;
+
+**When your classmates are presenting, please be present and engaged.**
 
 ## Academic Honesty
 
