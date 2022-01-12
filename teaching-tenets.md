@@ -12,13 +12,13 @@ This is also Donald Norman’s 1st stage of his [7 steps of action](https://en.w
 
 I encourage you to also identify your motivation for completion. You need to be clear on why you are doing the project. What value will you get and give? When the process gets bumpy or rough as it often does, your project’s purpose and value can keep you focused and on target.
 
-### **2 COMMIT**
+### **2 Commit**
 
 The intent to act is Donald Norman’s 2nd stage of action. You must be committed to the process AND be committed to finishing.
 
-### **3 BE FEARLESS (AKA DIG IN, PLAY, AND HAVE FUN)**
+### **3 Be Fearless (AKA Dig In, Play, and Have Fun)**
 
-### **4 (FOR THOSE OF YOU WHO ARE AFRAID OF FAILING) FAIL QUICK**&#x20;
+### **4** (FOR THOSE OF YOU WHO ARE AFRAID OF FAILING) FAIL QUICK&#x20;
 
 **(AKA DO THE CRAPPY FIRST DRAFT. IT WON’T BE THE FINAL DRAFT.) (AKA ANYTHING WORTH DOING IS WORTH DOING POORLY)**\
 **(AKA ANYTHING WORTH DOING IS WORTH DOING, PERIOD!)**
@@ -29,7 +29,7 @@ The intent to act is Donald Norman’s 2nd stage of action. You must be committe
 
 Don’t procrastinate. Don’t allow the fear of failure to paralyze you to the point of inaction. Failure means you actually took action. Action is always better than inaction. Ultimately, failure is feedback.
 
-### **5 DO SOMETHING**
+### **5 Do Something**
 
 > “Inspiration is for amateurs. I just get to work.” – Chuck Close
 
@@ -39,7 +39,7 @@ Some subscribe to the notion of inspiration to propel a project, but I push inqu
 
 You may feel that it is crap, but at the very least one person will think it is a masterpiece, and nine times out of ten, in fact, more than one person will think so. Seek comfort in that.
 
-### **7 SHOW UP**
+### **7 Show Up**
 
 > “Is it good enough for Quentin \[Tarantino]?“ –Robert Rodriguez **** (in response to possible competition from Tarantino for their double feature, Grindhouse) &#x20;
 
@@ -56,7 +56,7 @@ First of all, show up for yourself. By “showing up” I mean put all that you 
 
 One of my main goals is to get you to learn how to learn by utilizing all of your available resources. Don’t be a victim of learned and taught helplessness. Be proactive. You are a smart, intelligent, curious being. Learning is an active, participatory process. We learn by doing.
 
-### **10** USE YOUR RESOURCES
+### **10** Use Your Resources
 
 * &#x20;Libraries, Books, & Magazines
 * The Internet and its Many Online Forums & Tutorials
@@ -66,7 +66,7 @@ One of my main goals is to get you to learn how to learn by utilizing all of you
 
 It is absolutely extraordinary how, if you can formulate a good search query, Google usually provides an answer to your questions within the first 3 to 4 entries.
 
-### 11 COLLABORATE
+### 11 Collaborate
 
 Take advantage of the wonderful communities that you are all a part of at NYU and at large throughout NYC. You don’t have to do every single thing yourself. I encourage collaboration with other students to generate assets for your projects, and to form a community / network for your future projects and life goals.
 
@@ -74,20 +74,20 @@ Take advantage of the wonderful communities that you are all a part of at NYU an
 
 During the research phase, I emphasize solidifying the concept / theme of  your project through brainstorming, sketching, and design research. Research also allows you to view your project within a social, cultural, and historical context. During this phase, it’s also important to take into consideration who you are designing for? Who is your audience? Ultimately, the outcome of the research phase should be clarity about two things: What are you trying to say or communicate? And who will care?
 
-### 13 MAP YOUR IDEAS
+### 13 Map Your Ideas
 
 > “Plans are useless, but planning is invaluable.” –Winston Churchill or Dwight Eisenhower (There’s some confusion over who originated this quote.)
 
 In order to get to your destination, you should utilize maps for your project. At the same time, if you see a fork in the road, I encourage you to pick it up. In other words, your plans could possibly change throughout the process as you have epiphanies and insights, but, until you see a better road, stay on your planned path. Possible mappings are: sketches, word lists, thought maps, clickthrus, storyboards, user experience scenarios, flowcharts, schematics, scripts, user workflow charts, etc. You should decide which ones are most appropriate for your project. Some projects may require more than one.
 
-### 14 CONSIDER ALL ASPECTS OF THE DESIGN
+### 14 Consider All Aspects of the Design
 
 > “Be consistently consistent or consistently inconsistent.” \
 > ****– De Angela L. Duff&#x20;
 
 During the design phase, the concept is solidified by shaping and molding the content of the project. Many facets of design come into play: information design (How will the tone and display of the actual content impart meaning?), interactive design (How will it function? What are the best authoring tools for specific tasks?), visual design (how will it look?), sound design (How will the sound or sound effects affect the mood?), and user experience design (How will all of these elements come together for the user?).
 
-### 15 EVALUATE, REFLECT, ITERATE
+### 15 Evaluate, Reflect, Iterate
 
 Repeat this cycle ad nauseam until you have reached your original or revised goal. I encourage the iterative process through building a series of complete drafts as quickly as humanly possible. I subscribe to parts of 37signals’ getting real philosophy: start small by communicating the core concept (aka the epicenter) and add depth and detail later through iteration. Sometimes clarity only comes through doing. This process of iteration can lead to a project’s polish and craft. When there is a synergy between concept and craft, the project often distinguishes itself from others.
 
@@ -109,7 +109,7 @@ I will often remind you to think of the forest, the big picture, and to not get 
 
 There is no such thing as a stupid question, but I beg of you ask questions sooner rather than later, and definitely BEFORE THE DAY something is due.
 
-### 20 SPELLCHECK
+### 20 Spellcheck
 
 Just do it! [Grammarly](https://www.grammarly.com) and other built-in spellcheck tools are awesome. Take advantage of them. A former coworker of mine sent an email to her boss, and she forgot to include the “o” in hello.
 
