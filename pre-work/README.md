@@ -10,18 +10,18 @@ You must use your NYU email to see the survey.
 
 ## Join Our Slack Workspace and Channel
 
-[Join our shared slack workspace with the other 3 sections of IDM Senior Project ](https://idmspsp2021.slack.com)with your nyu.edu email address. I also sent you an email invite.&#x20;
+Join our shared slack workspace with the other sections of IDM Senior Project with your nyu.edu email address. I also sent you an email invite.&#x20;
 
 * **Join our class section channel (#duff)**.&#x20;
 * The **#studentlounge** is where you can interact with students from all four sections.
 * The **#announcements** channel is where you will find announcements that apply to all four sections.
 
-Our slack workspace is not just for me. It's for you, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our class slack channel (#duff). Also share resources and references with each other. Also, interact with the students in the other sections in the #studentlounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
+Our slack workspace is not just for me. It's for you and the other senior project sections, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our class slack channel (#duff). Also share resources and references with each other. Also, interact with the students in the other sections in the #studentlounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
 
 ## Read The Syllabus Thoroughly
 
 * Read the [syllabus](../syllabus.md) and be prepared to discuss and ask questions on first day of class. &#x20;
-* Please direct message De Angela on slack if you find any broken links or typos in the syllabus.
+* Please direct message De Angela on Slack if you find any broken links or typos in the syllabus.
 
 ## Populate A Calendar With Due Dates
 
@@ -29,7 +29,7 @@ Populate a calendar (google, iCal, or analog) with due dates for this class, eve
 
 ## Create a Senior Project Google Drive Folder
 
-Create a google drive folder labeled "Senior Project SP21 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP21 De Angela Duff).
+Create a google drive folder labeled "Senior Project SP22 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP22 De Angela Duff).
 
 ## Set Up A Dedicated Senior Project Process Website
 
