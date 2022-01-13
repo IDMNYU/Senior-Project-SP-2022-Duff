@@ -21,9 +21,9 @@ The intent to act is Donald Norman’s 2nd stage of action. You must be committe
 
 ### 4 (For Those Of You Who Are Afraid Of Failing) Fail Quick&#x20;
 
-#### (Aka Do The Crappy First Draft (paraphrasing writer Anne Lamott here). It Won’t Be The Final Draft.)&#x20;
+#### (AKA Do The Crappy First Draft (paraphrasing writer Anne Lamott here). It Won’t Be The Final Draft.)&#x20;
 
-#### (Aka Anything Worth Doing Is Worth Doing Poorly) (Aka Anything Worth Doing Is Worth Doing, Period!)
+#### (AKA Anything Worth Doing Is Worth Doing Poorly) (AKA Anything Worth Doing Is Worth Doing, Period!)
 
 > “In any moment of decision the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.”
 >
@@ -39,7 +39,7 @@ Some subscribe to the notion of inspiration to propel a project, but I push inqu
 
 ### **6 It Does Not Have To Be Perfect; It Just Has To Be.**&#x20;
 
-You may feel that it is crap, but at the very least one person will think it is a masterpiece, and nine times out of ten, in fact, more than one person will think so. Seek comfort in that.
+You may feel that it is crap, but at the very least, one person will think it is a masterpiece, and nine times out of ten more than one person will think so. Seek comfort in that.
 
 ### **7 Show Up**
 
@@ -70,13 +70,11 @@ It is absolutely extraordinary how, if you can formulate a good search query, Go
 
 ### 11 Collaborate
 
-Take advantage of the wonderful communities that you are all a part of at NYU and at large throughout NYC. You don’t have to do every single thing yourself. I encourage collaboration with other students to generate assets for your projects and to form a community / network for your future projects and life goals.
+Take advantage of the wonderful communities you are a part of at NYU and throughout NYC. You don’t have to do every single thing yourself. Instead, I encourage collaboration with other students to generate assets for your projects and to form a community / network for your future projects and life goals.
 
 ### **12 Research (Or Discover Or Explore For Those Of You Who Think Research Is A Dirty Verb)**
 
-During the research phase, I emphasize solidifying the concept / theme of  your project through brainstorming, sketching, and design research. Research also allows you to view your project within a social, cultural, and historical context. During this phase, it’s also important to take into consideration who you are designing for? Who is your audience? \
-\
-Ultimately, the outcome of the research phase should be clarity about two things:&#x20;
+During the research phase, I emphasize solidifying the concept / theme of your project through brainstorming, sketching, and design research. In addition, research allows you to view your project within a social, cultural, and historical context. It's also important to consider who you are designing for? Who is your audience?&#x20;
 
 * What are you trying to say or communicate?&#x20;
 * And who will care?
@@ -85,7 +83,7 @@ Ultimately, the outcome of the research phase should be clarity about two things
 
 > “Plans are useless, but planning is invaluable.” \~Winston Churchill or Dwight Eisenhower (There’s some confusion over who originated this quote.)
 
-In order to get to your destination, you should utilize maps for your project. At the same time, if you see a fork in the road, I encourage you to pick it up. In other words, your plans could possibly change throughout the process as you have epiphanies and insights, but, until you see a better road, stay on your planned path.&#x20;
+To get to your destination, you should utilize maps for your project. At the same time, if you see a fork in the road, I encourage you to pick it up. In other words, your plans could change throughout the process as you have epiphanies and insights, but until you see a better road, stay on your planned path.&#x20;
 
 Possible mappings are sketches, word lists, thought maps, clickthrus, storyboards, user experience scenarios, flowcharts, schematics, scripts, user workflow charts, etc. You should decide which ones are most appropriate for your project. Some projects may require more than one.
 
@@ -94,7 +92,7 @@ Possible mappings are sketches, word lists, thought maps, clickthrus, storyboard
 > “Be consistently consistent or consistently inconsistent.” \
 > **\~**De Angela L. Duff&#x20;
 
-During the design phase, the concept is solidified by shaping and molding the content of the project.&#x20;
+During the design phase, the concept is solidified by shaping and molding the project's content.&#x20;
 
 Many facets of design come into play:&#x20;
 
@@ -114,19 +112,19 @@ Repeat this cycle ad nauseam until you have reached your original or revised goa
 
 Any feedback, positive or negative, is good feedback. Think of the alternative: Silence.&#x20;
 
-Feedback is the most valuable part of your education. You can easily know whether or not you know how to use a piece of software, but how can you tell that the work that you are creating is actually effective and impactful? Don’t design in a vacuum.&#x20;
+Feedback is the most valuable part of your education. You can easily know whether or not you know how to use a piece of software, but how can you tell that the work that you are creating is effective and impactful? Don’t design in a vacuum.&#x20;
 
-Throughout each phase, class critique is an integral part of the process and can constantly inform your project if you allow it to do so. By critiquing others, you can have insight into your own work.
+Class critique is an integral part of the process throughout each phase and can constantly inform your project if you allow it to do so. In addition, by critiquing others, you can have insight into your own work.
 
-However, equally important is learning how to listen and respond to criticism, separating, evaluating, and even rejecting conflicting criticism. The critique process inevitably leads to the reiteration and refinement of the concept and other parts of the design.
+However, equally important is learning how to listen and respond to criticism, separating, evaluating, and even rejecting conflicting criticism. The critique process inevitably leads to reiterating and refining the concept and other parts of the design.
 
 ### **17 Keep The Big Picture And Deadline In Mind**
 
-I will often remind you to think of the forest–the big picture–and to not get hung up on one tree, or one detail of the project. A rough draft of a complete, developed idea communicates much more effectively than polished pieces of a project.
+I will often remind you to think of the forest–the big picture–and not to get hung up on one tree or one detail of the project. A rough draft of a complete, developed idea communicates much more effectively than polished pieces of a project.
 
 ### **18 Always Remember That There Is Always More Than One Way To Do Something**
 
-There is never one “right” way to do something. Sometimes “hacking” get the job done just as well as an “elegant” solution. When deadlines are involved and you need to get things done, “by any means necessary” may drive your actions.&#x20;
+There is never one “right” way to do something. Sometimes “hacking” get the job done just as well as an “elegant” solution. When deadlines are involved, and you need to get things done, “by any means necessary” may drive your actions.&#x20;
 
 In a similar vein, don’t rely exclusively on technology. Get off of the computer sometimes. A haptic process could make your project stand out from your peers. Technology is simply a tool. You are the creator.
 
