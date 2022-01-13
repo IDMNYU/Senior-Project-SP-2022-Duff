@@ -8,7 +8,7 @@
 * [NYU Global Awards](http://nyu.edu/scholarships) (Fulbright, Marshall, Rhodes, etc.). Remember your contact is Kristofor Larsen, kristofor.larsen@nyu.edu.
 *   [NYU Photo Bureau](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/university-relationsandpublicaffairs/public-affairs/photo-bureau.html)
 
-    **Students** can get free headshots from the NYU Photo Bureau. I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it (sometimes weeks) in advance. The NYU photo bureau is currently moving locations. So they're not taking any appointments until February.
+    **Students** can get free headshots from the NYU Photo Bureau. I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it (sometimes weeks) in advance.&#x20;
 * [NYU Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html) for Career Development
 * [NYU Leslie Elab](https://entrepreneur.nyu.edu) (Entrepreneurship)
 
