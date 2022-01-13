@@ -16,9 +16,7 @@ At a minimum, the following materials are due on **Date TBD**:
 
 Students may also submit additional media- images, videos- as appropriate.
 
-**Once available, a link with additional info about the requirements and a form to sign up will go here.** \
-****\
-**You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)
+**Once available, a link with additional info about the requirements will go here. You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)
 
 Your senior project will be publicly shown in the IDM showcase at the end of the semester. Exhibiting your work is truly a gift of accomplishment, response, and feedback.
 
