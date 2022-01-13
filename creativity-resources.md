@@ -3,11 +3,11 @@
 ## What it Means to Have a Creative Practice
 
 > "Greatness is consistency.\
-> Meditating once is common. Meditating daily is rare.\
-> Exercising today is simple. Training every week is simply remarkable.\
-> Writing one essay rarely matters. Write every day and you're practically a hero.\
-> Unheroic days can make for heroic decades." \
-> James Clear
+> &#x20; Meditating once is common. Meditating daily is rare.\
+> &#x20; Exercising today is simple. Training every week is simply remarkable.\
+> &#x20; Writing one essay rarely matters. Write every day and you're practically a hero.\
+> &#x20; Unheroic days can make for heroic decades." \
+> \~James Clear
 
 {% embed url="https://youtu.be/lRtV-ugIT0k" %}
 Finished Not Perfect by Jake Parker
@@ -31,8 +31,9 @@ Maurice Cherry interviews designers, developers, and other creators of color wee
 
 {% embed url="https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2" %}
 
-* Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
-* I suggest listening to Derek Sivers, Debbie Millman, and David Heinemeier Hansson
+Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
+
+I suggest listening to Derek Sivers, Debbie Millman, and David Heinemeier Hansson
 
 {% embed url="https://podcasts.apple.com/us/podcast/the-unmistakable-creative-podcast/id352721366?mt=2" %}
 
