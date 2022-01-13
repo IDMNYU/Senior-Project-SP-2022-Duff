@@ -18,11 +18,7 @@ Students may also submit additional media- images, videos- as appropriate.
 
 **Here's** [**additional info about the requirements**](https://sites.google.com/nyu.edu/idmshow) **and** [**a form to sign up for opening night**](https://sites.google.com/nyu.edu/idmshow/submission-form?authuser=0) **which is a requirement for this class. As we discussed, the student showcase is a part of your grade.** \
 ****\
-**You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)\
-\
-We know that many of the projects will not be fully completed before the end of the semester which is why we are asking for a static URL to view the completed work. All the other materials need to be completed by the submission date - they would be able to work on the content of the site up until the day of the show itself.\
-\
-We are also going to ask senior project students to participate in live discussions about their work on May 11. Last semester this was a great way for them to publicly talk about their process and prototypes for a wider audience. We encourage students to invite friends, family, and colleagues to watch these discussions. Last year, we had over 2000 viewers over the course of the day.&#x20;
+**You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)
 
 Your senior project will be publicly shown in the IDM showcase at the end of the semester. Exhibiting your work is truly a gift of accomplishment, response, and feedback.
 
