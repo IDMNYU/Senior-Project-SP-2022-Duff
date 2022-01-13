@@ -4,7 +4,7 @@
 
 &#x20;**May Day TBD 2022, Time TBD**
 
-Participation is MANDATORY for the end-of-semester showcase!!
+Participation is MANDATORY for the end-of-semester showcase!! The student showcase is a part of your grade.
 
 At a minimum, the following materials are due on **Date TBD**:
 
@@ -16,7 +16,7 @@ At a minimum, the following materials are due on **Date TBD**:
 
 Students may also submit additional media- images, videos- as appropriate.
 
-**Here's** [**additional info about the requirements**](https://sites.google.com/nyu.edu/idmshow) **and** [**a form to sign up for opening night**](https://sites.google.com/nyu.edu/idmshow/submission-form?authuser=0) **which is a requirement for this class. As we discussed, the student showcase is a part of your grade.** \
+**Once available, a link with additional info about the requirements and a form to sign up will go here.** \
 ****\
 **You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)
 
