@@ -38,9 +38,9 @@ Create a google drive folder labeled "Senior Project SP22 your first and last na
 
 ## Read & Write A Response to _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon
 
-_Note: There are_ [_response guidelines outlined here_](../assignments/responses/)_._
+_Note: There are_ [_response guidelines outlined here_](../assignments/responses.md)_._
 
-AFTER reading, write a [response](../assignments/responses/) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate with you. If none of the book resonates with you, discuss why.
+AFTER reading, write a [response](../assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate with you. If none of the book resonates with you, discuss why.
 
 ## ![](<../.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
 
@@ -49,7 +49,7 @@ Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blo
 ## (OPTIONAL) Brainstorm Project Ideas
 
 * A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [pecha kucha presentation](pecha\_kucha.md). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](../syllabus.md).
-* IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the pecha kucha presentation for the first day of class and document your brainstorming. i.e. Take photos and/or screenshots OR write a [response](../assignments/responses/) depending on which is applicable), post to your [process website](../website.md), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end\_of\_semester\_deliverables/).
+* IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the pecha kucha presentation for the first day of class and document your brainstorming. i.e. Take photos and/or screenshots OR write a [response](../assignments/responses.md) depending on which is applicable), post to your [process website](../website.md), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](../end\_of\_semester\_deliverables/).
   * [Free Writing, Word Lists & Mind Maps](../brainstorming/free-writing-word-lists-and-mind-maps.md)
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm)
   * [Card Sorting Technique](../brainstorming/card\_sorting.md)

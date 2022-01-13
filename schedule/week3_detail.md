@@ -3,7 +3,7 @@
 ## Deliverables (DUE ON DATE LISTED)
 
 * Read [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk) (if you didn't last week). I also added some additional ones from Spring 2020.
-  * Write a [response](../assignments/responses/) to 1 or more of the letters from the previous cohort and post it in the #duff slack channel. Did you notice any trends? What are 1 to 3 key takeaways for you? What advice will you take to heart? I'm sure different letters will resonate with different students. Make sure you read as many as you can.
+  * Write a [response](../assignments/responses.md) to 1 or more of the letters from the previous cohort and post it in the #duff slack channel. Did you notice any trends? What are 1 to 3 key takeaways for you? What advice will you take to heart? I'm sure different letters will resonate with different students. Make sure you read as many as you can.
 * **Miro board** (link pinned in #duff slack channel. Also emailed you access.)&#x20;
   * Miro is a collaborative whiteboard. It's pretty intuitive to use. However, here is a [youtube tutorial ](https://youtu.be/pULLAEmhSho?t=263)if you want one.&#x20;
   * Hover over the toolbar to the left in Miro's interface to quickly get a sense of what each tool does.&#x20;
