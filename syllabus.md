@@ -18,8 +18,6 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 | **Office**       | Zoom                                                                                    | **Location**     | 370 Jay     |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3           |
 
-This semester there are six different sections of senior project. Please be aware that you may be **switched into another section** **BEFORE drop/add**, depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. The four senior project faculty will collectively decide and inform specific students. Students should not seek to switch sections on their own. You will be notified first in person and subsequently by email for follow up instructions.
-
 ## **Course Website**
 
 [https://deangela.gitbook.io/idm-senior-project-sp-2022-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2022-duff/)\
@@ -69,9 +67,9 @@ How are you currently feeling about your Senior Project?
 
 If you are NOT feeling “Absolutely, Yes!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended resources NOW!
 
-Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breathe, and sleep with this project. It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions, and your passion.
+Senior Project is about the work YOU are and will continue to do when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breathe, and sleep with this project. It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions, and your passion.
 
-Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
+Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
 
 ## Program Goals
 
@@ -127,9 +125,7 @@ Critiques (AKA crits) are the best way to articulate your ideas to others and ge
 * What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links would be useful for the project?
 
-**Outside critic**
-
-It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](website.md).
+<mark style="color:red;">**Outside critic**</mark>
 
 ## Communicating With The Professor Outside Of Class
 
@@ -253,8 +249,11 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ## Required Media
 
+* Book: _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon (available as an ebook on NYU Library's Website)
 * Podcast: [Watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast): [Masks, Episode 1](https://www.hbo.com/video/watchmen/seasons/season-1/episodes/03/videos/podcast-ep-1)
-* Article: [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
+* Articles from [Getting Real](https://basecamp.com/gettingreal) by Basecamp
+  * [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)&#x20;
+  * [Wnat's The Big Idea](https://basecamp.com/gettingreal/04.1-whats-the-big-idea)
 
 ## Required Tools
 
