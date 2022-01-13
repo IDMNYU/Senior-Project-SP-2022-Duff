@@ -71,6 +71,10 @@ Keep Going by Austin Kleon
 
 ![Keep Going Cheat Sheet](https://miro.medium.com/max/2048/1\*Sz1lQkqKnhcWjcmy4xaxNA.jpeg)
 
+{% embed url="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/" %}
+The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield&#x20;
+{% endembed %}
+
 {% embed url="https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist" %}
 Steal Like An Artist: 10 Things Nobody Told You About Being Creative by Austin Kleon by Austin Kleon
 {% endembed %}
@@ -83,10 +87,6 @@ The Practice: Shipping Creative Work by Seth Godin
 
 {% embed url="https://www.amazon.com/Rise-Creativity-Failure-Search-Mastery/dp/1451629249/ref=sr_1_1?keywords=sarah+lewis&qid=1578348223&sr=8-1" %}
 The Rise: Creativity, the Gift of Failure, and the Search for Mastery by Sarah Lewis
-{% endembed %}
-
-{% embed url="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/" %}
-The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield&#x20;
 {% endembed %}
 
 ## Design
@@ -139,6 +139,8 @@ _**Icons**_
 
 _**Graphics**_
 
+{% embed url="https://undraw.co" %}
+
 {% embed url="https://www.freepik.com" %}
 
 **Slides**
@@ -149,15 +151,13 @@ _**Graphics**_
 
 ## Inspiration
 
-* [Brain Pickings](https://www.brainpickings.org)
+* [The Marginalian](https://www.themarginalian.org) (formerly Brain Pickings)
 * [Creative Applications](http://www.creativeapplications.net)
 * [Creators Project](https://creators.vice.com/en\_us)
 * [Eyeo Talks](https://vimeo.com/eyeofestival)
 * [Kickstarter](https://www.kickstarter.com)
 * [Rhizome](http://rhizome.org)
 * [TED Talks](https://www.ted.com)
-* [The Creative Independent](https://thecreativeindependent.com)
-* [We Make Money Not Art](http://we-make-money-not-art.com)
 
 ## Time & Project Management
 
