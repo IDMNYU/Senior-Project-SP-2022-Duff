@@ -32,7 +32,7 @@
   * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)
   * [Card Sorting](brainstorming/card\_sorting.md)
   * [Storytelling Exercise](brainstorming/storytelling\_exercise.md)
-* [Critiques: Demos, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
+* [Feedback: Critiques, Demos, One on Ones, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
   * [Critiques](critiques-demos-presentations-and-exhibition/critiques.md)
   * [Individual "One on One" Meetings](critiques-demos-presentations-and-exhibition/one-on-one-meetings.md)
   * [Project Demos](critiques-demos-presentations-and-exhibition/project\_demo.md)
