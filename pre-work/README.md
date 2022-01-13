@@ -36,17 +36,11 @@ Create a google drive folder labeled "Senior Project SP22 your first and last na
 * Set up [dedicated process website](../website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
 
-## Listen To The Watchmen TV Series Podcast
-
-Listen to the first [watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast), [Masks, for episodes 1-3](https://www.hbo.com/video/watchmen/seasons/season-1/episodes/03/videos/podcast-ep-1) (57 min) to hear about writer Damon Lindelof's process. \
-\
-The point of listening is NOT to learn about the watchmen but to understand his creative process in developing the tv series and how his team went about researching and making creative decisions. You don't need to watch the series because again you're not listening to this to learn about watchmen. I want you to hear how Lindelof's "inputs" (remember ideation & prototyping) help him create.
-
-## Write A Response to the Watchmen TV Series Podcast
+## Read & Write A Response to _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon
 
 _Note: There are_ [_response guidelines outlined here_](../assignments/responses.md)_._
 
-AFTER listening to the podcast, write a [response](../assignments/responses.md) in the #duff slack channel. In addition to using the response guidelines, also, include _at least_ 3 "inputs" (reference and /or inspiration) for your senior project.&#x20;
+AFTER reading, write a [response](../assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate with you. If none of the book resonates with you, discuss why.
 
 ## (OPTIONAL) Brainstorm Project Ideas
 
