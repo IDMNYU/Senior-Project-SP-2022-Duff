@@ -34,7 +34,7 @@ _You can decide how to allocate your 20 slides to address the following. Please 
   * [Project Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)&#x20;
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm)
   * [Storytelling Exercise](../brainstorming/storytelling\_exercise.md)
-  * [Recommended Resources](../recommended\_resources.md)
+  * [Recommended Resources](../resources/recommended\_resources.md)
 * **PROJECT RESEARCH & DISCOVERY**: List or show 3 different books, articles, podcasts, videos (i.e. [TED](http://www.ted.com)), or exhibitions or events that you have read, watched, listened to, or experienced that have informed your project ideas.&#x20;
   * Also, post your response and the URLs of the items in your research / discovery on your [process website](../website.md). How is it relevant to your project and which ideas would you like to further investigate? Discuss how they all connect or diverge. If you attended an exhibition or event, please post photos if at all possible.
 * **PROJECT IDEAS**: 3 different slides should illustrate 3 different possible ideas for your senior project, based on your focus topic, theme, or issue. Also, address What form (medium) it _might_ take, how this form might specifically address your topic, theme, or issue, and what the form might communicate. Your idea must be related to your theme focus and your previous work.&#x20;

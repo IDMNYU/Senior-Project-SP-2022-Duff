@@ -56,8 +56,8 @@ AFTER listening to the podcast, write a [response](../assignments/responses.md) 
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm)
   * [Card Sorting Technique](../brainstorming/card\_sorting.md)
   * [Storytelling Exercise](../brainstorming/storytelling\_exercise.md)
-  * Read or watch one or more of the [creativity resources](../creativity-resources.md) under "creativity" or "audio podcasts"
-  * Browse one or more of the "inspiration" links in [creativity resources](../creativity-resources.md).
+  * Read or watch one or more of the [creativity resources](../resources/creativity-resources.md) under "creativity" or "audio podcasts"
+  * Browse one or more of the "inspiration" links in [creativity resources](../resources/creativity-resources.md).
 
 ## Pecha Kucha Presentation&#x20;
 

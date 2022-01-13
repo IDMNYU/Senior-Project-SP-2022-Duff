@@ -297,6 +297,6 @@ Chapter 9: [Start Your Engines](https://basecamp.com/gettingreal/16.1-start-your
 * Web Browser
 * Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
 
-## [Career Preparation Resources](recommended\_resources.md)
+## [Career Preparation Resources](resources/recommended\_resources.md)
 
 ## [Schedule](schedule/)

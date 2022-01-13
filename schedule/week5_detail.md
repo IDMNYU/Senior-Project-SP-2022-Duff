@@ -1,4 +1,4 @@
-# Week 5 Detail Mar 1
+# Week 5 Detail Feb 28
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -18,4 +18,4 @@
 * Check-in with your accountability team and share you
   * [research and design](../project\_plan/)
   * [resources and milestones](../project\_plan/)
-  * [time and project management system](../creativity-resources.md)
+  * [time and project management system](../resources/creativity-resources.md)

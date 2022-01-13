@@ -1,6 +1,6 @@
 # Career Preparation Resources
 
-![The Crossroads of Should and Must by Elle Luna](<.gitbook/assets/The Crossroads Between Should and Must.jpg>)
+![The Crossroads of Should and Must by Elle Luna](<../.gitbook/assets/The Crossroads Between Should and Must.jpg>)
 
 ## NYU Resources
 
@@ -88,7 +88,7 @@
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr\_1\_1?ie=UTF8\&qid=1422276317\&sr=8-1\&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 * [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr\_1\_1?ie=UTF8\&qid=1422276493\&sr=8-1\&keywords=the+mac+is+not+a+typewriter) by Robin Williams
 
-![Define Your Own Success Illustration by Jolby for Get To Work Book](<.gitbook/assets/GETTOWORKBOOK\_ define your own success.jpg>)
+![Define Your Own Success Illustration by Jolby for Get To Work Book](<../.gitbook/assets/GETTOWORKBOOK\_ define your own success.jpg>)
 
 ## Lifestyle Design
 

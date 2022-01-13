@@ -1,4 +1,4 @@
-# Week 11 Detail Apr 12
+# Week 11 Detail Apr 18
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -13,4 +13,4 @@
 * Check-in with your accountability team and share your
   * [research, design, prototype(s), and production](../project\_plan/) of your project.
   * [resources and milestones](../project\_plan/)
-  * [time and project management system](../creativity-resources.md)
+  * [time and project management system](../resources/creativity-resources.md)
