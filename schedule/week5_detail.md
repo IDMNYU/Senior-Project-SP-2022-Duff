@@ -3,7 +3,7 @@
 ## Deliverables (DUE ON DATE LISTED)
 
 * Read [Context switching: Why jumping between tasks is killing your productivity (and what you can do about it)](https://blog.rescuetime.com/context-switching/)
-  * Write a [response](../assignments/responses.md) to this article in relation to your semester-long senior project.
+  * Write a [response](../assignments/responses/) to this article in relation to your semester-long senior project.
 * (OPTIONAL since you met during class already) Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
   * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on your [process website](../website.md).
 * Iterate:&#x20;

@@ -178,7 +178,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 **Quantitative Grading Overview**
 
-* 7.5% [Responses](assignments/responses.md)
+* 7.5% [Responses](assignments/responses/)
 * 15% [Process website](https://github.com/IDMNYU/seniorproject\_sp20\_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
   * 05% [Pecha Kucha](pre-work/pecha\_kucha.md)
@@ -250,7 +250,7 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 ## Required Media
 
 * Book: _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon (available as an ebook on NYU Library's Website)
-* Podcast: [Watchmen tv-series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast): [Masks, Episode 1](https://www.hbo.com/video/watchmen/seasons/season-1/episodes/03/videos/podcast-ep-1)
+* Article from the Bullet Journal blog: [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions)&#x20;
 * Articles from [Getting Real](https://basecamp.com/gettingreal) by Basecamp. When reading this book, replace the words "software or application" with your project medium unless you are designing and developing an app.
 
 Chapter 9: [Start Your Engines](https://basecamp.com/gettingreal/16.1-start-your-engines) (< 2 min)
