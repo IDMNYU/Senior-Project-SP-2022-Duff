@@ -251,7 +251,7 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 * Book: _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon (available as an ebook on NYU Library's Website)
 * Article from the Bullet Journal blog: [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions)&#x20;
-* Articles from [Getting Real](https://basecamp.com/gettingreal) by Basecamp.&#x20;
+* Articles from [_Getting Real_](assignments/getting-real-readings.md) by Basecamp.&#x20;
 
 ## Required Tools
 
