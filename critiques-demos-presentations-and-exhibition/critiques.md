@@ -15,7 +15,7 @@ Critiques (AKA crits) are the best way to articulate your ideas to others and ge
 * Do NOT take feedback personally.
 * Be impeccable with your word.
 
-## **We'll be using Liz Lerman's Critical Response Process this semester.**
+## ****[**Liz Lerman's Critical Response Process**](https://lizlerman.com/critical-response-process/) ****&#x20;
 
 ### Role 1: Artist/Maker
 
