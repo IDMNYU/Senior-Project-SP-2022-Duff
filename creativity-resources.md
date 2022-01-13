@@ -57,26 +57,28 @@ StartUp is a podcast series about what it’s really like to get a business off 
 
 ## Creativity
 
+{% embed url="https://www.amazon.com/The-War-of-Art-Steven-Pressfield-audiobook/dp/B07PTBYH2G" %}
+by Steven Pressfield
+{% endembed %}
+
 {% embed url="https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/ref=sr_1_1?dchild=1&keywords=do+the+work&qid=1611015005&sr=8-1" %}
+by Steven Pressfield
+{% endembed %}
 
 _Do The Work_ is pretty much a distillation of the principles in _The War of Art_.&#x20;
 
 {% embed url="https://www.everythingisaremix.info/watch-the-series" %}
-Everything is a Remix by Kirby Ferguson
+by Kirby Ferguson
 {% endembed %}
 
 {% embed url="https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644/ref=sr_1_1?keywords=austin+kleon&qid=1578346637&sr=8-1" %}
-Keep Going by Austin Kleon
+by Austin Kleon
 {% endembed %}
 
 ![Keep Going Cheat Sheet](https://miro.medium.com/max/2048/1\*Sz1lQkqKnhcWjcmy4xaxNA.jpeg)
 
-{% embed url="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/" %}
-The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield&#x20;
-{% endembed %}
-
 {% embed url="https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist" %}
-Steal Like An Artist: 10 Things Nobody Told You About Being Creative by Austin Kleon by Austin Kleon
+by Austin Kleon
 {% endembed %}
 
 ![Steal Like An Artist Cheat Sheet](https://bbinno.files.wordpress.com/2016/04/steal2.png?w=736)
@@ -92,12 +94,18 @@ The Rise: Creativity, the Gift of Failure, and the Search for Mastery by Sarah L
 ## Design
 
 {% embed url="https://www.amazon.com/Graphic-Design-Basics-Revised-Expanded/dp/161689332X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516898876&sr=8-1" %}
-Graphic Design: The New Basics by Ellen Lupton
+by Ellen Lupton
 {% endembed %}
 
 {% embed url="http://thinkingwithtype.com/" %}
+by Ellen Lupton
+{% endembed %}
 
 ## UX
+
+{% embed url="https://www.amazon.com/Design-of-Everyday-Things-audiobook/dp/B07L5Y9HND" %}
+by Donald Norman
+{% endembed %}
 
 
 
