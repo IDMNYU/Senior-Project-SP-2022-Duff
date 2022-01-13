@@ -2,13 +2,13 @@
 
 ![You Got This! Illustration by Jolby from gettoworkbook](<../.gitbook/assets/GETTOWORKBOOK\_ you got this.jpg>)
 
-&#x20;**May 11, 2021, Exact Time 4-9:30pm EDT**&#x20;
+&#x20;**May Day TBD 2022, Time TBD**
 
 Participation is MANDATORY for the end-of-semester showcase!!
 
-At a minimum, the following materials are due on **April 23, 2021**:
+At a minimum, the following materials are due on **Date TBD**:
 
-1\) A one to two minute video that explains your project \
+1\) A one to two-minute video that explains your project ( a revised teaser)\
 2\) a URL to view the project (can be a video link, documentation, live site, etc) \
 3\) an image that represents the project (can be of the thing itself, a graphic treatment, etc) \
 4\) text describing the project \
@@ -18,7 +18,7 @@ Students may also submit additional media- images, videos- as appropriate.
 
 **Here's** [**additional info about the requirements**](https://sites.google.com/nyu.edu/idmshow) **and** [**a form to sign up for opening night**](https://sites.google.com/nyu.edu/idmshow/submission-form?authuser=0) **which is a requirement for this class. As we discussed, the student showcase is a part of your grade.** \
 ****\
-**You can see submissions from last semester here:** [**http://idm.show/F2020/**](http://idm.show/F2020/)\
+**You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)\
 \
 We know that many of the projects will not be fully completed before the end of the semester which is why we are asking for a static URL to view the completed work. All the other materials need to be completed by the submission date - they would be able to work on the content of the site up until the day of the show itself.\
 \
