@@ -42,6 +42,10 @@ _Note: There are_ [_response guidelines outlined here_](../assignments/responses
 
 AFTER reading, write a [response](../assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate with you. If none of the book resonates with you, discuss why.
 
+## ![](<../.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
+
+Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions) on the Bullet Journal Blog.
+
 ## (OPTIONAL) Brainstorm Project Ideas
 
 * A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [pecha kucha presentation](pecha\_kucha.md). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](../syllabus.md).

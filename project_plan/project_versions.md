@@ -1,8 +1,10 @@
 # Project Versions
 
+
+
 The specific parameters and expectations of each version will be individually determined in consultation with the professor except for the teaser.
 
-* **Teaser** is the ideas and story behind your project. Your vision.
+* **Teaser** is the ideas and story behind your project. Your vision. Your pitch.
 * **Preview** is when your project is ready for user testing.
 * **Launch** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public. It is ready to "shipped" and consumed by the public.
 
