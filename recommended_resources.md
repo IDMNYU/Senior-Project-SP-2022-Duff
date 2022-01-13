@@ -31,6 +31,7 @@
 
 ## AIGA (Professional Org for Creatives)
 
+* [AIGA Professional Resources](http://www.aiga.org/professional-resources)
 * [AIGA's Career Advice during COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/career-advice-for-covid-19/).
 * [AIGA's Internships in Design: Advice for COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/internships-in-design-advice-for-covid-19/).
 * [AIGA's How To Ace the Virtual Interview](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/how-to-ace-the-virtual-interview/).
@@ -44,16 +45,16 @@
 * [We Work Remotely](https://weworkremotely.com)
 * [AIGA Design Jobs](http://designjobs.aiga.org)
 * [Creative Applications](http://www.creativeapplications.net/job-board)
-* [Krop](http://www.krop.com)
+* [Krop](https://www.krop.com/creative-jobs/)
 * [Coroflot](http://www.coroflot.com/public/jobs\_browse.asp)
 * [Creative Hotlist](http://www.creativehotlist.com)__
 
 ## **Miscellaneous**
 
-* [AIGA Professional Resources](http://www.aiga.org/professional-resources)
+*
 * [Pew Research](http://www.pewresearch.org)
 * [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
-* [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8\&qid=1516586778\&sr=1-1-spell) by Adrian Shaughnessy
+* (Book) [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8\&qid=1516586778\&sr=1-1-spell) by Adrian Shaughnessy
 
 ## Salary Negotiation
 
