@@ -60,6 +60,10 @@ By midterm, you should have a scratch track produced (this is a rough incomplete
 
 ## **UX Design/ App Building / Website Design**
 
+{% embed url="https://basecamp.com/books/getting-real" %}
+by Basecamp
+{% endembed %}
+
 #### **B**egin with a user workflow (AKA a user journey or customer journey).&#x20;
 
 {% embed url="https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php" %}
