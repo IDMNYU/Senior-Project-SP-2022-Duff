@@ -289,8 +289,8 @@ Chapter 9: [Start Your Engines](https://basecamp.com/gettingreal/16.1-start-your
 
 ## Required Tools
 
-* Analog or Digital [Calendar](assignments/personal\_kanban.md)
-* Analog or Digital [Planner or Journal](assignments/personal\_kanban.md)
+* Analog or Digital [Calendar](resources/personal\_kanban.md)
+* Analog or Digital [Planner or Journal](resources/personal\_kanban.md)
 
 ## Software Requirements
 

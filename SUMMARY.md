@@ -26,7 +26,6 @@
 * [Assignments:](assignments/README.md)
   * [Accountability Team](assignments/accountability\_partner.md)
   * [Course Evaluation](assignments/course\_evaluation.md)
-  * [Time & Project Management](assignments/personal\_kanban.md)
   * [Responses](assignments/responses.md)
 * [Brainstorming:](brainstorming/README.md)
   * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)
@@ -50,5 +49,6 @@
 ## Resources
 
 * [Creativity Resources](resources/creativity-resources.md)
+* [Time & Project Management](resources/personal\_kanban.md)
 * [Time & Project Management](resources/time-and-project-management.md)
 * [Career Preparation Resources](resources/recommended\_resources.md)

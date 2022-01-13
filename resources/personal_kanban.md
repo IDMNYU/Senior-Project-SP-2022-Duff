@@ -6,6 +6,10 @@ description: Systems & Tools
 
 ![Big Things Happen 1 Day @ A Time llustration by Jolby from Get To Work Book](<../.gitbook/assets/GETTOWORKBOOK\_big things happen one day at a time (2).jpg>)
 
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+* [Context switching: Why jumping between tasks is killing your productivity (and what you can do about it)](https://blog.rescuetime.com/context-switching/)
+* [7 mental strategies for reaching your long term goals (at work and in life)](https://blog.rescuetime.com/mental-strategies-long-term-goals/)
+
 ## If you don't already have them, you should create systems to manage your energy, time, and projects.
 
 The secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
