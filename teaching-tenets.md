@@ -18,10 +18,11 @@ The intent to act is Donald Norman’s 2nd stage of action. You must be committe
 
 ### **3 Be Fearless (AKA Dig In, Play, and Have Fun)**
 
-### **4** (FOR THOSE OF YOU WHO ARE AFRAID OF FAILING) FAIL QUICK&#x20;
+### 4 (For Those Of You Who Are Afraid Of Failing) Fail Quick&#x20;
 
-**(AKA DO THE CRAPPY FIRST DRAFT. IT WON’T BE THE FINAL DRAFT.) (AKA ANYTHING WORTH DOING IS WORTH DOING POORLY)**\
-**(AKA ANYTHING WORTH DOING IS WORTH DOING, PERIOD!)**
+#### (Aka Do The Crappy First Draft. It Won’t Be The Final Draft.)&#x20;
+
+#### (Aka Anything Worth Doing Is Worth Doing Poorly) (Aka Anything Worth Doing Is Worth Doing, Period!)
 
 > “In any moment of decision the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.”
 >
@@ -35,7 +36,7 @@ Don’t procrastinate. Don’t allow the fear of failure to paralyze you to the 
 
 Some subscribe to the notion of inspiration to propel a project, but I push inquiry and an iterative process, a delightful discipline of “working through” a project.
 
-### **6 IT DOES NOT HAVE TO BE PERFECT, IT JUST HAS TO BE. (AKA THE BRITNEY SPEARS FACTOR)**
+### **6 It Does Not Have To Be Perfect, It Just Has To Be. (Aka The Britney Spears Factor)**
 
 You may feel that it is crap, but at the very least one person will think it is a masterpiece, and nine times out of ten, in fact, more than one person will think so. Seek comfort in that.
 
@@ -45,11 +46,11 @@ You may feel that it is crap, but at the very least one person will think it is 
 
 First of all, show up for yourself. By “showing up” I mean put all that you got into whatever you are doing. And if that doesn’t work for you, then at least show up for your classmates. Your presence and participation not only affects the quality of your education, but your classmates’ as well. You do affect the people you interact with on a daily / weekly basis.
 
-### **8 DON’T WORRY ABOUT WHAT OTHER FOLKS ARE DOING (AKA WORRY ABOUT WHAT YOU ARE OR ARE NOT DOING)**
+### **8 Don’t Worry About What Other Folks Are Doing (Aka Worry About What You Are Or Are Not Doing)**
 
 “You will never come up against a greater adversary than your own potential, my young friend.” –Michael Piller & Michael Wagner, Star Trek: The Next Generation, “Evolution,” Dr. Paul Stubbs to Wesley Crusher, original airdate 25 Sept. 1989, stardate 43,125.8
 
-### **9 LEARN HOW TO LEARN**  **(AKA YOU LEARN HOW TO DO SOMETHING BY DOING IT)**
+### **9 Learn How To Learn (Aka You Learn How To Do Something By Doing It)**
 
 > “If you teach a man anything, he will never learn.” \
 > ****–George Bernard Shaw
@@ -70,7 +71,7 @@ It is absolutely extraordinary how, if you can formulate a good search query, Go
 
 Take advantage of the wonderful communities that you are all a part of at NYU and at large throughout NYC. You don’t have to do every single thing yourself. I encourage collaboration with other students to generate assets for your projects, and to form a community / network for your future projects and life goals.
 
-### 12 RESEARCH (OR DISCOVER OR EXPLORE FOR THOSE OF YOU WHO THINK RESEARCH IS A DIRTY VERB)
+### **12 Research (Or Discover Or Explore For Those Of You Who Think Research Is A Dirty Verb)**
 
 During the research phase, I emphasize solidifying the concept / theme of  your project through brainstorming, sketching, and design research. Research also allows you to view your project within a social, cultural, and historical context. During this phase, it’s also important to take into consideration who you are designing for? Who is your audience? Ultimately, the outcome of the research phase should be clarity about two things: What are you trying to say or communicate? And who will care?
 
@@ -91,21 +92,21 @@ During the design phase, the concept is solidified by shaping and molding the co
 
 Repeat this cycle ad nauseam until you have reached your original or revised goal. I encourage the iterative process through building a series of complete drafts as quickly as humanly possible. I subscribe to parts of 37signals’ getting real philosophy: start small by communicating the core concept (aka the epicenter) and add depth and detail later through iteration. Sometimes clarity only comes through doing. This process of iteration can lead to a project’s polish and craft. When there is a synergy between concept and craft, the project often distinguishes itself from others.
 
-### **16 GET AND GIVE FEEDBACK DURING CRITIQUES (AKA DON’T TAKE THINGS PERSONALLY)**&#x20;
+### **16 Get And Give Feedback During Critiques (Aka Don’t Take Things Personally)**
 
 > “It is better to be looked over than overlooked.” – Mae West
 
 Any feedback, positive or negative, is good feedback. Think of the alternative: Silence. Feedback is the most valuable part of your education. You can easily know whether or not you know how to use a piece of software, but how can you tell that the work that you are creating is actually effective and impactful? Don’t design in a vacuum. Throughout each phase, class critique is an integral part of the process and can constantly inform your project if you allow it to do so. By critiquing others, you can have insight into your own work. However, equally important is learning how to listen and respond to criticism, separating, evaluating, and even rejecting conflicting criticism. The critique process inevitably leads to reiteration and refinement of concept and other parts of the design.
 
-### **17 KEEP THE BIG PICTURE AND DEADLINE IN MIND**
+### **17 Keep The Big Picture And Deadline In Mind**
 
 I will often remind you to think of the forest, the big picture, and to not get hung up on one tree, or one detail of the project. A rough draft of a complete, developed idea communicates much more effectively than polished pieces of a project.
 
-### 18 ALWAYS REMEMBER THAT THERE IS ALWAYS MORE THAN ONE WAY TO DO SOMETHING&#x20;
+### **18 Always Remember That There Is Always More Than One Way To Do Something**
 
 &#x20;There is never one “right” way to do something. Sometimes “ghetto hacks” get the job done just as well as “elegant” solutions. When deadlines are involved and you need to get things done, “by any means necessary” may drive your actions. In a similar vein, don’t rely exclusively on technology. Get off of the computer sometimes. A haptic process could make your project stand out from your peers. Technology is simply a tool. You are the creator.
 
-### 19 ASK QUESTIONS / SPEAK UP / SPEAK OUT (AKA DON’T MAKE ASSUMPTIONS)&#x20;
+### 1**9 Ask Questions / Speak Up / Speak Out (Aka Don’t Make Assumptions)**
 
 There is no such thing as a stupid question, but I beg of you ask questions sooner rather than later, and definitely BEFORE THE DAY something is due.
 
@@ -113,24 +114,28 @@ There is no such thing as a stupid question, but I beg of you ask questions soon
 
 Just do it! [Grammarly](https://www.grammarly.com) and other built-in spellcheck tools are awesome. Take advantage of them. A former coworker of mine sent an email to her boss, and she forgot to include the “o” in hello.
 
-### 21 READ OUT LOUD VERBATIM ANY WRITTEN COMMUNICATION BEFORE YOU DISTRIBUTE IT
+### 21 Read Out Loud Verbatim Any Written Communication Before You Distribute It
 
 I must emphasize the word verbatim (aka word for word). The word you think you have included may be missing.
 
-### 22 DON’T READ YOUR PRESENTATIONS
+### 22 **Don’t Read Your Presentations**
 
 Engage and interact with your audience. Use the visuals in your presentation as cues to what you should be talking about.
 
-### 23 PROJECT YOUR VOICE
+### 23 **Project Your Voice**
 
 Remember the folks in the back of the room need to hear you, too.
 
-### 24 COMMUNICATE CLEARLY AND CONCISELY (AKA READ STRUNK AND WHITE’S Elements of Style)
+### 24 **Communicate Clearly And Concisely (Aka Read Strunk And White’s Elements Of Style)**
 
 Develop your written and verbal communication skills through communicating your ideas clearly and concisely when documenting your work, delivering a presentation, and/or participating in a critique.
 
-### 25 ULTIMATELY WHAT YOU GET OUT OF SOMETHING IS WHAT YOU PUT **INTO IT; DO YOUR BEST**
+### 25 **Ultimately What You Get Out Of Something Is What You Put Into It; Do Your Best**
 
-> “So what you do, it’s up to you. It’s up to you, what you do. It’s up to you. It’s up to you.” – Slum Village
+> “So what you do, it’s up to you. \
+> &#x20; It’s up to you, what you do. \
+> &#x20; It’s up to you. \
+> &#x20; It’s up to you.” \
+> \~Slum Village
 
-Ideally, the overall creative process will empower you to inform, persuade, enrich, and ultimately change society and culture. At the end of the day, I hope my teaching inspires you to learn, create, lead and contribute through the intersection of design, art, and technology.
+Ideally, the overall creative process will empower you to inform, persuade, enrich, and ultimately change society and culture. At the end of the day, I hope my teaching inspires you to learn, create, lead, and contribute through the intersection of design, art, and technology.
