@@ -6,31 +6,17 @@
 
 Your project plan will be located on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/).
 
-This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
+Constantly iterate your project plan over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
 
-Please remember that you and a classmate can work as a team. Only one plan should be worked on per team. If this is the case, I'll rename your Miro frame to reflect the team's name.
+Please remember that you and a classmate can work as a team. Only one project plan should be worked on per team. If this is the case, I'll rename your Miro frame to reflect the team's name.
 
-* Please name your file as lastname\_senior\_sp21\_projectplandraft#\_date.pdf (i.e. duff\_senior\_sp21\_projectplan1\_2021jan15.pdf). If a team, please put both of your last names (i.e. duff\_and\_dubois) in the filename.
-* Keep your Miro board up to date. Please revise the Miro board to reflect any significant changes to your project!&#x20;
+Keep your Miro board up to date. Please revise the Miro board to reflect any significant changes to your project!&#x20;
 
 ## Project Plan Outline
 
 #### Projects: Why + What + How
 
 ![](<../.gitbook/assets/bullet journal plans goals intentions.jpeg>)
-
-<details>
-
-<summary><strong>Cover</strong></summary>
-
-* Your first and last name(s)
-* Project Title
-* Senior Project in Digital Media
-* IDM / NYU
-* Spring 2022
-* Duff
-
-</details>
 
 <details>
 
