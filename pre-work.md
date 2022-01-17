@@ -31,10 +31,9 @@ Populate a calendar (google, iCal, or analog) with due dates for this class, eve
 
 Create a google drive folder labeled "Senior Project SP22 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP22 De Angela Duff).
 
-## Set Up A Dedicated Senior Project Process Website
+## Sign Up for the FREE Educational Version of Miro
 
-* Set up [dedicated process website](website.md) for senior project.
-* Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
+* Miro is a digital whiteboard
 
 ## Read & Write A Response to _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon
 
