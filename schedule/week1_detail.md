@@ -1,8 +1,8 @@
-# Week 1 Detail Feb 1
+# Week 1 Detail Jan 24
 
 ## Deliverables (DUE ON DATE LISTED)
 
-* Do [pre-work](../pre-work/) DUE on first day of class.
+* Do [pre-work](../pre-work.md) DUE on first day of class.
 
 ## Class
 
@@ -14,5 +14,5 @@
 * Teaching Tenets
 * Iteration
 * Review next week deliverables
-* [Pecha kucha](../pre-work/pecha\_kucha.md) presentations
+* [Pecha kucha](../assignments/pecha\_kucha.md) presentations
 
