@@ -4,13 +4,14 @@
 
 ![Create More Than You Consume Illustration by Jolby from Get To Work Book](<../.gitbook/assets/GETTOWORKBOOK\_create more than you consume.jpg>)
 
+Your project plan will be located on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/).
+
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
 
-Please remember that you and a classmate can work as a team. Only one plan should be submitted per team.
+Please remember that you and a classmate can work as a team. Only one plan should be worked on per team. If this is the case, I'll rename your Miro frame to reflect the team's name.
 
 * Please name your file as lastname\_senior\_sp21\_projectplandraft#\_date.pdf (i.e. duff\_senior\_sp21\_projectplan1\_2021jan15.pdf). If a team, please put both of your last names (i.e. duff\_and\_dubois) in the filename.
-* Please note that any significant changes to your project will require the submission of a revised project plan.
-* Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](../end\_of\_semester\_deliverables/).
+* Keep your Miro board up to date. Please revise the Miro board to reflect any significant changes to your project!&#x20;
 
 ## Project Plan Outline
 
