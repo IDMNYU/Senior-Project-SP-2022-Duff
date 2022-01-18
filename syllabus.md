@@ -97,7 +97,7 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ## Course Structure
 
-This class will consist of individual "one on one" meetings, process and project critiques, team and class critiques, project demos, and presentations.
+This class will consist of individual "one on one" meetings, process and project critiques, [A-Team](assignments/accountability\_partner.md) and class critiques, project demos, and presentations.
 
 **Individual "One on One" Meetings**&#x20;
 
@@ -105,7 +105,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
 Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
-**Class and A-Team Critiques**
+**Class and A-Team** [**Critiques**](critiques-demos-presentations-and-exhibition/critiques.md)****
 
 ## Communicating With The Professor Outside Of Class
 
