@@ -18,28 +18,6 @@ This is your opportunity to start the semester off with momentum and make a real
 
 ![Google Slides Publish To The Web Preferences](../.gitbook/assets/publish.png)
 
-## The content of your presentation should include the following:
-
-_You can decide how to allocate your 20 slides to address the following. Please use this order and headings_:
-
-* **YOUR CREATIVE MANTRA, MISSION, AND/OR MANIFESTO**: Write a creative mantra, a word, or phrase to get you to work (i.e. Just do it!)
-* **INSPIRATION**: Who or what inspires you? List other artists, designers, creative technologists, and/or entrepreneurs & their work that influences your work. Do you remember the course, ideation & prototyping? What are your **inputs**?
-* **MOTIVATION**: Who or what is the motivation behind your senior project focus? Why are you doing this project? What are you exploring or discovering here? What questions are you asking? Do you love your ideas? Are you willing to commit to this project? Are you willing to live, sleep, and eat with this project?
-* **THEME(s)/CONCEPT(s)**: What are your project's theme(s) or conceptual underpinnings? (Think 1 to 3 hashtags.)
-* **ELEVATOR PITCH**: What is your project's "elevator pitch"? Think phrase or 1 sentence maximum WITHOUT referring to a medium of delivery (i.e. XR, UX, app, installation, etc). What is your project about?
-* **TARGET AUDIENCE**: Who is this project for? Please note that everyone is not a valid answer. Target is the keyword here. Who cares? Who _will_ care? Who is your target audience? What do you want your target audience to experience when they interact with your project?
-* **YOUR PAST WORK THAT PROVIDES EVIDENCE THAT YOU CAN DEVELOP YOUR PROJECT**: Show examples of at least 3 to 7 examples of your past work inside and/or outside of the classroom that supports the direction of your project idea. What kinds of work you have made that provide evidence that you can develop your project idea?
-* **(OPTIONAL) BRAINSTORMING DOCUMENTATION**:&#x20;
-  * [Card Sorting](../brainstorming/card\_sorting.md)
-  * [Project Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)&#x20;
-  * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm)
-  * [Storytelling Exercise](../brainstorming/storytelling\_exercise.md)
-  * [Recommended Resources](../resources/recommended\_resources.md)
-* **PROJECT RESEARCH & DISCOVERY**: List or show 3 different books, articles, podcasts, videos (i.e. [TED](http://www.ted.com)), or exhibitions or events that you have read, watched, listened to, or experienced that have informed your project ideas.&#x20;
-  * Also, post your response and the URLs of the items in your research / discovery on your [process website](../website.md). How is it relevant to your project and which ideas would you like to further investigate? Discuss how they all connect or diverge. If you attended an exhibition or event, please post photos if at all possible.
-* **PROJECT IDEAS**: 3 different slides should illustrate 3 different possible ideas for your senior project, based on your focus topic, theme, or issue. Also, address What form (medium) it _might_ take, how this form might specifically address your topic, theme, or issue, and what the form might communicate. Your idea must be related to your theme focus and your previous work.&#x20;
-* **RELATED PROJECTS**: Compare and contrast similar projects in topic, theme, or issue (not limited by medium) by other artists, designers, creative technologists, or entrepreneurs to yours. Keep in mind the [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm).
-
 ## **Presentation Resources**
 
 * ​[Speaking.io](http://speaking.io)​
