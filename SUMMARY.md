@@ -29,6 +29,7 @@
   * [Responses](assignments/responses.md)
 * [Brainstorming:](brainstorming/README.md)
   * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)
+  * [SCAMPER](brainstorming/scamper.md)
   * [Card Sorting](brainstorming/card\_sorting.md)
   * [Storytelling Exercise](brainstorming/storytelling\_exercise.md)
 * [Feedback: Critiques, Demos, One on Ones, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
