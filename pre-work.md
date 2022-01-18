@@ -31,15 +31,22 @@ Populate a calendar (google, iCal, or analog) with due dates for this class, eve
 
 Create a google drive folder labeled "Senior Project SP22 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP22 De Angela Duff).
 
-## Sign Up for the FREE Educational Version of Miro
+## Sign Up for the FREE Educational Version of Miro and Watch less than 10 min of tutorials
 
-* Miro is a digital whiteboard
+* We will be using Miro, a digital whiteboarding tool. You do not need a Miro account to edit the board we'll be using, but I highly recommend that you sign up for a [FREE educational license](https://miro.com/education-whiteboard/2/).\
+  \
+  Please watch the following Miro tutorials if you are unfamiliar with the application. \
+
+  * [How to create content in Miro](https://youtu.be/aHkUl-yUExE) (3 minute Youtube video)
+  * [Miro 101: Collaborating on a Board](https://youtu.be/Zc2c6HquANE) (< 3 minutes Youtube video)
+  * [How to Navigate Around A Miro Board](https://youtu.be/0olcwCD9-GM) (< 3 minutes Youtube video)
 
 ## Read & Write A Response to _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon
 
 _Note: There are_ [_response guidelines outlined here_](assignments/responses.md)_._
 
-AFTER reading, write a [response](assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate with you. If none of the book resonates with you, discuss why.
+* You can find _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon [as an ebook on NYU's library website](pre-work.md#read-and-write-a-response-to-keep-going-10-ways-to-stay-creative-in-good-times-and-bad-by-austin-kle).&#x20;
+* AFTER reading, write a [response](assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate(s) with you. If the entire book doesn't resonate with you, discuss why.
 
 ## ![](<.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
 
@@ -47,8 +54,8 @@ Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blo
 
 ## (OPTIONAL) Brainstorm Project Ideas
 
-* A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [pecha kucha presentation](assignments/pecha\_kucha.md). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](syllabus.md).
-* IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the pecha kucha presentation for the first day of class and document your brainstorming. i.e. Take photos and/or screenshots OR write a [response](assignments/responses.md) depending on which is applicable), post to your [process website](website.md), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end\_of\_semester\_deliverables/).
+* A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [project plan](project\_plan/). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](syllabus.md).
+* IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the project plan. i.e. Take photos and/or screenshots OR write a [response](assignments/responses.md) depending on which is applicable), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end\_of\_semester\_deliverables/).
   * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm)
   * [Card Sorting Technique](brainstorming/card\_sorting.md)
@@ -56,6 +63,6 @@ Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blo
   * Read or watch one or more of the [creativity resources](resources/creativity-resources.md) under "creativity" or "audio podcasts"
   * Browse one or more of the "inspiration" links in [creativity resources](resources/creativity-resources.md).
 
-## Pecha Kucha Presentation&#x20;
+## Project Plan (Miro)&#x20;
 
-Prepare your [pecha kucha](assignments/pecha\_kucha.md) to present to your classmates on the 1st day of class. Everybody should be ready to present on the first day of class.
+Prepare your [project plan](project\_plan/) to present to your classmates on the 1st day of class. Everybody should be ready to present on the first day of class. You will have an opportunity to iterate it. So do the best you can for this first iteration.
