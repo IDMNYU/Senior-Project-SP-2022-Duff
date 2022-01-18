@@ -18,7 +18,7 @@ However, you may also choose to research someone who is no longer living.
 
 ### Extra Credit #2
 
-Write a [response](../assignments/responses.md) after listening to one of these podcasts.
+Write a [response](../assignments/responses.md) after listening to one of these revision path podcasts where Maurice Cherry interviews designers, developers, and other creators of color weekly.
 
 {% embed url="https://podcasts.apple.com/us/podcast/revision-path/id834173190" %}
 Maurice Cherry interviews designers, developers, and other creators of color weekly.
