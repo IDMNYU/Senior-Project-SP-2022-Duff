@@ -105,23 +105,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
 Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
-**Class and team critiques**
-
-* Be present and engaged.
-* Give feedback to your classmates.
-* Do not make assumptions. Ask questions.
-* Do your best.
-* Do NOT take feedback personally.
-* Be impeccable with your word.
-
-**Guidelines for the critique:**
-
-* What is working about the project?
-* What is confusing or needs more clarification about the project?
-* What are ways that the project can be improved?
-* What additional references, resources, projects, and/or links would be useful for the project?
-
-<mark style="color:red;">**Outside critic**</mark>
+**Class and A-Team Critiques**
 
 ## Communicating With The Professor Outside Of Class
 
