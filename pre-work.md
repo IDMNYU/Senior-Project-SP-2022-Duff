@@ -63,6 +63,6 @@ Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blo
   * Read or watch one or more of the [creativity resources](resources/creativity-resources.md) under "creativity" or "audio podcasts"
   * Browse one or more of the "inspiration" links in [creativity resources](resources/creativity-resources.md).
 
-## Project Plan (Miro)&#x20;
+## Populate Project Plan (Miro)&#x20;
 
 Prepare your [project plan](project\_plan/) to present to your classmates on the 1st day of class. Everybody should be ready to present on the first day of class. You will have an opportunity to iterate it. So do the best you can for this first iteration.
