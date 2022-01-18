@@ -1,4 +1,4 @@
-# Career Inspiration
+# ↗ Career Culture Roadmap
 
 This assignment is intended to examine a particular person or group of people whose work or career you find inspiring and try to identify aspects of it that may influence your own career trajectory.
 
