@@ -16,4 +16,5 @@
 * Review next week deliverables
 * Review Miro
 * Review [Project Plans](../project\_plan/)
+* Discuss Readings
 
