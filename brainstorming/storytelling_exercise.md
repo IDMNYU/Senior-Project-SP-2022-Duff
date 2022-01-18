@@ -12,4 +12,4 @@ Select 20 images that create a visual story about your project idea (no text). O
 There are two options:
 
 * If you already have a project idea, this audio (optional), visual (required) presentation should cover all perspectives, concepts and ideas you can think about. Don’t limit yourself but broaden up.
-* If you do not have a specific project, select 20 things that you consider relevant for living in 2020 or 20 things that you are interested in.
+* If you do not have a specific project, select 20 things that you consider relevant for living in 2022 or 20 things that you are interested in.
