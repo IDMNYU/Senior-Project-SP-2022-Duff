@@ -51,7 +51,6 @@
 
 ## **Miscellaneous**
 
-*
 * [Pew Research](http://www.pewresearch.org)
 * [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
 * (Book) [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8\&qid=1516586778\&sr=1-1-spell) by Adrian Shaughnessy
