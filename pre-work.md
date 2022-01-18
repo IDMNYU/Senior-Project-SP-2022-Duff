@@ -33,13 +33,14 @@ Create a google drive folder labeled "Senior Project SP22 your first and last na
 
 ## Sign Up for the FREE Educational Version of Miro and Watch less than 10 min of tutorials
 
-* We will be using Miro, a digital whiteboarding tool. You do not need a Miro account to edit the board we'll be using, but I highly recommend that you sign up for a [FREE educational license](https://miro.com/education-whiteboard/2/).\
-  \
-  Please watch the following Miro tutorials if you are unfamiliar with the application. \
-
+* We will be using Miro, a digital, collaborative whiteboarding tool. You do not need a Miro account to edit the board we'll be using, but I highly recommend that you sign up for a [FREE educational license](https://miro.com/education-whiteboard/2/).
+* &#x20;It's pretty intuitive to use. However, here is are some Miro tutorials if you are unfamiliar with the application.&#x20;
   * [How to create content in Miro](https://youtu.be/aHkUl-yUExE) (3 minute Youtube video)
   * [Miro 101: Collaborating on a Board](https://youtu.be/Zc2c6HquANE) (< 3 minutes Youtube video)
   * [How to Navigate Around A Miro Board](https://youtu.be/0olcwCD9-GM) (< 3 minutes Youtube video)
+* Hover over the toolbar to the left in Miro's interface to quickly get a sense of what each tool does.&#x20;
+* The Comment tool looks like a quote. It's the 8th icon from the top of the left toolbar.
+* The Zoom tool is in the bottom right hand corner of the interface. Hover over the percentage and you'll be able to see + and - signs. There are also key commands to zoom in and out (control + and - on the mac).&#x20;
 
 ## Read & Write A Response to _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon
 
