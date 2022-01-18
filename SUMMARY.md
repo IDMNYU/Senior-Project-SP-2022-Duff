@@ -41,7 +41,7 @@
   * [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
   * [IDM Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md)
 * [End of Semester Deliverables](end\_of\_semester\_deliverables/README.md)
-  * [Process pdf](end\_of\_semester\_deliverables/pdf\_or\_book.md)
+  * [Career Inspiration](end\_of\_semester\_deliverables/pdf\_or\_book.md)
   * [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md)
   * [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
   * [Midterm Self-Assessment](end\_of\_semester\_deliverables/midterm\_self\_assessment.md)

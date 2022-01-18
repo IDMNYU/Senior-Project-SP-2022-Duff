@@ -1,49 +1,13 @@
-# Process pdf
+# Career Inspiration
 
-> ## To remove some of the stress & pressure of end of semester deliverables & due to the pandemic, this will not be required this semester.
+This assignment is intended to examine a particular person or group of people whose work or career you find inspiring and try to identify aspects of it that may influence your own career trajectory.
 
-I suggest using **Adobe InDesign** to compile this, but you can use other programs if you choose to do so.
+Regardless of how one may define success, no one succeeds in a vacuum. Everyone is a product of their environment and the communities they are a part of. Oftentimes success or skill is presented as having emerged fully formed from obscurity, without any help, or without challenges, but that is never true.
 
-I would use the [project plan](../project\_plan/) _as a guideline_ for the structure of this pdf or book, and your process website, project demos, and project presentations for content. This pdf or book should illustrate and describe your project process over the course of the semester. Include details of how you did research, design, prototyping, and development. Also discuss how your project changed directions along the way and what you learned over the course of the semester. Include descriptions and images of your project at various stages (prototypes and versions) and an image of your final project. You should also consider layout and design elements of the pdf or book.
+Looking at the career of people you admire can provide insight into a roadmap for your own potential career. Sometimes it can show you what to do and sometimes it can show you what not to do.
 
-Upload all drafts including the final version to a folder labeled _end of semester pdf (or book)_ in your project documentation folder for your [end of semester deliverables](./).
+The questions you find answers to will inherently be dependent on who you pick. If you pick an artist, a question you might want to answer is if there is a particular art space or residency that people in their scene are involved with. For designers, a question might be whether there is a particular design competition that they have won. Is there a conference that people in their space attend or speak at, like Eyeo? For some people, you might see trends for particular qualifications that many people in their field have. You will likely get the most out of this assignment if you pick someone who is actively working today.
 
-Here are some examples:
+Identify at least 1 person whose work is relevant to yours that you find inspiring. Try to understand how they got to where they are. Read their bios on their personal website, company website, linkedin, wikipedia, etc. Can you find their resume/CV? Where have they worked and what were their jobs? Did they have a ton of crappy jobs when they were starting out or were they successful early on? What awards/ grants/ residencies/ etc. have they been awarded? Who else has been awarded or participated in those things? Have they written academic papers/ journalism/ opinion pieces/ etc.? If so, where have they published? Who is in their network? Who are their collaborators, friends, family, etc.? Have they gotten press? What publications and writers wrote about them? It can be important to understand the economics that enabled them to succeed. What was the average rental price for a two-bedroom apartment in the city they were in when they were starting out? Do you think it impacted their development as an artist or determined what type of products they designed?&#x20;
 
-You can make the blurb books fullscreen by clicking the expansion arrow above the image of the book. The third icon.
-
-* [https://www.blurb.com/books/2736960-putra-roeung-year-zero-soft-cover](https://www.blurb.com/books/2736960-putra-roeung-year-zero-soft-cover)
-* [https://www.blurb.com/books/2756340-stranger-danger](https://www.blurb.com/books/2756340-stranger-danger)
-* [Jeseok Process Book](https://drive.google.com/open?id=1AbIK24KMfOH3H6feaR1qQxpR1HUfqcra) (Note: This is a draft. Not a final version.)
-
-### First and Second Drafts
-
-* Please name your file as lastname\_senior\_sp20\_draft#\_date.pdf (i.e. duff\_senior\_sp20\_draft1\_2020apr15.pdf and duff\_senior\_sp20\_draft2\_2020may08.pdf)
-
-### Final Version
-
-* Please name your file as lastname\_senior\_sp20.pdf (i.e. duff\_senior\_sp20.pdf)&#x20;
-* If pdf, **post on slack** for everyone to see and download in the class
-* Not applicable this semester: If physical book, post the link to the preview on blurb on slack AND bring the actual book. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
-
-PDF Cover:
-
-* Your first and last name (if team, both names)
-* The Name of Your Project
-* Senior Project in Digital Media
-* Spring 2020
-* IDM NYU
-* URL to your process website
-
-Combine multiple pdfs using Adobe Acrobat Pro: FILE > CREATE > COMBINE INTO A SINGLE PDF or using Preview (Drag and Drop with thumbnail panel)
-
-## Because of the impact of COVID-19, I am removing this extra credit option. ~~(OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS~~
-
-See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT.
-
-I highly suggest blurb
-
-* [Blurb Formats and Pricing](http://www.blurb.com/create/book/pricing#color-pocket) (Shipping isn't included in these costs)
-* I recommend the [Magazine format](http://www.blurb.com/pricing#magazines). It's the cheapest.
-* **Shipping is 7 to 10 business days** (KEEP THIS IN MIND!)
-* Also check for blurb [coupons](https://www.blurb.com/coupon-codes)
+Extra credit if you contact them directly. I would recommend email for most people, but depending on the person it might be appropriate to use social media. However, you may also choose to research someone who is no longer living.
