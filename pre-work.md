@@ -4,13 +4,13 @@
 
 ![Just Start Illustration by Jolby from Get To Work Book](<.gitbook/assets/GETTOWORKBOOK\_Just Start (1).jpg>)
 
-## Fill out this [quick, 3-question survey](https://forms.gle/946nqoBcMrMdR6Dc6)&#x20;
+## Fill out this [quick, 3-question survey ](https://forms.gle/vyZtr7UwQgpAHsvaA)
 
 You must use your NYU email to see the survey.
 
 ## Join Our Slack Workspace and Channel
 
-Join our shared slack workspace with the other sections of IDM Senior Project with your nyu.edu email address. I also sent you an email invite.&#x20;
+[Join our shared slack workspace](https://join.slack.com/t/idmseniorproj-krn6847/signup.) [https://idmspsp2022.slack.com](https://idmspsp2022.slack.com) with the other sections of IDM Senior Project with your nyu.edu email address.&#x20;
 
 * **Join our class section channel (#duff)**.&#x20;
 * The **#studentlounge** is where you can interact with students from all four sections.
