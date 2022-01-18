@@ -14,6 +14,12 @@ Identify at least 1 person whose work is relevant to yours that you find inspiri
 
 Extra credit if you contact them directly. I would recommend email for most people, but depending on the person it might be appropriate to use social media. However, you may also choose to research someone who is no longer living.
 
+### Resource
+
+
+
+Maurice Cherry interviews designers, developers, and other creators of color weekly.
+
 ## Identify at least 3 companies or opportunities
 
 Identify at least 3 companies or opportunities (grants, residencies, competitions, etc.) you'd like to pursue post graduation. These do not need to be things you discovered in the previous part of this assignment. If its a company, what is the specific position(s) you'd like to apply for? If it's an art opportunity, how does your work relate to the opportunity? What do you need to do before applying?
