@@ -10,15 +10,21 @@ The questions you find answers to will inherently be dependent on who you pick. 
 
 Identify at least 1 person whose work is relevant to yours that you find inspiring. Try to understand how they got to where they are. Read their bios on their personal website, company website, linkedin, wikipedia, etc. Can you find their resume/CV? Where have they worked and what were their jobs? Did they have a ton of crappy jobs when they were starting out or were they successful early on? What awards/ grants/ residencies/ etc. have they been awarded? Who else has been awarded or participated in those things? Have they written academic papers/ journalism/ opinion pieces/ etc.? If so, where have they published? Who is in their network? Who are their collaborators, friends, family, etc.? Have they gotten press? What publications and writers wrote about them? It can be important to understand the economics that enabled them to succeed. What was the average rental price for a two-bedroom apartment in the city they were in when they were starting out? Do you think it impacted their development as an artist or determined what type of products they designed?&#x20;
 
-### Extra Credit
+### Extra Credit #1
 
-Extra credit if you contact them directly. I would recommend email for most people, but depending on the person it might be appropriate to use social media. However, you may also choose to research someone who is no longer living.
+Extra credit if you contact them directly. I would recommend email for most people, but depending on the person it might be appropriate to use social media. \
+\
+However, you may also choose to research someone who is no longer living.
 
-### Resource
+### Extra Credit #2
 
+Write a [response](../assignments/responses.md) after listening to one of these podcasts.
 
-
+{% embed url="https://podcasts.apple.com/us/podcast/revision-path/id834173190" %}
 Maurice Cherry interviews designers, developers, and other creators of color weekly.
+{% endembed %}
+
+
 
 ## Identify at least 3 companies or opportunities
 
