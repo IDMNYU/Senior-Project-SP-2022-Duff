@@ -49,9 +49,9 @@ _Note: There are_ [_response guidelines outlined here_](assignments/responses.md
 * The reading is approximately 55 minutes.
 * AFTER reading, write a [response](assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate(s) with you. If the entire book doesn't resonate with you, discuss why.
 
-## ![](<.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
+## Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions) from the Bullet Journal Blog.
 
-Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions) from the Bullet Journal Blog.
+![](<.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
 
 ## (OPTIONAL) Brainstorm Project Ideas
 

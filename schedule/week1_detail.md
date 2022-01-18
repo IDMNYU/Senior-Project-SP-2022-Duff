@@ -6,13 +6,14 @@
 
 ## Class
 
-* Intros to one another.
-* Discuss balancing four sections of senior project.
+* Intros to one another
+* Discuss Monday sections
 * Review what is senior project?
 * Quick overview of Slack
 * Time & Project Management
 * Teaching Tenets
 * Iteration
 * Review next week deliverables
-* [Pecha kucha](../critiques-demos-presentations-and-exhibition/pecha\_kucha.md) presentations
+* Review Miro
+* Review [Project Plans](../project\_plan/)
 
