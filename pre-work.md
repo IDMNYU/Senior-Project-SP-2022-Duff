@@ -46,6 +46,7 @@ Create a google drive folder labeled "Senior Project SP22 your first and last na
 _Note: There are_ [_response guidelines outlined here_](assignments/responses.md)_._
 
 * You can find _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon [as an ebook on NYU's library website](pre-work.md#read-and-write-a-response-to-keep-going-10-ways-to-stay-creative-in-good-times-and-bad-by-austin-kle).&#x20;
+* The reading is approximately 55 minutes.
 * AFTER reading, write a [response](assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate(s) with you. If the entire book doesn't resonate with you, discuss why.
 
 ## ![](<.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
