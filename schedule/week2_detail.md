@@ -10,5 +10,7 @@
 
 ## Class
 
-* One on one meetings to discuss [**Pecha kucha**](../critiques-demos-presentations-and-exhibition/pecha\_kucha.md) presentations&#x20;
+* Review [Project Plan](../project\_plan/) Iterations&#x20;
+* [A-Team](../assignments/accountability\_partner.md) Assignments&#x20;
+* Meet with A-Team
 
