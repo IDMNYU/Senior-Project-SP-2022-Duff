@@ -4,11 +4,19 @@
 
 ![Just Start Illustration by Jolby from Get To Work Book](<.gitbook/assets/GETTOWORKBOOK\_Just Start (1).jpg>)
 
-## Fill out this [quick, 3-question survey ](https://forms.gle/vyZtr7UwQgpAHsvaA)
 
-You must use your NYU email to see the survey.
 
-## Join Our Slack Workspace and Channel
+<details>
+
+<summary>Fill out this quick, 3-question survey </summary>
+
+You must use your NYU email to [see the survey](https://docs.google.com/forms/d/e/1FAIpQLSfDAOC72ozrmLszazVoIs1RgN4HSMUS71VobslwPIKBynb9jw/viewform).
+
+</details>
+
+<details>
+
+<summary>Join Our Slack Workspace and Channel</summary>
 
 [Join our shared slack workspace](https://join.slack.com/t/idmseniorproj-krn6847/signup.) [https://idmspsp2022.slack.com](https://idmspsp2022.slack.com) with the other sections of IDM Senior Project with your nyu.edu email address.&#x20;
 
@@ -18,31 +26,57 @@ You must use your NYU email to see the survey.
 
 Our slack workspace is not just for me. It's for you and the other senior project sections, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our class slack channel (#duff). Also share resources and references with each other. Also, interact with the students in the other sections in the #studentlounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
 
-## Read The Syllabus Thoroughly
+</details>
 
-* Read the [syllabus](syllabus.md) and be prepared to discuss and ask questions on first day of class. &#x20;
+<details>
+
+<summary>Read The Syllabus Thoroughly</summary>
+
+* Read the [syllabus](syllabus.md) and be prepared to discuss and ask questions on first day of class.
 * Please direct message De Angela on Slack if you find any broken links or typos in the syllabus.
 
-## Populate A Calendar With Due Dates
+</details>
+
+<details>
+
+<summary>Populate A Calendar With Due Dates</summary>
 
 Populate a calendar (google, iCal, or analog) with due dates for this class, even though dates may change.
 
-## Create a Senior Project Google Drive Folder
+</details>
+
+<details>
+
+<summary>Create a Senior Project Google Drive Folder</summary>
 
 Create a google drive folder labeled "Senior Project SP22 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP22 De Angela Duff).
 
-## Sign Up for the FREE Educational Version of Miro and Watch less than 10 min of tutorials
+</details>
 
-* We will be using Miro, a digital, collaborative whiteboarding tool. You do not need a Miro account to edit the board we'll be using, but I highly recommend that you sign up for a [FREE educational license](https://miro.com/education-whiteboard/2/).
-* &#x20;It's pretty intuitive to use. However, here is are some Miro tutorials if you are unfamiliar with the application.&#x20;
-  * [How to create content in Miro](https://youtu.be/aHkUl-yUExE) (3 minute Youtube video)
-  * [Miro 101: Collaborating on a Board](https://youtu.be/Zc2c6HquANE) (< 3 minutes Youtube video)
-  * [How to Navigate Around A Miro Board](https://youtu.be/0olcwCD9-GM) (< 3 minutes Youtube video)
+<details>
+
+<summary>Sign Up for the FREE Educational Version of Miro and Watch less than 10 min of tutorials</summary>
+
+* We will be using Miro, a digital, collaborative whiteboarding tool. You do not need a Miro account to edit the board we'll be using, but I highly recommend that you sign up for a [FREE educational license](https://miro.com/education-whiteboard/2/)
+* It's pretty intuitive to use. However, here is are some Miro tutorials if you are unfamiliar with the application.&#x20;
+
+<!---->
+
+* [How to create content in Miro](https://youtu.be/aHkUl-yUExE) (3 minute Youtube video)
+* [Miro 101: Collaborating on a Board](https://youtu.be/Zc2c6HquANE) (< 3 minutes Youtube video)
+* [How to Navigate Around A Miro Board](https://youtu.be/0olcwCD9-GM) (< 3 minutes Youtube video)
+
+<!---->
+
 * Hover over the toolbar to the left in Miro's interface to quickly get a sense of what each tool does.&#x20;
 * The Comment tool looks like a quote. It's the 8th icon from the top of the left toolbar.
 * The Zoom tool is in the bottom right hand corner of the interface. Hover over the percentage and you'll be able to see + and - signs. There are also key commands to zoom in and out (control + and - on the mac).&#x20;
 
-## Read & Write A Response to _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon
+</details>
+
+<details>
+
+<summary>Read &#x26; Write A Response to Keep Going: 10 Ways to Stay Creative in Good Times and Bad by Austin Kleon</summary>
 
 _Note: There are_ [_response guidelines outlined here_](assignments/responses.md)_._
 
@@ -50,11 +84,19 @@ _Note: There are_ [_response guidelines outlined here_](assignments/responses.md
 * The reading is approximately 55 minutes.
 * AFTER reading, write a [response](assignments/responses.md) in the #duff slack channel. Respond to 1 to 3 of the 10 tenets he outlines that resonate(s) with you. If the entire book doesn't resonate with you, discuss why.
 
-## Read [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions) from the Bullet Journal Blog.
+</details>
 
-![](<.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
+<details>
 
-## (OPTIONAL) Brainstorm Project Ideas
+<summary>Read Plans vs Goals vs Resolutions vs Intentions from the Bullet Journal Blog</summary>
+
+[Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions) from the Bullet Journal Blog
+
+</details>
+
+<details>
+
+<summary>(OPTIONAL) Brainstorm Project Ideas</summary>
 
 * A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to the [project plan](project\_plan/). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](syllabus.md).
 * IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises before you complete the project plan. i.e. Take photos and/or screenshots OR write a [response](assignments/responses.md) depending on which is applicable), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end\_of\_semester\_deliverables/).
@@ -65,6 +107,14 @@ _Note: There are_ [_response guidelines outlined here_](assignments/responses.md
   * Read or watch one or more of the [creativity resources](resources/creativity-resources.md) under "creativity" or "audio podcasts"
   * Browse one or more of the "inspiration" links in [creativity resources](resources/creativity-resources.md).
 
-## Populate Project Plan (Miro)&#x20;
+</details>
+
+<details>
+
+<summary>Populate Project Plan (Miro) </summary>
 
 Prepare your [project plan](project\_plan/) to present to your classmates on the 1st day of class. Everybody should be ready to present on the first day of class. You will have an opportunity to iterate it. So do the best you can for this first iteration.
+
+</details>
+
+![Plans vs Goals vs Resolutions vs Intentions from the Bullet Journal Blog](<.gitbook/assets/bullet journal plans goals intentions (1).jpeg>)
