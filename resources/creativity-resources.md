@@ -13,6 +13,10 @@
 Finished Not Perfect by Jake Parker
 {% endembed %}
 
+{% embed url="https://vimeo.com/danielsax/thegap" %}
+Audio: The Gap by Ira Glass; Video by Daniel Sax
+{% endembed %}
+
 {% embed url="https://austinkleon.com/2021/03/01/31-day-practice-and-suck-less-challenge/" %}
 31-day Practice and Suck Less Challenge by Austin Kleon
 {% endembed %}
