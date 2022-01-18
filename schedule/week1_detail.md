@@ -14,5 +14,5 @@
 * Teaching Tenets
 * Iteration
 * Review next week deliverables
-* [Pecha kucha](../assignments/pecha\_kucha.md) presentations
+* [Pecha kucha](../critiques-demos-presentations-and-exhibition/pecha\_kucha.md) presentations
 

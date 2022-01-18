@@ -24,7 +24,7 @@
     * Add a list of the **tools** you'll use to create your project
 * After looking at the Miro board, look at the [pecha kucha presentations](https://docs.google.com/document/d/1heIWOJUxQf3SznwbfG87WPuZw6iBFCSSI6UuPsSw2kA/edit) of 4 to 6 classmates you might be interested in being on an [accountability team](../assignments/accountability\_partner.md) (aka A-team) with.&#x20;
   * **Direct message De Angela 2 to 4 names of the classmates you'd like to be on an A-team with.**&#x20;
-* After looking at their [pecha kucha presentations](../assignments/pecha\_kucha.md):
+* After looking at their [pecha kucha presentations](../critiques-demos-presentations-and-exhibition/pecha\_kucha.md):
   * Add a comment to at least 3 of your classmates' Miro board columns with suggestions for their elevator pitch by combining concept, audience, and medium in a short phrase or sentence.
   * If you have any additional suggestions or questions for your classmates, leave them additional comments on the Miro board.
 * [Research and design](../project\_plan/) your project.

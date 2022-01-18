@@ -177,7 +177,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 * 7.5% [Responses](assignments/responses.md)
 * 15% [Process website](https://github.com/IDMNYU/seniorproject\_sp20\_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
-  * 05% [Pecha Kucha](assignments/pecha\_kucha.md)
+  * 05% [Pecha Kucha](critiques-demos-presentations-and-exhibition/pecha\_kucha.md)
   * 05% [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
   * 05% [Midterm Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md)
