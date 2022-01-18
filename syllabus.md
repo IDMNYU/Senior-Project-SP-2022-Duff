@@ -174,10 +174,9 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 **Quantitative Grading Overview**
 
-* 7.5% [Responses](assignments/responses.md)
-* 15% [Process website](https://github.com/IDMNYU/seniorproject\_sp20\_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
-* 20% Critiques, Demos, Presentations & Exhibition
-  * 05% [Pecha Kucha](critiques-demos-presentations-and-exhibition/pecha\_kucha.md)
+* 12.5% [Responses](assignments/responses.md)
+* 15% [Project Management](website.md)
+* 15% Critiques, Demos, Presentations & Exhibition
   * 05% [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
   * 05% [Midterm Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md)
@@ -185,8 +184,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
   * 05% [Project Plan and its revisions](project\_plan/)
   * 15% [Project Demos ](critiques-demos-presentations-and-exhibition/project\_demo.md)/ [Project Development](project\_plan/project\_versions.md)
 * 37.5% End of Semester Documentation and Deliverables
-  * 05%[ End of Semester Process PDF](end\_of\_semester\_deliverables/)
-  * 05% [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md) For IDM Archives and Promotion
+  * 10% [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md)&#x20;
   * 7.5% [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
   * 2.5% [Final Self-assessment](end\_of\_semester\_deliverables/final\_self\_assessment.md)
   * 2.5% [Letter To Next Cohort](end\_of\_semester\_deliverables/letter\_to\_next\_cohort.md)
