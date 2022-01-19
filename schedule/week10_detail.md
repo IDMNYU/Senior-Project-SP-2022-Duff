@@ -2,8 +2,6 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-### **Deliverables**
-
 * Make sure you continue to check-in with your [accountability team](../assignments/accountability\_partner.md) and document it on the [process website](../website.md).
 * BEFORE you revise your pro practices materials, watch the following videos I created last Spring (listed below) to anticipate feedback I might give to you this semester.  I will make new ones for this class AFTER you submit your Pro Practices Material Revisions.
   * [Career Resources](https://stream.nyu.edu/media/Senior+Project+Career+Resources/1\_9kyp6fsm) (< 4 min video)
