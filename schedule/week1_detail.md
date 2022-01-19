@@ -4,7 +4,9 @@
 
 * Do [pre-work](../pre-work.md) DUE on first day of class.
 
-## Class
+<details>
+
+<summary>Class</summary>
 
 * Intros to one another
 * Discuss Monday sections
@@ -17,4 +19,8 @@
 * Review Miro
 * Review [Project Plans](../project\_plan/)
 * Discuss Readings
+
+</details>
+
+
 
