@@ -75,7 +75,11 @@ I've gone back and forth between the first three. I'm currently using The Produc
 * [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
 * [Unbound Planner](https://unboundplanner.com/collections/frontpage) _(physical or digital)_
 
-## Asana Overview
+## Project Management & Asana Overview
+
+{% embed url="https://youtu.be/G8etcVo67DY" %}
+Asana Overview
+{% endembed %}
 
 
 
