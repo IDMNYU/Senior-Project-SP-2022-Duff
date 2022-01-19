@@ -158,7 +158,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 **Quantitative Grading Overview**
 
-* 12.5% [Responses](assignments/responses.md)
+* 7.5% [Responses](assignments/responses.md)
 * 15% [Project Management](website.md)
 * 15% Critiques, Demos, Presentations & Exhibition
   * 05% [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
@@ -167,9 +167,10 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 * 20% Final Project
   * 05% [Project Plan and its revisions](project\_plan/)
   * 15% [Project Demos ](critiques-demos-presentations-and-exhibition/project\_demo.md)/ [Project Development](project\_plan/project\_versions.md)
-* 37.5% End of Semester Documentation and Deliverables
+* 42.5% End of Semester Documentation and Deliverables
   * 10% [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md)&#x20;
   * 7.5% [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
+  * 5.0% Career Culture Roadmap
   * 2.5% [Final Self-assessment](end\_of\_semester\_deliverables/final\_self\_assessment.md)
   * 2.5% [Letter To Next Cohort](end\_of\_semester\_deliverables/letter\_to\_next\_cohort.md)
   * 2.5% [Midterm Self Assessment](end\_of\_semester\_deliverables/midterm\_self\_assessment.md)
