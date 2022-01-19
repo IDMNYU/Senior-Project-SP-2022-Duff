@@ -18,7 +18,7 @@ You must use your NYU email to [see the survey](https://forms.gle/uZZ54MfA2tR91K
 
 [Join our shared slack workspace](https://join.slack.com/t/idmseniorproj-krn6847/signup.) [https://idmspsp2022.slack.com](https://idmspsp2022.slack.com) with the other sections of IDM Senior Project with your nyu.edu email address.&#x20;
 
-* **Join our specific class section channel (#duff),** as well as
+* **Join our class section channel (#duff)**.&#x20;
 * The **#studentlounge** is where you can interact with students from all four sections.
 * The **#announcements** channel is where you will find announcements that apply to all four sections.
 
