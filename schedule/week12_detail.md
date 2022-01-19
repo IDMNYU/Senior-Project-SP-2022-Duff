@@ -1,4 +1,4 @@
-# Week 12 Detail Apr 26
+# Week 12 Detail Apr 25
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -10,22 +10,8 @@
 
 ## Class
 
-*   1-min video reviews & class critique
-
-    * Gina
-    * Idriss
-    * Aryan
-    * Rudhi
-    * Cassandra
-    * Vanda
-    * Sophie
-    * Joann
-    * Mia
-    * Jessica
-    * Loki
+* 1-min video reviews & class critique
+*   Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)&#x20;
 
 
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) of [Beta Version](../project\_plan/project\_versions.md) & Class Critique
-  * Idriss
-  * Rudhi
 
