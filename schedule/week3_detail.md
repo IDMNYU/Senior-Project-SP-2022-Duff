@@ -2,14 +2,12 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-*
 * [Research and design](../project\_plan/) your project.
-* Document your process and project, which includes your [research and design](../project\_plan/), on your [process website](../website.md).
+* Document your process and project, which includes your [research and design](../project\_plan/).
 
 ## Class
 
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
-*
 * (if time) project and time management
 
 ## Recommendations
