@@ -1,4 +1,4 @@
-# Week 10 Detail Apr 5
+# Week 10 Detail Apr 11
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -21,9 +21,8 @@
 
 ## Class
 
-* Guest: [Lauren Blake](https://www.linkedin.com/in/lauren-michelle-blake/) (IDM 2020)
+* Guest
 * Class Critique: [Pro Practices Material Revisions](../end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
 * Discuss:&#x20;
-  * [Master Schedule](./)
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
   * [End of Semester Deliverables](../end\_of\_semester\_deliverables/)
