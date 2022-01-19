@@ -1,10 +1,10 @@
-# Week 6 Detail Mar 8
+# Week 6 Detail Mar 7
 
 ## Deliverables (DUE ON DATE LISTED)
 
 Project Demo Deliverables:
 
-* Upload your [project demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) or link(s) and supporting files to it on [https://padlet.com/dd1849/idmspdemos](https://padlet.com/dd1849/idmspdemos) **by noon on Monday, March 8 at the very latest** so your classmates can make comments about your project demo.
+* Upload your [project demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) or link(s) and supporting files to it on {padlet URL here} **by noon on Monday, March 8 at the very latest** so your classmates can make comments about your project demo.
 * AFTER your classmates have uploaded their demo, comment on 3 of your classmates' project demos IN ADDITION TO the members of your A-Team by adding a card with your name as the title (unless you create a padlet account and are logged in. We need to know whose comments are which) underrneath the column of the classmate project demo you are commenting on.
   * What is working about the project?
   * What is confusing or needs more clarification about the project? Questions?
