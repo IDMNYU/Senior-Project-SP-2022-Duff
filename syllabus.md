@@ -237,11 +237,4 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 * Analog or Digital [Calendar](resources/personal\_kanban.md)
 * Analog or Digital [Planner or Journal](resources/personal\_kanban.md)
 
-## Software Requirements
-
-* Web Browser
-* Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
-
-## [Career Preparation Resources](resources/recommended\_resources.md)
-
 ## [Schedule](schedule/)
