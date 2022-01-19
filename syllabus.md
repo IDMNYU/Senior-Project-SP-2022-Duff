@@ -20,6 +20,8 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 
 **IDM EQUIPMENT ROOM:** [**http://equipment.bxmc.poly.edu/**](http://equipment.bxmc.poly.edu)****
 
+## In the event that the course needs to be offered entirely online for a particular class meeting, we will meet synchronously at the standard class time using Zoom. The zoom link will be posted on slack and included in a calendar invite that I will also send.
+
 ## **Course Website**
 
 [https://deangela.gitbook.io/idm-senior-project-sp-2022-duff/](https://deangela.gitbook.io/idm-senior-project-sp-2022-duff/)\
@@ -148,7 +150,8 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 **Attendance**
 
 * Attendance is mandatory at the [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) and [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md).
-* In the event you have little or no progress to show, you should definitely come to class.
+* Even if you have little or no progress to show, you should still come to class (if not moreso).
+* In the event that you need to be out of class, you can see what was covered and what's due for the next class period on this gitbook. You should also speak to your A-team about what you missed.&#x20;
 * Contact the professor IN ADVANCE if you will not be in class (direct message on Slack is preferred).
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
