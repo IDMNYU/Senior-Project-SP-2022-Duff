@@ -148,12 +148,8 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 
 **Attendance**
 
-* Per NYU policy, any excused absences need to be validated by Deanna Rayment, Coordinator of Student Advocacy and Compliance for NYU Tandon School of Engineering (deanna.rayment@nyu.edu) and have the professor notified.
-* If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request and have the professor notified.
-* Attendance is mandatory on BOTH [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) days, even if you're not presenting, and [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md).
-* In the event a student has little or no progress to show, he/she is still required to attend class.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
-* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
+* Attendance is mandatory at the [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) and [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md).
+* In the event you have little or no progress to show, you should definitely come to class.
 * Contact the professor IN ADVANCE if you will not be in class (direct message on Slack is preferred).
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
