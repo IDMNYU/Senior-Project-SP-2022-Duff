@@ -22,7 +22,12 @@ Make sure you connect with me, your peers in this section of senior project, the
 
 </details>
 
-Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp22\_resume.pdf and lastname\_senior\_sp22\_cover.pdf
+Iterate and export the following as pdfs and upload them to your project documentation folder for your [end of semester deliverables](./) in a folder named **Pro Practices Revisions**.
+
+Please name your files as:&#x20;
+
+* lastname\_senior\_sp22\_resume.pdf and&#x20;
+* lastname\_senior\_sp22\_cover.pdf
 
 <details>
 
