@@ -1,10 +1,8 @@
 # Project Versions
 
-
-
 The specific parameters and expectations of each version will be individually determined in consultation with the professor except for the teaser.
 
-* **Teaser** is the ideas and story behind your project. Your vision. The main content will be your elevator pitch which is your concept + primary audience + medium.
+* **A teaser** contains the ideas, vision, and story behind your project in a 1 to 3 minute video. You will use the contents of your [project plan](./) to create your teaser. The main requirement will be your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include.&#x20;
 * **Preview** is when your project is ready for user testing.
 * **Launch** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public. It is ready to be "shipped" and consumed by the public.
 
