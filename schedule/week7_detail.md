@@ -4,7 +4,7 @@
 
 Project Demo Deliverables:
 
-* **REVISE your** [**project demo**](../critiques-demos-presentations-and-exhibition/project\_demo.md) **** or link(s) and supporting files and post them on {padlet URL here} **by noon on Monday, March 15 at the very latest** so your classmates can make comments about your project demo revisions. You should be able to edit your previous padlet posts.
+* **REVISE your** [**project demo**](../critiques-demos-presentations-and-exhibition/project\_demo.md) **** or link(s) and supporting files and post them on {padlet URL here} **by noon on Monday, March 21 at the very latest** so your classmates can make comments about your project demo revisions. You should be able to edit your previous padlet posts.
 * **Comment on 3 additional classmates' project demos** by adding a comment or card with your name as the title (unless you create a padlet account and are logged in. We need to know whose comments are which) underrneath the column of the classmate project demo you are commenting on.
   * What is working about the project?
   * What is confusing or needs more clarification about the project? Questions?
@@ -24,11 +24,11 @@ Project Demo Info & Resources:
 The Usual Weekly Deliverables:
 
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
-  * **Document your** [**accountability team**](../assignments/accountability\_partner.md) **meeting(s) on your** [**process website**](../website.md)**.**
+  * **Document your** [**accountability team**](../assignments/accountability\_partner.md) **meeting(s).**
 * Iterate:&#x20;
   * [research and design](../project\_plan/) of your project.
   * [resources and milestones](../project\_plan/) for your project (if applicable).
-* Document your process and project, which includes your [resources and milestones](../project\_plan/) and [research and design](../project\_plan/),  [prototype(s)](../project\_plan/) of your project on your [process website](../website.md).
+* Document your process and project, which includes your [resources and milestones](../project\_plan/) and [research and design](../project\_plan/),  [prototype(s)](../project\_plan/) of your project.
 
 ## **Class**
 
