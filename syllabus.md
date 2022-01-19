@@ -20,7 +20,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 
 **IDM EQUIPMENT ROOM:** [**http://equipment.bxmc.poly.edu/**](http://equipment.bxmc.poly.edu)****
 
-## In the event that the course needs to be offered entirely online for a particular class meeting, we will meet synchronously at the standard class time using Zoom. The zoom link will be posted on slack and included in a calendar invite that I will also send.
+## In the event that the course needs to be offered entirely online for a particular class meeting, we will meet synchronously at the standard class time using Zoom. The zoom link will be posted on the class Slack and included in a calendar invite that I will also send.
 
 ## **Course Website**
 
