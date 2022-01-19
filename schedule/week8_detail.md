@@ -7,14 +7,14 @@
 * Iterate:&#x20;
   * [research, design, prototype(s) and production](../project\_plan/) of your project.
   * [resources and milestones](../project\_plan/) for your project
-* Document your process and project, which includes your [resources and milestones](../project\_plan/) and [research and design](../project\_plan/) on your [process website](../website.md).
+* Document your process and project, which includes your [resources and milestones](../project\_plan/) and [research and design](../project\_plan/) on your [project management](../website.md) platform.
 
-## Class
+## [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)&#x20;
 
-* Individual Meetings.&#x20;
-* Check-in with your A-Team and share your
-  * [research and design](../project\_plan/)
-  * [project management](../website.md)
+* Attendance is MANDATORY.
+* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) (depending on where you are in your process.)
+
+##
 
 ##
 
