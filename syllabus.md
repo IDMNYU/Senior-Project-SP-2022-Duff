@@ -18,7 +18,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 | **Office**        | 370 Jay St., Rm 361                                                      | **Location**     | 370 Jay, Rm 307 |
 | **Student Hours** | by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3               |
 
-**IDM EQUIPMENT ROOM:** [**http://equipment.bxmc.poly.edu/?page\_id=356**](http://equipment.bxmc.poly.edu/?page\_id=356)
+**IDM EQUIPMENT ROOM:** [**http://equipment.bxmc.poly.edu/**](http://equipment.bxmc.poly.edu)****
 
 ## **Course Website**
 
