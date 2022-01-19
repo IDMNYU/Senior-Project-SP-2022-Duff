@@ -8,7 +8,7 @@
 
 <summary>1 Fill out this quick, 3-question survey </summary>
 
-You must use your NYU email to [see the survey](https://docs.google.com/forms/d/e/1FAIpQLSfDAOC72ozrmLszazVoIs1RgN4HSMUS71VobslwPIKBynb9jw/viewform).
+You must use your NYU email to [see the survey](https://forms.gle/uZZ54MfA2tR91KCx8).
 
 </details>
 
