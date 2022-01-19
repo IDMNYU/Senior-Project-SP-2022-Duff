@@ -6,7 +6,7 @@
 
 * Read the assigned, selected chapters from [_Getting Real_](../assignments/getting-real-readings.md).&#x20;
 * Write a [response](../assignments/responses.md) to the 3 chapters that resonate with you the most.
-* Iterate [project plan](../project\_plan/)
+* Iterate [project plan](../project\_plan/).
 * After reviewing your classmate's project plans, direct message **deangela** on Slack 3 choices for members of your A-team by or before **Monday at 10am**.
 
 ## Class
