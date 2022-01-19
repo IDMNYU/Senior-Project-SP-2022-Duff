@@ -15,6 +15,6 @@
 
 * Discuss letters from a previous cohort
 * Review [Project Plan](../project\_plan/) Iterations&#x20;
-* [A-Team](../assignments/accountability\_partner.md) Assignments&#x20;
-* Meet with A-Team
+* [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
+* (if time) project and time management
 

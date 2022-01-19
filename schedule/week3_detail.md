@@ -7,8 +7,7 @@
 
 ## Class
 
-* [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
-* (if time) project and time management
+*
 
 ## Recommendations
 
