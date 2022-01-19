@@ -4,7 +4,7 @@
 
 ![Create More Than You Consume Illustration by Jolby from Get To Work Book](<../.gitbook/assets/GETTOWORKBOOK\_create more than you consume.jpg>)
 
-Your project plan will be located on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/).
+Your project plan will be located on this shared board for the entire class on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/).
 
 Constantly iterate your project plan over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
 
