@@ -231,6 +231,9 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 * Book: _Keep Going: 10 Ways to Stay Creative in Good Times and Bad_ by Austin Kleon (available as [an ebook on NYU Library's Website](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=5729155))
 * Article from the Bullet Journal blog: [Plans vs Goals vs Resolutions vs Intentions](https://bulletjournal.com/blogs/bulletjournalist/resolutions\_vs\_intentions)&#x20;
 * Articles from [_Getting Real_](assignments/getting-real-readings.md) by Basecamp.&#x20;
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+* [Context switching: Why jumping between tasks is killing your productivity (and what you can do about it)](https://blog.rescuetime.com/context-switching/)
+* [7 mental strategies for reaching your long term goals (at work and in life)](https://blog.rescuetime.com/mental-strategies-long-term-goals/)
 
 ## Required Tools
 
