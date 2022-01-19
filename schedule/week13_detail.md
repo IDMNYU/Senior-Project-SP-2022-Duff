@@ -2,9 +2,9 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-* Make sure you continue to check-in with your [accountability team](../assignments/accountability\_partner.md) and document it on the [process website](../website.md).
+* Make sure you continue to check-in with your [accountability team](../assignments/accountability\_partner.md) and document.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project\_plan/) of your project as needed.
-* Continue to document your process and artifacts (the thing(s) itself) on your [process website](../website.md).
+* Continue to document your process and artifacts (the thing(s) itself).
 * (If applicable) revised your 1-minute video for the IDM showcase
 
 ## Class
