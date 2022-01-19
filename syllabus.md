@@ -10,13 +10,13 @@ _**“If you put off everything ‘till you’re sure of it, you’ll get nothin
 _**"We thrive when we stay on our own leading edge."**_ \~ Sarah Lewis\
 from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p. 20).
 
-| PROFESSOR                |                                                                          | COURSE INFO      |                 |
-| ------------------------ | ------------------------------------------------------------------------ | ---------------- | --------------- |
-| **Name**                 | De Angela L. Duff                                                        | **Term & Year**  | Spring 2022     |
-| **Email**                | deangela.duff@nyu.edu                                                    | **Meeting Day**  | Mondays         |
-| ****                     |                                                                          | **Meeting Time** | 2:00-3:50pm     |
-| **Office**               | Zoom                                                                     | **Location**     | 370 Jay, Rm 307 |
-| **Virtual Office Hours** | by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3               |
+| PROFESSOR         |                                                                          | COURSE INFO      |                 |
+| ----------------- | ------------------------------------------------------------------------ | ---------------- | --------------- |
+| **Name**          | De Angela L. Duff                                                        | **Term & Year**  | Spring 2022     |
+| **Email**         | deangela.duff@nyu.edu                                                    | **Meeting Day**  | Mondays         |
+| ****              |                                                                          | **Meeting Time** | 2:00-3:50pm     |
+| **Office**        | 370 Jay St., Rm 361                                                      | **Location**     | 370 Jay, Rm 307 |
+| **Student Hours** | by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3               |
 
 ## **Course Website**
 
