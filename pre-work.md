@@ -122,7 +122,7 @@ No worries if you are not able to populate yo
 
 <summary>10 Populate Project Plan (Miro) </summary>
 
-## Just Start! Think Progress/Iteration Over Perfection!&#x20;
+## Just Start! Think Progress Over Perfection!&#x20;
 
 * Prepare your [project plan](project\_plan/) on this shared board for the entire class on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/). Navigate to the frame labeled with your name. See #6 above for Miro tutorials.
 * Be prepared to discuss your project plan on the 1st day of class. Everybody should be ready to present on the first day of class.&#x20;
