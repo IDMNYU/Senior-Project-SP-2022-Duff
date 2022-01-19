@@ -1,4 +1,4 @@
-# Week 14 Detail May 10
+# Week 14 Detail May 9
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -6,7 +6,7 @@
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project\_plan/) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself) on your [process website](../website.md).
 * Revise your 1-min video for the [IDM showcase](../critiques-demos-presentations-and-exhibition/idm\_showcase.md) if needed
-* Revise your project info on [Miro](https://miro.com/app/board/o9J\_lUislM0=/), particularly your elevator pitch.&#x20;
+* Revise your [project plan](../project\_plan/) on our shared Miro, particularly your elevator pitch.&#x20;
 * If you haven't done so already, please schedule your final [one-on-one](week15\_detail.md). _Thank you so much if you already have!_
 
 ## Class
