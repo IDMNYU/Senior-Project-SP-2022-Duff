@@ -22,6 +22,8 @@ Make sure you connect with me, your peers in this section of senior project, the
 
 </details>
 
+Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp22\_resume.pdf and lastname\_senior\_sp22\_cover.pdf
+
 <details>
 
 <summary>Resumé</summary>
@@ -34,8 +36,6 @@ Resources:
 * Examples: [https://www.casestudy.club/journal/ux-designer-res](https://www.casestudy.club/journal/ux-designer-resume)
 
 </details>
-
-Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp22\_resume.pdf and lastname\_senior\_sp22\_cover.pdf
 
 <details>
 
