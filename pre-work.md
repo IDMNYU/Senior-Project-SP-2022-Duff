@@ -43,7 +43,7 @@ You can also direct message any student or faculty member from the four sections
 
 <summary>4 Populate A Calendar With Due Dates</summary>
 
-Populate a calendar (google, iCal, or analog) with due dates for this class, even though dates may change.
+Populate a calendar (google, iCal, or analog) with due dates for this class, your other classes, and other commitments, even though dates may change.
 
 </details>
 
