@@ -46,7 +46,7 @@ The most highly recommended planner or journal by students is the __ [**Bullet J
 
 I recommend having an analog or digital personal kanban using [Asana](https://asana.com) (There's a free version of Asana.), [Trello](https://trello.com) (or [Kanbanery](https://kanbanery.com)). The analog method is having post-it notes on a wall or mini ones in a notebook (so you can move them around)_._
 
-_Others are Milanote, Notion, or Google Docs/Google Sheets_
+_Others are_ [_Milanote_](https://milanote.com)_,_ [_Notion_](https://www.notion.so)_, or Google Docs/Google Sheets_
 
 ## Recommended Planners
 
