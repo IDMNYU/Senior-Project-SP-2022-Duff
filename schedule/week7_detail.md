@@ -42,5 +42,5 @@ The Usual Weekly Deliverables:
 * Discuss what it means to have a creative practice
   * [Finished Not Perfect](https://youtu.be/lRtV-ugIT0k) by Jake Parker
   * [Austin Kleon's 31-day Practice and Suck Less challenge](https://austinkleon.com/2021/03/01/31-day-practice-and-suck-less-challenge/) ([pdf download](https://www.dropbox.com/s/yle30d0ykag362d/practice-suck-less-31-days.pdf?))
-* We'll continue with the [Project Demos](../critiques-demos-presentations-and-exhibition/project\_demo.md) class critique at a different zoom link.
+* We'll continue with the [Project Demos](../critiques-demos-presentations-and-exhibition/project\_demo.md) class critiques.
 
