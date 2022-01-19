@@ -83,6 +83,6 @@ I've created some very short videos talking about 2 to 3 students' pro practices
 
 </details>
 
-## [Career Preparation Resources](https://app.gitbook.com/@deangela/s/idm-senior-project-sp-2021-duff/recommended\_resources)
+## [Career Preparation Resources](pro\_practices\_revisions.md#career-preparation-resources)
 
 __
