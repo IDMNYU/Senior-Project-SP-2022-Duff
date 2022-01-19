@@ -13,6 +13,13 @@
     * Please read all of the directions.&#x20;
     * Direct message as pdf to De Angela on slack BEFORE your meeting.
 
+##
+
+* Individual Meetings.&#x20;
+* Check-in with your A-Team and share your
+  * [research and design](../project\_plan/)
+  * [project management](../website.md)
+
 ## [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)&#x20;
 
 * Attendance is MANDATORY.
