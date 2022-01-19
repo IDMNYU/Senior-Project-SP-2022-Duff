@@ -2,7 +2,7 @@
 
 > Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. \~James Clear
 
-Iterate the following from professional practices and post some of the following to this [google doc](https://docs.google.com/document/d/1FHlnCKXaInzMAVFWvkfBR12Om-9O3dCZDGaAQi9AnqQ/edit):
+Iterate the following from professional practices and post your portfolio website and LinkedIn URLs in this [google doc](https://docs.google.com/document/d/1FHlnCKXaInzMAVFWvkfBR12Om-9O3dCZDGaAQi9AnqQ/edit):
 
 <details>
 
