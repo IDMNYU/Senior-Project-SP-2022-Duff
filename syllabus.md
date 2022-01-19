@@ -120,7 +120,6 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * Come to class, individual meetings, and special events on time.
 * Participate in class critiques and discussions. Be vocal.
 * Consult slack at least once a week for up-to-date info.
-* Maintain a weekly, dedicated, process website.
 * **Back up your work constantly**.
 * Complete all deliverables by their due dates.
 * Action – do your absolute best.
