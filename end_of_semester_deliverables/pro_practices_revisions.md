@@ -35,6 +35,8 @@ Resources:
 
 </details>
 
+Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp22\_resume.pdf and lastname\_senior\_sp22\_cover.pdf
+
 <details>
 
 <summary>Cover <strong>Letter</strong></summary>
@@ -49,25 +51,7 @@ Resources:
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-
-
-Notes:
-
-* Your **portfolio website** _NOTE: This is different than your_ [_process website_](../website.md)_._&#x20;
-* Your **LinkedIn profile**.&#x20;
-
-Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions." Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf
-
-* **Resumé**&#x20;
-* ****
+****
 
 <details>
 
