@@ -8,8 +8,7 @@
 
 ## Class
 
-* Individual Meetings. See schedule pinned on slack. If we're meeting before or after class you were sent a google calendar invite. If we're meeting DURING class, you will NOT receive a calendar invite.
-* Check-in with your accountability team and share your
-  * [research, design, prototype(s), and production](../project\_plan/) of your project.
-  * [resources and milestones](../project\_plan/)
-  * [time and project management system](../resources/creativity-resources.md)
+* Individual Meetings.&#x20;
+* Check-in with your A-Team and share your
+  * [research and design](../project\_plan/)
+  * [project management](../website.md)
