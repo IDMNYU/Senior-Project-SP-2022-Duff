@@ -10,13 +10,13 @@ _**“If you put off everything ‘till you’re sure of it, you’ll get nothin
 _**"We thrive when we stay on our own leading edge."**_ \~ Sarah Lewis\
 from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p. 20).
 
-| PROFESSOR        |                                                                                         | COURSE INFO      |             |
-| ---------------- | --------------------------------------------------------------------------------------- | ---------------- | ----------- |
-| **Name**         | De Angela L. Duff                                                                       | **Term & Year**  | Spring 2022 |
-| **Email**        | deangela.duff@nyu.edu                                                                   | **Meeting Day**  | Mondays     |
-| ****             |                                                                                         | **Meeting Time** | 2:00-3:50pm |
-| **Office**       | Zoom                                                                                    | **Location**     | 370 Jay     |
-| **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3           |
+| PROFESSOR                |                                                                          | COURSE INFO      |                 |
+| ------------------------ | ------------------------------------------------------------------------ | ---------------- | --------------- |
+| **Name**                 | De Angela L. Duff                                                        | **Term & Year**  | Spring 2022     |
+| **Email**                | deangela.duff@nyu.edu                                                    | **Meeting Day**  | Mondays         |
+| ****                     |                                                                          | **Meeting Time** | 2:00-3:50pm     |
+| **Office**               | Zoom                                                                     | **Location**     | 370 Jay, Rm 307 |
+| **Virtual Office Hours** | by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3               |
 
 ## **Course Website**
 
@@ -170,7 +170,7 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 * 42.5% End of Semester Documentation and Deliverables
   * 10% [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md)&#x20;
   * 7.5% [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
-  * 5.0% Career Culture Roadmap
+  * 5.0% [Career Culture Roadmap](end\_of\_semester\_deliverables/pdf\_or\_book.md)
   * 2.5% [Final Self-assessment](end\_of\_semester\_deliverables/final\_self\_assessment.md)
   * 2.5% [Letter To Next Cohort](end\_of\_semester\_deliverables/letter\_to\_next\_cohort.md)
   * 2.5% [Midterm Self Assessment](end\_of\_semester\_deliverables/midterm\_self\_assessment.md)
