@@ -9,7 +9,7 @@
 ## Class
 
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
-* Discuss letters from a previous cohort
+*
 * (if time) project and time management
 
 ## Recommendations
