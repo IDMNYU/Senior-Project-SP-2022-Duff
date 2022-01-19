@@ -9,7 +9,10 @@
 
 ## Class
 
-* One on Ones / Accountability Teams.&#x20;
+* Individual Meetings.&#x20;
+* Check-in with your A-Team and share your
+  * [research and design](../project\_plan/)
+  * [project management](../website.md)
 
 ## Recommendations
 
