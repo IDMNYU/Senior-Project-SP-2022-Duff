@@ -53,5 +53,5 @@
 ## Resources
 
 * [Creativity Resources](resources/creativity-resources.md)
-* [Time & Project Management](resources/personal\_kanban.md)
+* [Time Management](resources/personal\_kanban.md)
 * [Career Preparation Resources](resources/recommended\_resources.md)
