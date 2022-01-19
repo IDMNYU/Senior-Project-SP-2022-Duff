@@ -114,6 +114,8 @@ _Note: There are_ [_response guidelines outlined here_](assignments/responses.md
 * Prepare your [project plan](project\_plan/) on this shared board for the entire class on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/). Navigate to the frame labeled with your name.&#x20;
 * Be prepared to discuss your project plan on the 1st day of class. Everybody should be ready to present on the first day of class.&#x20;
 * You will have an opportunity to iterate it. So do the best you can for this first iteration.
+* _Don't stress out about this. Explore and have fun!_&#x20;
+* (OPTIONAL) [Brainstorm](brainstorming/) if you need to before you populate your project plan.
 
 </details>
 
