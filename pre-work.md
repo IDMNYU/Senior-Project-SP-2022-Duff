@@ -18,7 +18,7 @@ You must use your NYU email to [see the survey](https://forms.gle/uZZ54MfA2tR91K
 
 [Join our shared slack workspace](https://join.slack.com/t/idmseniorproj-krn6847/signup.) [https://idmspsp2022.slack.com](https://idmspsp2022.slack.com) with the other sections of IDM Senior Project with your nyu.edu email address.&#x20;
 
-* **Join our class section channel (#duff)**.&#x20;
+* **Join our specific class section channel (#duff),** as well as
 * The **#studentlounge** is where you can interact with students from all four sections.
 * The **#announcements** channel is where you will find announcements that apply to all four sections.
 
@@ -47,7 +47,9 @@ Populate a calendar (google, iCal, or analog) with due dates for this class, eve
 
 <summary>5 Create a Senior Project Google Drive Folder</summary>
 
-Create a google drive folder labeled "Senior Project SP22 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP22 De Angela Duff).
+Create a google drive folder labeled "Senior Project SP22 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP22 De Angela Duff). Bookmark it! \
+\
+I highly recommend using [Toby for Chrome](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en) and [Toby Mini](https://chrome.google.com/webstore/detail/toby-mini/gfdcgfhkelkdmglklfbndgopaihmoeci?hl=en). You can organize your browser tabs in collections and with one click re-open multiple tabs at once.
 
 </details>
 
