@@ -1,4 +1,4 @@
-# Week 13 Detail May 3
+# Week 13 Detail May 2
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -10,18 +10,8 @@
 ## Class
 
 * 1-min video reviews & class critique
-  * Justin
-  * Ibtida
-  * Morgan
-  * Chico
-  * Curtis
-  * Any revisions from last week?
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) of [Beta Version](../project\_plan/project\_versions.md) or Revision (if applicable)
-  * Ibtida
-  * Chico
-  * Vanda
+* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) or Revision (if applicable)
 * Discuss:&#x20;
-  * [Master Schedule](./)
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
   * [End of Semester Deliverables](../end\_of\_semester\_deliverables/)
   * [Course Evaluation](../assignments/course\_evaluation.md)
