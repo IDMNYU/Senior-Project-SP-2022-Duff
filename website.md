@@ -60,7 +60,6 @@ I've gone back and forth between the first three. I'm currently using The Produc
 ## What your project management platform should contain?
 
 * Daily/Weekly senior project process & progress (AKA what have you done today or this week?)&#x20;
-* at least, 1 post per week DUE by or before noon on Mondays. If it is not posted by noon, you will not receive credit for this week.
 * Make sure to use tags so that you can group certain kinds of info.
   * [Milestones / tasks](resources/personal\_kanban.md) that have been completed (either transcribed or linked from your personal kanban or a screenshot or photo).
   * Include who or what was involved.
