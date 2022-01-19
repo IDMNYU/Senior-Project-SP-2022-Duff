@@ -2,37 +2,14 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-* Read [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk) (if you didn't last week).
-  * Write a [response](../assignments/responses.md) to 1 or more of the letters from the previous cohort and post it in the #duff slack channel. Did you notice any trends? What are 1 to 3 key takeaways for you? What advice will you take to heart? I'm sure different letters will resonate with different students. Make sure you read as many as you can.
-* **Miro board** (link pinned in #duff slack channel. Also emailed you access.)&#x20;
-  *
-* Feel free to edit YOUR Miro column
-  * Feel free to change the color of your post-its in YOUR Miro column.
-    * (if applicable) Refine your **creative mantra, mission, or manifesto**. How or why you create?
-    * (if applicable) Refine your **concept / theme**. What is your senior project about
-    * (if applicable) Refine your **primary audience**.&#x20;
-      * If yours is blank, that means you need to refine your primary audience.
-      * (if applicable) Needs to be specific. Can't be Everyone.&#x20;
-      * (if applicable) Age range and characteristic of that age range. (i.e. 15-20 who ...)&#x20;
-    * Refine or Iterate your **elevator pitch by** combining concept, audience, and medium in a short phrase or sentence.
-    * (if applicable) Revise your **delivery medium**
-      * If you are not actually building an app or website make sure you write UI/UX for app or website.
-    * Add a list of the **tools** you'll use to create your project
-* After looking at the Miro board, look at the [pecha kucha presentations](https://docs.google.com/document/d/1heIWOJUxQf3SznwbfG87WPuZw6iBFCSSI6UuPsSw2kA/edit) of 4 to 6 classmates you might be interested in being on an [accountability team](../assignments/accountability\_partner.md) (aka A-team) with.&#x20;
-  * **Direct message De Angela 2 to 4 names of the classmates you'd like to be on an A-team with.**&#x20;
-* After looking at their [pecha kucha presentations](../critiques-demos-presentations-and-exhibition/pecha\_kucha.md):
-  * Add a comment to at least 3 of your classmates' Miro board columns with suggestions for their elevator pitch by combining concept, audience, and medium in a short phrase or sentence.
-  * If you have any additional suggestions or questions for your classmates, leave them additional comments on the Miro board.
+*
 * [Research and design](../project\_plan/) your project.
 * Document your process and project, which includes your [research and design](../project\_plan/), on your [process website](../website.md).
 
 ## Class
 
-* Class discussion:&#x20;
-  * Turn on EMAIL notifications for our slack workspace. [ https://slack.com/help/articles/360025446073-Guide-to-Slack-notifications#email-notifications ](https://slack.com/help/articles/360025446073-Guide-to-Slack-notifications#email-notifications)
-  * [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)
-  * Miro Board (link pinned in #duff slack channel. Also emailed you the link.)
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
+* Discuss letters from a previous cohort
 * (if time) project and time management
 
 ## Recommendations

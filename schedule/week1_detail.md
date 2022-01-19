@@ -1,16 +1,10 @@
 # Week 1 Detail Jan 24
 
-<details>
-
-<summary>Deliverables (DUE ON DATE LISTED)</summary>
+## Deliverables (DUE ON DATE LISTED)
 
 * Do [pre-work](../pre-work.md) DUE on first day of class.
 
-</details>
-
-<details>
-
-<summary>Class</summary>
+## Class
 
 * Intros to one another
 * Discuss Monday sections
@@ -23,8 +17,6 @@
 * Review Miro
 * Review [Project Plans](../project\_plan/)
 * Discuss Readings
-
-</details>
 
 
 
