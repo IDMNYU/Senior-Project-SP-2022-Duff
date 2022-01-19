@@ -19,10 +19,14 @@ You must use your NYU email to [see the survey](https://forms.gle/uZZ54MfA2tR91K
 [Join our shared slack workspace](https://join.slack.com/t/idmseniorproj-krn6847/signup.) [https://idmspsp2022.slack.com](https://idmspsp2022.slack.com) with the other sections of IDM Senior Project with your nyu.edu email address.&#x20;
 
 * **Join our specific class section channel (#duff),** as well as
-* The **#studentlounge** is where you can interact with students from all four sections.
-* The **#announcements** channel is where you will find announcements that apply to all four sections.
+* The **#student-lounge** is where you can interact with students from all six sections.
+* The **#announcements-for-all-monday-section**s channel is where you will find announcements that apply to all four sections on Mondays.
 
-Our slack workspace is not just for me. It's for you and the other senior project sections, too. Let's make it our workspace. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our class slack channel (#duff). Also share resources and references with each other. Also, interact with the students in the other sections in the #studentlounge channel. You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace.
+Our slack workspace is not just for me. It's for you and the other senior project sections, too. **Let's make Slack one of our collective workspaces! Miro will be the other.** \
+\
+Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our workspace slack channel (#student-lounge). Also share resources and references with each other. Also, interact with the students in the other sections in the #studentlounge channel. \
+\
+You can also direct message any student or faculty member from the four sections on slack. All classes are using the same slack workspace. You can also direct message more than one person at a time for group messages.
 
 </details>
 
