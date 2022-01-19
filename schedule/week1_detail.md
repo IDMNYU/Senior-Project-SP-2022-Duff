@@ -1,8 +1,12 @@
 # Week 1 Detail Jan 24
 
-## Deliverables (DUE ON DATE LISTED)
+<details>
+
+<summary>Deliverables (DUE ON DATE LISTED)</summary>
 
 * Do [pre-work](../pre-work.md) DUE on first day of class.
+
+</details>
 
 <details>
 
