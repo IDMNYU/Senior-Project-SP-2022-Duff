@@ -1,4 +1,4 @@
-# Week 9 Detail Mar 29
+# Week 9 Detail Apr 4
 
 ## Deliverables (DUE ON DATE LISTED)
 
@@ -16,5 +16,5 @@
 ## [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)&#x20;
 
 * Attendance is MANDATORY.
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) of [Alpha or Beta Version](../project\_plan/project\_versions.md) (depending on where you are in your process.)
+* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) (depending on where you are in your process.)
 
