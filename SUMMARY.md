@@ -48,10 +48,10 @@
   * [Final Self Assessment](end\_of\_semester\_deliverables/final\_self\_assessment.md)
   * [Letter to Next Cohort](end\_of\_semester\_deliverables/letter\_to\_next\_cohort.md)
 * [Design & Production Workflow (AKA Pipeline)](design-and-production-workflow.md)
-* [De Angela's 25 Teaching Tenets](teaching-tenets.md)
 
 ## Resources
 
+* [De Angela's 25 Teaching Tenets](resources/teaching-tenets.md)
 * [Creativity Resources](resources/creativity-resources.md)
 * [Time Management](resources/personal\_kanban.md)
 * [Career Preparation Resources](resources/recommended\_resources.md)
