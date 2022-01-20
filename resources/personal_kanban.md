@@ -4,6 +4,10 @@ description: Systems & Tools
 
 # Time Management
 
+> "It is wonderful how much work can be got through in a day, if we go by the rule—map out our time, divide it off, and take up one thing regularly after another. To drift through our work, or to rush through it in a helter-skelter fashion, ends in comparatively little being done. "One thing at a time" will always perform a better day's work than doing two or three things at a time. By following this rule, one person will do more in a day than another does in a week."\
+> \
+> \~Farmer **Thomas Mitchell**
+
 ![Big Things Happen 1 Day @ A Time llustration by Jolby from Get To Work Book](<../.gitbook/assets/GETTOWORKBOOK\_big things happen one day at a time (2).jpg>)
 
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
