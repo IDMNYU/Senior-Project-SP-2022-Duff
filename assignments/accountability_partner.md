@@ -24,7 +24,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 
 * Conduct a weekly review
   * Review each other's calendar(s)
-  * Review each other's [project tasks](../resources/personal\_kanban.md)
+  * Review each other's [project tasks](../website.md)
     * Are they actionable?
     * Are they complete?
   * Your team should take notes about your meeting in a google doc written collaboratively or you can rotate a notetaker position for each meeting.&#x20;
