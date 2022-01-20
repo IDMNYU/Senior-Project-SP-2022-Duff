@@ -1,5 +1,9 @@
 # Project Management
 
+> "There is no formula for success—you just begin and then you continue. I’m often asked how to have a career in stand-up and the answer is confoundingly simple: Do the work. Over and over again, just do the work. After you build the courage to get onstage that first time, it’s all about repetition." \
+> \
+> \~Standup comedian **Cameron Esposito**
+
 ![Progress > Perfection Illustration by Jolby from Get To Work Book.](<.gitbook/assets/GETTOWORKBOOK\_progress perfection (1).jpg>)
 
 Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
