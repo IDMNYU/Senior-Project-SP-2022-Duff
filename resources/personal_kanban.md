@@ -54,6 +54,7 @@ _Getting Things Done_ (GTD) is more complicated but I use a lot of the technique
 
 _Personal Kanban_
 
+* [Personal Kanban 101](https://www.personalkanban.com/personal-kanban-101)
 * [Personal Kanban: Mapping Work | Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr\_1\_1?s=books\&ie=UTF8\&qid=1358043876\&sr=1-1\&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry&#x20;
 
 _Pomodoro Technique_
@@ -71,6 +72,10 @@ _The Now Habit_
 
 * [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr\_1\_1?ie=UTF8\&qid=1420844824\&sr=8-1\&keywords=neil+fiore) by Neil Fiore
 * [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
+
+_The One Thing_
+
+* [The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results-ebook/dp/B00C1BHQXK/ref=sr\_1\_1?crid=17LG9C1J4D28U\&keywords=the+one+thing\&qid=1642699471\&sprefix=the+one+thing%2Caps%2C73\&sr=8-1) __ by Gary Keller and Jay Papasan&#x20;
 
 _The Power of Full Engagement_
 
