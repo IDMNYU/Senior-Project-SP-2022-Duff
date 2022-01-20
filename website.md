@@ -1,6 +1,6 @@
 # Project Management
 
-> "There is no formula for success—you just begin and then you continue. I’m often asked how to have a career in stand-up and the answer is confoundingly simple: Do the work. Over and over again, just do the work. After you build the courage to get onstage that first time, it’s all about repetition." \
+> "There is no formula for success—you just begin and then you continue. I’m often asked how to have a career in stand-up and the answer is confoundingly simple: **Do the work. Over and over again, just do the work.** After you build the courage to get onstage that first time, **it’s all about repetition.**" \
 > \
 > \~Standup comedian **Cameron Esposito**
 
