@@ -111,6 +111,10 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 **Class and A-Team** [**Critiques**](critiques-demos-presentations-and-exhibition/critiques.md)****
 
+## IDM Equipment Room
+
+Senior project students have access to all IDM labs and equipment to support their projects. Students will still need to complete the appropriate lab training and provide proof of insurance when borrowing equipment. Information about each lab can be found at [wp.nyu.edu/idmtech](http://wp.nyu.edu/idmtech).
+
 ## Communicating With The Professor Outside Of Class
 
 * Direct message the professor on Slack about logistics (when, where, how many?) ONLY.
