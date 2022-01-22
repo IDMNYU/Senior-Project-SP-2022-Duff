@@ -125,6 +125,7 @@ Senior project students have access to all IDM labs and equipment to support the
 * Schedule your time (keep a calendar of some sort).
 * Come to class, individual meetings, and special events on time.
 * Participate in class critiques and discussions. Be vocal.
+* **When your classmates are presenting, please be present and engaged.**
 * Consult slack at least once a week for up-to-date info.
 * **Back up your work constantly**.
 * Complete all deliverables by their due dates.
@@ -199,12 +200,6 @@ Each student will be judged on the iteration & improvement (process), craft & co
 *   **F Unacceptable**
 
     Process, execution, documentation & presentation, and attendance of the student have been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
-
-## Technology Use In The Classroom
-
-Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc.&#x20;
-
-**When your classmates are presenting, please be present and engaged.**
 
 ## Academic Honesty
 
