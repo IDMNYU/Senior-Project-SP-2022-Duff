@@ -2,13 +2,13 @@
 
 When reading [_Getting Real_](https://basecamp.com/books/getting-real) __ by Basecamp replace the words "software or application" with your project medium unless you are designing and developing an app.
 
-Chapter 9: [Start Your Engines](https://basecamp.com/gettingreal/16.1-start-your-engines) (< 2 min)
+<mark style="background-color:yellow;">**Chapter 91:**</mark> [<mark style="background-color:yellow;">**Start Your Engines**</mark>](https://basecamp.com/gettingreal/16.1-start-your-engines) <mark style="background-color:yellow;">**(< 2 min)**</mark>
 
 * Chapter 5: [What's Your Problem? Build {or create} {X} For Yourself](https://basecamp.com/gettingreal/02.2-whats-your-problem) (< 2 min)
 * Chapter 9: [It Shouldn't Be A Chore](https://basecamp.com/gettingreal/02.6-it-shouldnt-be-a-chore) (< 1 min)
 * Chapter 13: [Embrace Constraints](https://basecamp.com/gettingreal/03.4-embrace-constraints) (< 1 min)
 * Chapter 9: [Have An Enemy: Pick A Fight](https://basecamp.com/gettingreal/02.5-have-an-enemy) (< 3 min)
-* Chapter 15: [Wnat's The Big Idea](https://basecamp.com/gettingreal/04.1-whats-the-big-idea)? (< 2 min)
+* Chapter 15: [What's The Big Idea](https://basecamp.com/gettingreal/04.1-whats-the-big-idea)? (< 2 min)
 * Chapter 16: [<mark style="background-color:yellow;">Ignore Details Early On</mark>](getting-real-readings.md#dm-uy-4003-a-senior-project-in-digital-media) (< 1 min)
 * Chapter 30: [Rinse and Repeat](https://basecamp.com/gettingreal/06.2-rinse-and-repeat) (< 2min)
 * Chapter 31: [From Idea to Implementation](https://basecamp.com/gettingreal/06.3-from-idea-to-implementation) (< 2 min)
