@@ -11,6 +11,7 @@
 * Review what is senior project section in [syllabus](../syllabus.md)?
 * Discuss [schedule](./)
 * Quick overview of Slack. Discuss why?
+* Review [Creativity Resources](../brainstorming/creativity-resources.md)
 * [Project Management](../website.md)
 * Review [next week deliverables](week2\_detail.md)
 * Review Miro
