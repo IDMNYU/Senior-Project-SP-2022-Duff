@@ -13,7 +13,7 @@
     S - _Should have_ project features\
     C - _Could have_ project features\
     W - _Won't have project feature_
-* Begin to populate your [project management](../website.md) platform.&#x20;
+* Begin to populate your [project management](../website.md) platform. Direct message deangela on slack the URL to access it unless it's analog. If it's analog take photos of the pages in your planner and add it to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**.
 * After reviewing your classmate's project plans, direct message **deangela** on Slack 3 choices for members of your A-team by or before **Monday at 10am**.
 
 ## Class
