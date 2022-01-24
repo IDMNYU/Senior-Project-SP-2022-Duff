@@ -18,7 +18,6 @@
 
 ## Class
 
-* Discuss letters from a previous cohort
 * Review [Project Plan](../project\_plan/) Iterations&#x20;
 * Discuss project scopes.
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
