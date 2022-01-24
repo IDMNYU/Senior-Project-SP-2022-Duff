@@ -8,11 +8,11 @@
 
 * Intros to one another
 * Discuss Monday sections
-* Review what is senior project?
-* Quick overview of Slack
-* Time & Project Management
-* Teaching Tenets
-* Iteration
+* Review what is senior project section in [syllabus](../syllabus.md)?
+* Quick overview of Slack. Discuss why?
+* Time Management
+* [Project Management](../website.md)
+* Review [Teaching Tenets](../resources/teaching-tenets.md)
 * Review next week deliverables
 * Review Miro
 * Review [Project Plans](../project\_plan/)
