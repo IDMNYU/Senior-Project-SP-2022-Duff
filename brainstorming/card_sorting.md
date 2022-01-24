@@ -1,4 +1,4 @@
-# Card Sorting
+# ♣ Card Sorting
 
 _Co-opted from Dana Karwas' Pre-Thesis Syllabus_
 
