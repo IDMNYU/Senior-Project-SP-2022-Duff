@@ -23,6 +23,7 @@
   * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)
   * [SCAMPER](brainstorming/scamper.md)
   * [Card Sorting](brainstorming/card\_sorting.md)
+  * [Engage with Creativity Resources](brainstorming/engage-with-creativity-resources.md)
   * [Storytelling Exercise](brainstorming/storytelling\_exercise.md)
 * [Project Plan](project\_plan/README.md)
   * [Project Versions](project\_plan/project\_versions.md)
