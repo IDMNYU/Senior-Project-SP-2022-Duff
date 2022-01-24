@@ -9,6 +9,7 @@
 * Intros to one another
 * Discuss Monday sections
 * Review what is senior project section in [syllabus](../syllabus.md)?
+* Discuss [schedule](./)
 * Quick overview of Slack. Discuss why?
 * Time Management
 * [Project Management](../website.md)
