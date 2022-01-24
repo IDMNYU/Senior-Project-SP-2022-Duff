@@ -12,16 +12,19 @@
     M - _Must have_ project features\
     S - _Should have_ project features\
     C - _Could have_ project features\
-    W - _Won't have project feature_
-* Begin to populate your [project management](../website.md) platform. Direct message deangela on slack the URL to access it unless it's analog. If it's analog take photos of the pages in your planner and add it to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**.
+    W - _Won't have project features_
+* Begin to populate your [project management](../website.md) platform.&#x20;
+* Direct message deangela on slack the URL to access your project management platform unless it's analog. If it's analog, take photos of the pages in your planner and add it to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**.
 * After reviewing your classmate's project plans, direct message **deangela** on Slack 3 choices for members of your[ A-team](../assignments/accountability\_partner.md) by or before **Monday at 10am**.
 
 ## Class
 
+* Discuss Why Slack?
+* Discuss busy vs productive below
 * Review [Project Plan](../project\_plan/) Iterations&#x20;
 * Discuss project scopes.
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
-* IF time discuss busy vs productive
+* IF time discuss reading responses: _Keep Going_ and _Getting Real_
 
 <details>
 

@@ -11,10 +11,13 @@
 * Review what is senior project section in [syllabus](../syllabus.md)?
 * Discuss [schedule](./)
 * Quick overview of Slack. Discuss why?
+* Time Management
 * [Project Management](../website.md)
-* Review [next week deliverables](week2\_detail.md)
+* Review [Teaching Tenets](../resources/teaching-tenets.md)
+* Review next week deliverables
 * Review Miro
 * Review [Project Plans](../project\_plan/)
+* Discuss Readings
 
 
 
