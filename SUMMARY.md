@@ -54,5 +54,6 @@
 
 * [De Angela's 25 Teaching Tenets](resources/teaching-tenets.md)
 * [Creativity Resources](resources/creativity-resources.md)
+* [Research Diet](resources/research-diet.md)
 * [Time Management](resources/personal\_kanban.md)
 * [Career Preparation Resources](resources/recommended\_resources.md)
