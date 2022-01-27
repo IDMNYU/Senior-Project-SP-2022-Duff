@@ -8,7 +8,7 @@
 
 Please add your name and the URL of your progress and process platforms to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same.
 
-You should have a **dedicated**, project management platform for your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others using their project management platform.
+You should have a **dedicated**, project management platform(s) for your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others, particularly their [A-Team](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit), using their project management platform(s).
 
 ## Scope
 
@@ -42,29 +42,6 @@ Another popular method is [Getting Things Done](https://gettingthingsdone.com/wh
 
 _I personally use a combination of both._
 
-__
-
-## Recommended Visible Project Mgt. Systems
-
-The most highly recommended planner or journal by students is the __ [**Bullet Journal**](https://bulletjournal.com)**.** It's a system. You only need to use a pen and paper or a digital tablet to engage. In other words, there's no journal to buy.
-
-I recommend having an **analog or digital personal kanban** using [Asana](https://asana.com) (There's a free version of Asana.), [Trello](https://trello.com), or [Kanbanery](https://kanbanery.com). The analog method is having post-it notes on a wall or mini ones in a notebook (so you can move them around)_._
-
-_Others are_ [_Milanote_](https://milanote.com)_,_ [_Notion_](https://www.notion.so)_,_ [_Basecamp_](http://basecamp.com)_, or Google Docs/Google Sheets._
-
-I personally use a combination of an analog and digital system!&#x20;
-
-## Recommended Planners
-
-I've gone back and forth between the first three. I'm currently using The Productivity Planner in conjunction with Asana. Planners are personal. You have to figure out what works for you, and as you grow as a professional, your planner needs may change.&#x20;
-
-**Planners**
-
-* [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) _(physical or digital; I use the digital version of this one on a digital tablet.)_
-* [Gettoworkbook.com](https://www.gettoworkbook.com/photos)&#x20;
-* [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
-* [Unbound Planner](https://unboundplanner.com/collections/frontpage) _(physical or digital)_
-
 ## What your project management platform should contain?
 
 Daily/Weekly senior project process & progress (AKA what have you done today or this week?)&#x20;
@@ -88,5 +65,24 @@ Daily/Weekly senior project process & progress (AKA what have you done today or 
 Asana Overview
 {% endembed %}
 
+## Recommended Visible Project Mgt. Systems
 
+The most highly recommended planner or journal by students is the __ [**Bullet Journal**](https://bulletjournal.com)**.** It's a system. You only need to use a pen and paper or a digital tablet to engage. In other words, there's no journal to buy.
+
+I recommend having an **analog or digital personal kanban** using [Asana](https://asana.com) (There's a free version of Asana.), [Trello](https://trello.com), or [Kanbanery](https://kanbanery.com). The analog method is having post-it notes on a wall or mini ones in a notebook (so you can move them around)_._
+
+_Others are_ [_Milanote_](https://milanote.com)_,_ [_Notion_](https://www.notion.so)_,_ [_Basecamp_](http://basecamp.com)_, or Google Docs/Google Sheets._
+
+I personally use a combination of an analog and digital system!&#x20;
+
+## Recommended Planners
+
+I've gone back and forth between the first three. I'm currently using The Productivity Planner in conjunction with Asana. Planners are personal. You have to figure out what works for you, and as you grow as a professional, your planner needs may change.&#x20;
+
+**Planners**
+
+* [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) _(physical or digital)_
+* [Gettoworkbook.com](https://www.gettoworkbook.com/photos)&#x20;
+* [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
+* [Unbound Planner](https://unboundplanner.com/collections/frontpage) _(physical or digital)_
 
