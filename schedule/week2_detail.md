@@ -4,10 +4,11 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
+* Complete last week's [pre-work](../pre-work.md) if you haven't before you move forward with the following.
 * Read the assigned, selected chapters from [_Getting Real_](../assignments/getting-real-readings.md).&#x20;
 * Write a [response](../assignments/responses.md) to the 3 chapters that resonate with you the most.
 * Populate or Iterate your [project plan](../assignments/project\_plan/).
-*   The scope of your project is key. Hone in on the scope of your project using the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW\_method)**.** Create a google doc in your senior project folder and brainstorm the following:
+*   The scope of your project is key. Hone in on the scope of your project by using the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW\_method)**.** Create a google doc in your senior project folder and brainstorm the following or put it in your [project management](../assignments/website.md) platform:
 
     M - _Must have_ project features\
     S - _Should have_ project features\
@@ -19,7 +20,7 @@
 
 ## Class
 
-* After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu). The Student Advocate center will contact me to excuse your absence from in-person class. I will then have the zoom room available for you.
+* After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu). The Student Advocate center will contact me to excuse your absence from an in-person class. I will then have the zoom room available for you and only then.
 * Discuss Why Slack?
 * Continue to discuss [Creativity Resources](../resources/creativity-resources.md)
 * Discuss busy vs productive below
