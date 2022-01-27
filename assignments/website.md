@@ -6,7 +6,7 @@
 
 ![Progress > Perfection Illustration by Jolby from Get To Work Book.](<../.gitbook/assets/GETTOWORKBOOK\_progress perfection (1).jpg>)
 
-Please add your name and the URL of your progress and process platforms to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same.
+Please add your URL of your progress and process project management platform(s) to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same.
 
 You should have a **dedicated**, project management platform(s) for your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others, particularly their [A-Team](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit), using their project management platform(s).
 
