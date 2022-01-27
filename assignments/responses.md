@@ -1,6 +1,6 @@
 # Responses
 
-After interacting with a reading, audio, video, or exhibition, post a short response in our class slack channel (#duff) about what resonated with you the most. Do not summarize—in other words, do not regurgitate. Rather, you should discuss:
+After interacting with a reading, audio, video, or exhibition, post a short response in our class slack channel (#duff) about what resonated with you the most. Do not summarize—in other words, do not regurgitate. Rather, you should add or discuss:
 
 * Include a link to the URL (if applicable) within your post.
 * any epiphanies or insights that occurred to you.&#x20;
