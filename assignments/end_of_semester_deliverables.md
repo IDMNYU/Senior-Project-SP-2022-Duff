@@ -9,12 +9,12 @@ Over the course of the semester, you should upload the corresponding files and f
 NEW:
 
 * [Project Documentation](project\_documentation.md) folder
-* [Final Self-assessment](final\_self\_assessment.md) pdf
+* [Final Self-assessment](assessments/final\_self\_assessment.md) pdf
 * [Letter To Next Cohort](letter\_to\_next\_cohort.md) file&#x20;
 
 OLD: You should already have the following. Just drag and drop in the folder if you haven't already.
 
 * [Pro Practices Revisions](pro\_practices\_revisions.md): sample cover letter and resume
-* [Midterm Self-assessment](midterm\_self\_assessment.md) pdf
+* [Midterm Self-assessment](assessments/midterm\_self\_assessment.md) pdf
 * [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) (if applicable)
 

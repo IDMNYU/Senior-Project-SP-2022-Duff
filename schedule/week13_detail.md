@@ -13,5 +13,5 @@
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) or Revision (if applicable)
 * Discuss:&#x20;
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
-  * [End of Semester Deliverables](../end\_of\_semester\_deliverables/)
+  * [End of Semester Deliverables](../assignments/end\_of\_semester\_deliverables.md)
   * [Course Evaluation](../assignments/course\_evaluation.md)

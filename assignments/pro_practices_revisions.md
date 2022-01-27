@@ -2,7 +2,7 @@
 
 > Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. \~James Clear
 
-Iterate the following from professional practices and post your portfolio website and LinkedIn URLs in this [google doc](https://docs.google.com/document/d/1FHlnCKXaInzMAVFWvkfBR12Om-9O3dCZDGaAQi9AnqQ/edit):
+Iterate the following from professional practices and post your portfolio website and LinkedIn URLs in this [google doc](https://docs.google.com/document/d/1iJoFLH9y-w9jscuUc28czWLJbQt17WDAALdPPIITOOo/edit?usp=sharing):
 
 <details>
 
@@ -22,7 +22,7 @@ Make sure you connect with me, your peers in this section of senior project, the
 
 </details>
 
-Iterate and export the following as pdfs and upload them to your project documentation folder for your [end of semester deliverables](./) in a folder named **Pro Practices Revisions**.
+Iterate and export the following as pdfs and upload them to your project documentation folder for your [end of semester deliverables](end\_of\_semester\_deliverables.md) in a folder named **Pro Practices Revisions**.
 
 Please name your files as:&#x20;
 

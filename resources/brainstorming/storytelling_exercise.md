@@ -6,7 +6,7 @@
 * Create a [pecha kucha presentation](../../critiques-demos-presentations-and-exhibition/pecha\_kucha.md) using 1 of the 2 prompts below.
 * Record audio by recording through zoom or write notes for each image in the notes section of google notes.
 * Export as a pdf with notes (if you do not want to include audio) or download video if you include audio.&#x20;
-* Upload to your project documentation folder for your [end of semester deliverables](../../end\_of\_semester\_deliverables/).
+* Upload to your project documentation folder for your [end of semester deliverables](../../assignments/end\_of\_semester\_deliverables.md).
 
 Select 20 images that create a visual story about your project idea (no text). One image per screen. Be prepared to talk **briefly** about each image you select (20 seconds goes by fast).
 

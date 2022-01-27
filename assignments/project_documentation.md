@@ -25,7 +25,7 @@ Video and/or audio documentation (varies by student)
 
 <summary>In your Senior Project Google Drive Folder</summary>
 
-Upload to a folder labeled "Project Documentation" for your [end of semester deliverables](./).
+Upload to a folder labeled "Project Documentation" for your [end of semester deliverables](end\_of\_semester\_deliverables.md).
 
 Image documentation (for all students)
 

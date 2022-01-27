@@ -146,7 +146,7 @@ Senior project students have access to all IDM labs and equipment to support the
 
 ## Self Assessments
 
-Students will conduct **self-assessments** as well as be evaluated by the professor at [midterm](end\_of\_semester\_deliverables/midterm\_self\_assessment.md) and at the [end of the semester](end\_of\_semester\_deliverables/final\_self\_assessment.md).
+Students will conduct **self-assessments** as well as be evaluated by the professor at [midterm](assignments/assessments/midterm\_self\_assessment.md) and at the [end of the semester](assignments/assessments/final\_self\_assessment.md).
 
 Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
@@ -173,12 +173,12 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
   * 05% [Project Plan and its revisions](assignments/project\_plan/)
   * 15% [Project Demos ](critiques-demos-presentations-and-exhibition/project\_demo.md)/ [Project Development](assignments/project\_plan/project\_versions.md)
 * 42.5% End of Semester Documentation and Deliverables
-  * 10% [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md)&#x20;
-  * 7.5% [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
-  * 5.0% [Career Culture Roadmap](end\_of\_semester\_deliverables/pdf\_or\_book.md)
-  * 2.5% [Final Self-assessment](end\_of\_semester\_deliverables/final\_self\_assessment.md)
-  * 2.5% [Letter To Next Cohort](end\_of\_semester\_deliverables/letter\_to\_next\_cohort.md)
-  * 2.5% [Midterm Self Assessment](end\_of\_semester\_deliverables/midterm\_self\_assessment.md)
+  * 10% [Project Documentation](assignments/project\_documentation.md)&#x20;
+  * 7.5% [Pro Practices Revisions](assignments/pro\_practices\_revisions.md)
+  * 5.0% [Career Culture Roadmap](assignments/pdf\_or\_book.md)
+  * 2.5% [Final Self-assessment](assignments/assessments/final\_self\_assessment.md)
+  * 2.5% [Letter To Next Cohort](assignments/letter\_to\_next\_cohort.md)
+  * 2.5% [Midterm Self Assessment](assignments/assessments/midterm\_self\_assessment.md)
   * 2.5% [Course Evaluation](assignments/course\_evaluation.md)
 
 **Qualitative Grading Overview**
