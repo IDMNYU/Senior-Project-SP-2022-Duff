@@ -1,6 +1,6 @@
 # Free Writing, Word Lists & Mind Maps
 
-![Every One Starts At Zero Illustration by Jolby from Gettoworkbook](<../.gitbook/assets/GETTOWORKBOOK\_everyone\_starts\_at zero.jpg>)
+![Every One Starts At Zero Illustration by Jolby from Gettoworkbook](<../../.gitbook/assets/GETTOWORKBOOK\_everyone\_starts\_at zero.jpg>)
 
 **Freewriting** is similar to journal writing but it focuses on a specific idea or question instead of writing about general thoughts and feelings.
 
@@ -18,4 +18,4 @@ For more info, read:
 * [https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/idea-mapweb](https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/idea-mapweb)&#x20;
 * [https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811](https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)
 
-![Andy Hunt mind map from the book Pragmatic: Thinking and Learning](<../.gitbook/assets/Andy Hunt MindMap.png>)
+![Andy Hunt mind map from the book Pragmatic: Thinking and Learning](<../../.gitbook/assets/Andy Hunt MindMap.png>)

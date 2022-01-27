@@ -164,14 +164,14 @@ Real learning only occurs as part of a reflective process. Reflection is studyin
 **Quantitative Grading Overview**
 
 * 7.5% [Responses](assignments/responses.md)
-* 15% [Project Management](website.md)
+* 15% [Project Management](assignments/website.md)
 * 15% Critiques, Demos, Presentations & Exhibition
   * 05% [Project Presentation](critiques-demos-presentations-and-exhibition/project-presentation.md)
   * 05% [Midterm Demo](critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md)
 * 20% Final Project
-  * 05% [Project Plan and its revisions](project\_plan/)
-  * 15% [Project Demos ](critiques-demos-presentations-and-exhibition/project\_demo.md)/ [Project Development](project\_plan/project\_versions.md)
+  * 05% [Project Plan and its revisions](assignments/project\_plan/)
+  * 15% [Project Demos ](critiques-demos-presentations-and-exhibition/project\_demo.md)/ [Project Development](assignments/project\_plan/project\_versions.md)
 * 42.5% End of Semester Documentation and Deliverables
   * 10% [Project Documentation](end\_of\_semester\_deliverables/project\_documentation.md)&#x20;
   * 7.5% [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)

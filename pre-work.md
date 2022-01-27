@@ -102,13 +102,13 @@ _Note: There are_ [_response guidelines outlined here_](assignments/responses.md
 
 <summary>9 (OPTIONAL) Brainstorm Project Ideas</summary>
 
-* A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to step 10 of the pre-work: [project plan](project\_plan/). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](syllabus.md).
+* A few of you may already know what you want to do for your senior project. IF you are committed to your project, move on to step 10 of the pre-work: [project plan](assignments/project\_plan/). However, before you commit, make sure you read [**Welcome to Senior Project In Digital Media!**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#welcome-to-senior-project-in-digital-media) **AND** [**Your Commitment To Senior Project**](https://deangela.gitbook.io/idm-senior-project-sp-2021-duff/syllabus#your-commitment-to-senior-project) in the [syllabus](syllabus.md).
 *   IF you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises BEFORE you complete the project plan. i.e. Take photos and/or screenshots OR write a [response](assignments/responses.md) depending on which is applicable), and upload your brainstorming exercises to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end\_of\_semester\_deliverables/).
 
-    * [Free Writing, Word Lists & Mind Maps](brainstorming/free-writing-word-lists-and-mind-maps.md)
+    * [Free Writing, Word Lists & Mind Maps](resources/brainstorming/free-writing-word-lists-and-mind-maps.md)
     * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT\_02.htm)
-    * [Card Sorting Technique](brainstorming/card\_sorting.md)
-    * [Storytelling Exercise](brainstorming/storytelling\_exercise.md)
+    * [Card Sorting Technique](resources/brainstorming/card\_sorting.md)
+    * [Storytelling Exercise](resources/brainstorming/storytelling\_exercise.md)
     * Read or watch one or more of the [creativity resources](resources/creativity-resources.md) under "creativity" or "audio podcasts"
     * Browse one or more of the "inspiration" links in [creativity resources](resources/creativity-resources.md).
 
@@ -124,11 +124,11 @@ No worries if you are not able to populate yo
 
 ## Just Start! Think Progress/Iteration Over Perfection!&#x20;
 
-* Prepare your [project plan](project\_plan/) on this shared board for the entire class on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/). **Navigate to the frame labeled with your name**. See #6 above for Miro tutorials.
+* Prepare your [project plan](assignments/project\_plan/) on this shared board for the entire class on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/). **Navigate to the frame labeled with your name**. See #6 above for Miro tutorials.
 * Be prepared to discuss your project plan on the 1st day of class. Everybody should be ready to present on the first day of class.&#x20;
 * You will have an opportunity to iterate it. So do the best you can for this first iteration.
 * _Don't stress out about this. Explore and have fun!_&#x20;
-* (OPTIONAL) [Brainstorm](brainstorming/) if you need to before you populate your project plan.
+* (OPTIONAL) [Brainstorm](resources/brainstorming/) if you need to before you populate your project plan.
 
 </details>
 

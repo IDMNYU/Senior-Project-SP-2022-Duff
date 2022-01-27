@@ -4,7 +4,7 @@
 > \
 > \~Standup comedian **Cameron Esposito**
 
-![Progress > Perfection Illustration by Jolby from Get To Work Book.](<.gitbook/assets/GETTOWORKBOOK\_progress perfection (1).jpg>)
+![Progress > Perfection Illustration by Jolby from Get To Work Book.](<../.gitbook/assets/GETTOWORKBOOK\_progress perfection (1).jpg>)
 
 Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1Y3DCwp7kZoMx-zMVO6IMVDuD9AUpfTLV2gx7sPXTd7U/edit).
 
@@ -69,7 +69,7 @@ I've gone back and forth between the first three. I'm currently using The Produc
 
 * Daily/Weekly senior project process & progress (AKA what have you done today or this week?)&#x20;
 * Make sure to use tags so that you can group certain kinds of info.
-  * [Milestones / tasks](resources/personal\_kanban.md) that have been completed (either transcribed or linked from your personal kanban or a screenshot or photo).
+  * [Milestones / tasks](../resources/personal\_kanban.md) that have been completed (either transcribed or linked from your personal kanban or a screenshot or photo).
   * Include who or what was involved.
   * Include project progress and prototyping documentation: images, illustrations, audio, video, code, snippets of research, ANNOTATED links, etc. relevant to your thesis.&#x20;
   * Accountability partner meeting notes.

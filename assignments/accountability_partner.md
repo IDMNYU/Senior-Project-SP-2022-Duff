@@ -8,7 +8,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 
 <summary>For the first meeting</summary>
 
-* Each member of the A-Team should introduce yourself, describe your project, explain your [milestones timeline](../project\_plan/) over the semester, and what the project will look like at various stages ([project versions](../project\_plan/project\_versions.md)).&#x20;
+* Each member of the A-Team should introduce yourself, describe your project, explain your [milestones timeline](project\_plan/) over the semester, and what the project will look like at various stages ([project versions](project\_plan/project\_versions.md)).&#x20;
 * Make sure you get each other's contact info (cell phone).
 
 </details>
@@ -24,7 +24,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 
 * Conduct a weekly review
   * Review each other's calendar(s)
-  * Review each other's [project tasks](../website.md)
+  * Review each other's [project tasks](website.md)
     * Are they actionable?
     * Are they complete?
   * Your team should take notes about your meeting in a google doc written collaboratively or you can rotate a notetaker position for each meeting.&#x20;
