@@ -22,6 +22,7 @@
 
 * After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu). The Student Advocate center will contact me to excuse your absence from an in-person class. I will then have the zoom room available for you and only then.
 * Discuss Why Slack?
+* Discuss [Workflowy](https://workflowy.com) for research and process
 * Continue to discuss [Creativity Resources](../resources/creativity-resources.md)
 * Discuss busy vs productive below
 * Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
