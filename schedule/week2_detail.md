@@ -15,7 +15,7 @@
     C - _Could have_ project features\
     W - _Won't have project features_
 * Begin to populate your [project management](../assignments/website.md) platform.&#x20;
-* Direct message deangela on slack the URL to access your project management platform unless it's analog. If it's analog, take photos of the pages in your planner and add it to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**.
+* Please add the URL of your progress and process project management platform(s) to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same. If it's analog, take photos of the pages in your planner and upload them to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**.
 * After reviewing your classmate's project plans, direct message **deangela** on Slack 3 choices for members of your[ A-team](../assignments/accountability\_partner.md) by or before **Monday at 10am**.
 
 ## Class
