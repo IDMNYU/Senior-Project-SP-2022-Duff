@@ -6,7 +6,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 
 <details>
 
-<summary>Accountability Teams</summary>
+<summary>A-Teams</summary>
 
 1. Jack, Vida, and Yanxin
 2. Charitssa, Leon, and Shipon
