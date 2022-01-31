@@ -2,7 +2,7 @@
 
 **Accountability Teams (aka A-Teams)** are opportunities for you to get constructive feedback and ask questions about your senior project and provide constructive feedback to your teammates about their projects.&#x20;
 
-You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There will be one team of  people.&#x20;
+You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There will be one team of 2 people.&#x20;
 
 <details>
 
