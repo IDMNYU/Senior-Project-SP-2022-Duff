@@ -21,6 +21,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 
 * Each member of the A-Team should introduce yourself, describe your project, explain your [milestones timeline](project\_plan/) over the semester, and what the project will look like at various stages ([project versions](project\_plan/project\_versions.md)).&#x20;
 * Make sure you get each other's contact info (cell phone).
+* Make sure you share your [project management](website.md) platform with your A-Team.
 
 </details>
 
