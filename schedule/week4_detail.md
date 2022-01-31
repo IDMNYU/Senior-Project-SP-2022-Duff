@@ -11,7 +11,7 @@
 
 ## Class
 
-* [Project Teasers](../assignments/project\_plan/project\_versions.md) Due
+* [Project Plan](../assignments/project\_plan/) Reviews
 * Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan/)
   * [project management](../assignments/website.md)
