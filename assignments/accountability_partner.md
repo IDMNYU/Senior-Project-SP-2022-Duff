@@ -2,7 +2,18 @@
 
 **Accountability Teams (aka A-Teams)** are opportunities for you to get constructive feedback and ask questions about your senior project and provide constructive feedback to your teammates about their projects.&#x20;
 
-You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There will be one team of 4 people.&#x20;
+You will either volunteer for or get assigned to a team of 3 people by or during the third class after drop/add. There will be one team of  people.&#x20;
+
+<details>
+
+<summary>Accountability Teams</summary>
+
+* Jack, Vida, and Yanxin
+* Charitssa, Leon, and Shipon
+* Jasmine, Kiana, and Lillian
+* Nandita and Olivia
+
+</details>
 
 <details>
 
@@ -40,8 +51,4 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 * Provide moral support and encouragement.
 
 </details>
-
-## **Accountability Teams:**
-
-Once the accountability teams have been formed, the teams will be listed here by first name.
 
