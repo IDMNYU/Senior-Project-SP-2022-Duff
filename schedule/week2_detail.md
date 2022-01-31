@@ -15,19 +15,20 @@
     C - _Could have_ project features\
     W - _Won't have project features_
 * Begin to populate your [project management](../assignments/website.md) platform.&#x20;
-* Please add the URL of your progress and process project management platform(s) to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same. If it's analog, take photos of the pages in your planner and upload them to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**.
+* Please add the URL of your progress and process project management platform(s) to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same. If it's analog, take photos of the pages in your planner and upload them to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**. Link to your project management google drive folder to the shared google doc above.&#x20;
 * After reviewing your classmate's project plans, direct message **deangela** on Slack 3 choices for members of your[ A-team](../assignments/accountability\_partner.md) by or before **Monday at 10am**.
 
 ## Class
 
 * After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu). The Student Advocate center will contact me to excuse your absence from an in-person class. I will then have the zoom room available for you and only then.
 * Discuss Why Slack?
+* Discuss [Project Management](../assignments/website.md) Platforms, particularly analog, and why.
 * Discuss [Workflowy](https://workflowy.com) for research and process
-* Continue to discuss [Creativity Resources](../resources/creativity-resources.md)
-* Discuss busy vs productive below
-* Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
-* Review [Project Plan](../assignments/project\_plan/) Iterations&#x20;
+* Review [Project Plan](../assignments/project\_plan/) Iterations.&#x20;
 * Discuss project scopes.
+* Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
+* Continue to discuss [Creativity Resources](../resources/creativity-resources.md) (Fair Use Assets and Inspiration)
+* Discuss busy vs productive below
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
 * IF time discuss reading responses: _Keep Going_ and _Getting Real_
 
