@@ -20,6 +20,8 @@
 
 ## Class
 
+* Discuss EasyRetro Enter Tickets
+* Discuss scheduling One on Ones (7 during class, 4 before or after class)
 * After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu). The Student Advocate center will contact me to excuse your absence from an in-person class. I will then have the zoom room available for you and only then.
 * Discuss Why Slack?
 * Discuss [Project Management](../assignments/website.md) Platforms, particularly analog, and why.
