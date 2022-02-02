@@ -6,7 +6,7 @@ description: These are suggested guidelines. You don't need to follow them verba
 
 ## Video Commenting Tool
 
-* ****[**https://www.frame.io**](https://www.frame.io) **(There is a free, limited plan.)**
+* ****[**https://www.frame.io**](https://www.frame.io) **** (There is a free, limited plan.)
 
 ## **Animation / Motion Graphics / Video Workflows**&#x20;
 
