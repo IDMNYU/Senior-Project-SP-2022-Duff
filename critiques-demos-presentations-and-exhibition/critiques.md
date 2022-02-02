@@ -29,27 +29,40 @@ Engages in dialogue with the artist, with a commitment to the artist’s intent 
 
 Initiates each step, keeps the process on track, and works to help the artist and responders use the process to frame useful questions and responses.
 
-### Step 1. Statements of Meaning
+### Role 1: Artist/Maker (Student Presenting)
+
+Offers a work-in-progress for review and feels prepared to question that work in a dialogue with other people.
+
+### Role 2: Responder (Students who are currently not presenting)
+
+Engages in dialogue with the artist, with a commitment to the artist’s intent to make excellent work.
+
+### Role 3: Facilitator (Professor)
+
+Initiates each step, keeps the process on track, and works to help the artist and responders use the process to frame useful questions and responses.
+
+
+
+## Step 1. Statements of Meaning&#x20;
+
+### (What is working about the project?)
 
 Responders state what was meaningful, evocative, interesting, exciting, and/or striking in the work they have just witnessed.
 
-### Step 2. Artist as Questioner
+## Step 2. Artist as Questioner
 
 The artist asks questions about the work. In answering, responders stay on topic with the question and may express opinions in direct response to the artist’s questions.
 
-### Step 3. Neutral Questions
+## Step 3. Neutral Questions&#x20;
+
+### (What is confusing or needs more clarification about the project?)
 
 Responders ask neutral questions about the work, and the artist responds. Questions are neutral when they do not have an opinion couched in them.
 
 This step is one of the most fundamental, challenging, and misunderstood steps of Critical Response Process.
 
-### Step 4. Opinion Time
+## Step 4. Feedback Time&#x20;
 
-Responders state opinions, given permission from the artist; the artist has the option to say no.
+### (What are ways that the project can be improved? What additional references, resources, projects, and/or links would be useful for the project?)
 
-## **Guidelines for the critique:**
-
-* What is working about the project?
-* What is confusing or needs more clarification about the project?
-* What are ways that the project can be improved?
-* What additional references, resources, projects, and/or links would be useful for the project?
+Responders state feedback. (This deviates substantially from Liz Lerman's process.)
