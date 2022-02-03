@@ -1,6 +1,6 @@
 # Critiques
 
-
+> "It's better to be looked over than overlooked!" \~Mae West
 
 **Class and team critiques**
 
@@ -14,36 +14,27 @@ Review your crit notes and reflect upon what was said. Ask yourself how you coul
 
 * Be present and engaged.
 * Give feedback to your classmates.
-* Do not make assumptions. Ask questions.
-* Do your best.
-* **Do NOT take feedback personally.** Remember critiques are about your work, not you. They are about making your work better.
-* Be impeccable with your word.
+* **Do your best.**
+* **Do not make assumptions**. Ask questions.
+* Critique the work, not the creator.
+* **Do NOT take feedback personally.** Remember critiques are about your work, not you. They are about making your work better.&#x20;
+* **Be impeccable with your word.** Don’t just give a value judgment like “good” or “bad.” Give constructive feedback. Be specific and say why. \
+  \
+  Remember that critiques are about helping the creator to move their project forward or get unstuck. Think about the utility of your feedback. Positive feedback isn’t helpful or useful to the creator if it's only one descriptive word. What does "good" or "bad" actually mean? How can you use either to move your project forward? You can't. Specificity is key.
 
-## ****[**Liz Lerman's Critical Response Process**](https://lizlerman.com/critical-response-process/) ****&#x20;
+## ****[**Liz Lerman's Critical Response Process**](https://lizlerman.com/critical-response-process/) **(Modified)**
 
-### Role 1: Artist/Maker
-
-Offers a work-in-progress for review and feels prepared to question that work in a dialogue with other people.
-
-### Role 2: Responder
-
-Engages in dialogue with the artist, with a commitment to the artist’s intent to make excellent work.
-
-### Role 3: Facilitator
-
-Initiates each step, keeps the process on track, and works to help the artist and responders use the process to frame useful questions and responses.
-
-### Role 1: Artist/Maker (Student Presenting)
+### Role 1: Creator (Student Presenting)
 
 Offers a work-in-progress for review and feels prepared to question that work in a dialogue with other people.
 
-### Role 2: Responder (Students who are currently not presenting)
+### Role 2: Critic (Students who are providing feedback to the student presenting.)
 
-Engages in dialogue with the artist, with a commitment to the artist’s intent to make excellent work.
+Engages in dialogue with the creator with a commitment to the artist’s intent to make excellent work.
 
 ### Role 3: Facilitator (Professor)
 
-Initiates each step, keeps the process on track, and works to help the artist and responders use the process to frame useful questions and responses.
+Initiates each step, keeps the process on track, and works to help the creator and critics use the process to frame useful questions and responses.
 
 
 
@@ -51,25 +42,35 @@ Initiates each step, keeps the process on track, and works to help the artist an
 
 ### (What is working about the project?)
 
-Responders state what was meaningful, evocative, interesting, exciting, and/or striking in the work they have just witnessed.
+Critics state what was meaningful, evocative, interesting, exciting, and/or striking in the work they have just experienced.
 
-## Step 2. Artist as Questioner
+## Step 2. Creator as Questioner
 
-The artist asks questions about the work. In answering, responders stay on topic with the question and may express opinions in direct response to the artist’s questions.
+The creator asks questions about the work. In answering, critics stay on topic with the question and may express opinions in direct response to the creator’s questions.
 
 ## Step 3. Neutral Questions&#x20;
 
 ### (What is confusing or needs more clarification about the project?)
 
-Responders ask neutral questions about the work, and the artist responds. Questions are neutral when they do not have an opinion couched in them.
+Critics ask neutral questions about the work, and the creator responds. Questions are neutral when they do not have an opinion couched in them.
 
-This step is one of the most fundamental, challenging, and misunderstood steps of Critical Response Process.
+This step is one of the most fundamental, challenging, and misunderstood steps of the Critical Response Process.
 
 ## Step 4. Feedback Time&#x20;
 
-### (What are ways that the project can be improved? What additional references, resources, projects, and/or links would be useful for the project?)
+Critics give feedback. (This deviates substantially from Liz Lerman's process.)
 
-Responders state feedback. (This deviates substantially from Liz Lerman's process.)
+If you’re having trouble coming up with feedback, think about:&#x20;
+
+* What is the first thing you noticed about the work or what stands out to you? What stands out to you? What appears to be the [epicenter](../assignments/getting-real-readings.md)?
+* What are ways that the project can be improved?
+* What additional references, resources, projects, and/or links would be useful for the project?
+* What do you like or what is working about the project?&#x20;
+* How does the work make you feel?&#x20;
+* Ask the creator about their philosophy or creative process.&#x20;
+* Ask why the creator made a particular choice (tool, material, color, etc.)&#x20;
+* Ask the creator how they did something.&#x20;
+* Find something you can personally relate to.&#x20;
 
 ## Other Models of Critique
 
