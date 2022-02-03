@@ -30,7 +30,7 @@ Offers a work-in-progress for review and feels prepared to question that work in
 
 ### Role 2: Critic (Students who are providing feedback to the student presenting.)
 
-Engages in dialogue with the creator with a commitment to the artist’s intent to make excellent work.
+Engages in dialogue with the creator with a commitment to the creator’s intent to make excellent work.
 
 ### Role 3: Facilitator (Professor)
 
