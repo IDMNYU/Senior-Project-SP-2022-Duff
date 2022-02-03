@@ -6,6 +6,7 @@
 * [Schedule](schedule/README.md)
   * [Week 1 Detail Jan 24](schedule/week1\_detail.md)
   * [Week 2 Detail Jan 31](schedule/week2\_detail.md)
+  * [📅 Feb 6 / Last Day to Add/Drop](schedule/feb-6-last-day-to-add-drop.md)
   * [Week 3 Detail Feb 7](schedule/week3\_detail.md)
   * [Week 4 Detail Feb 14](schedule/week4\_detail.md)
   * [Week 5 Detail Feb 28](schedule/week5\_detail.md)
