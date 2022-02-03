@@ -14,6 +14,9 @@
 
 * Discuss letters from a previous cohort
 * Individual Meetings.&#x20;
+  * Review [Project Plan](../assignments/project\_plan/) Iterations.&#x20;
+  * Discuss project scopes.
+  * Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
 * Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan/)
   * [project management](../assignments/website.md)

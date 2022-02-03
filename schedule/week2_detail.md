@@ -27,7 +27,7 @@
 * Continue to discuss [Creativity Resources](../resources/creativity-resources.md) (Fair Use Assets and Inspiration)
 * Discuss busy vs productive below
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
-* IF time discuss reading responses: _Keep Going_ and _Getting Real_
+* (IF time) discuss reading responses: _Keep Going_ and _Getting Real_
 
 <details>
 

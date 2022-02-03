@@ -34,7 +34,7 @@
   * [Project Management](assignments/website.md)
   * [Project Plan](assignments/project\_plan/README.md)
     * [Project Versions](assignments/project\_plan/project\_versions.md)
-  * [Project Scope: MoSCoW Method](assignments/project-scope-moscow-method.md)
+  * [Project Scope: MoSCoW Method](assignments/moscow-method.md)
   * [Responses](assignments/responses.md)
 * [Feedback: Critiques, Demos, One on Ones, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
   * [Critiques](critiques-demos-presentations-and-exhibition/critiques.md)

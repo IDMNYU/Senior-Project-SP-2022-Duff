@@ -1,4 +1,4 @@
-# MoSCoW Method
+# Project Scope: MoSCoW Method
 
 The scope of your project is key. Hone in on the scope of your project by using the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW\_method)**.**&#x20;
 
