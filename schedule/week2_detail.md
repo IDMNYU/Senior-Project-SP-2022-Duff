@@ -17,7 +17,7 @@
 
 * Discuss EasyRetro Enter Tickets
 * Discuss scheduling One on Ones (7 during class, 4 before or after class)
-* After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu). The Student Advocate center will contact me to excuse your absence from an in-person class. I will then have the zoom room available for you and only then.
+* After the first two weeks of the class (next week) if you are not able to attend in person, you will need to contact Tandon's Office of Student Advocacy. Please note, there has been an update to the contact information for the Office of Student Advocacy, and it should be noted that related messages should be sent to [advocacy.tandonstudentlife@nyu.edu](mailto:advocacy.tandonstudentlife@nyu.edu) moving forward. (For reference, this previously was [eng.studentadvocate@nyu.edu](mailto:eng.studentadvocate@nyu.edu))The Student Advocate center will contact me to excuse your absence from an in-person class. I will then have the zoom room available for you and only then.
 * Discuss Why Slack? FYI. You can edit slack messages.
 * Discuss [Project Management](../assignments/website.md) Platforms, particularly analog, and why.
 * Discuss [Workflowy](https://workflowy.com) for research and process
