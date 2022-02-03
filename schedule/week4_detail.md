@@ -12,7 +12,8 @@
 ## Class
 
 * [Project Teasers](../assignments/project\_plan/project\_versions.md) Due
-* Check-in with your A-Team and share your
+* (IF time) discuss letters from the last cohort
+* (IF time) Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan/)
   * [project management](../assignments/website.md)
 
