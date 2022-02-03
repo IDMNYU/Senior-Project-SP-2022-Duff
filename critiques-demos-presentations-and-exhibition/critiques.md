@@ -66,3 +66,19 @@ This step is one of the most fundamental, challenging, and misunderstood steps o
 ### (What are ways that the project can be improved? What additional references, resources, projects, and/or links would be useful for the project?)
 
 Responders state feedback. (This deviates substantially from Liz Lerman's process.)
+
+## Other Models of Critique
+
+[Critique Sandwich](https://www.youtube.com/watch?v=aZJDdfJHKxM)&#x20;
+
+* 1 piece of encouraging feedback&#x20;
+* 1 critical comment&#x20;
+* 1 more encouraging piece of feedback&#x20;
+
+[TAG](https://theartofeducation.edu/2015/10/21/an-engaging-critique-that-taps-into-your-students-love-of-quick-communication/)&#x20;
+
+* T – Tell the artist something you like.&#x20;
+* A – Ask the artist a question.&#x20;
+* G – Give the artist a suggestion.&#x20;
+
+[Empathic Critique](https://bartelart.com/arted/critique08.html)&#x20;
