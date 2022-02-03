@@ -14,7 +14,7 @@ At its core a critique is simple:
 
 Why are critiques important and useful? They help students to:
 
-* improve their projects.
+* improve and move their projects forward.
 * get unstuck.
 * get exposed to other ideas and possibilities from others.
 
@@ -26,9 +26,9 @@ Why are critiques important and useful? They help students to:
 * **Do not make assumptions**. Ask questions.
 * Critique the work, not the creator.
 * **Do NOT take feedback personally.** Remember critiques are about your work, not you. They are about making your work better.&#x20;
-* **Be impeccable with your word.** Don’t just give a value judgment like “good” or “bad.” Give constructive feedback. Be specific and say why. \
-  \
-  Remember that critiques are about helping the creator to move their project forward or get unstuck. Think about the utility of your feedback. Positive feedback isn’t helpful or useful to the creator if it's only one descriptive word. What does "good" or "bad" actually mean? How can you use either to move your project forward? You can't. Specificity is key.
+* **Be impeccable with your word.** Don’t just give a value judgment like “good” or “bad.” Give constructive feedback. Be specific and say why.
+
+Think about the utility of your feedback. Positive feedback isn’t helpful or useful to the creator if it's only one descriptive word. What does "good" or "bad" actually mean? How can you use either to move your project forward? You can't. Specificity is key.
 
 **Have notes taken during the critique:**
 
@@ -52,9 +52,10 @@ Initiates each step, keeps the process on track, and works to help the creator a
 
 ## Step 1. Statements of Meaning&#x20;
 
-### (What is working about the project?)
-
 Critics state what was meaningful, evocative, interesting, exciting, and/or striking in the work they have just experienced.
+
+* What is the first thing you noticed about the work? What stands out to you? What appears to be the [epicenter](../assignments/getting-real-readings.md)?
+* What is working about the project?
 
 ## Step 2. Creator as Questioner
 
@@ -75,12 +76,8 @@ This step is one of the most fundamental, challenging, and misunderstood steps o
 
 Critics give feedback. (This deviates substantially from Liz Lerman's process.)
 
-If you’re having trouble coming up with feedback, think about:&#x20;
-
-* What is the first thing you noticed about the work or what stands out to you? What stands out to you? What appears to be the [epicenter](../assignments/getting-real-readings.md)?
 * What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links would be useful for the project?
-* What do you like or what is working about the project?&#x20;
 * How does the work make you feel?&#x20;
 * Find something that personally resonates with you.&#x20;
 
