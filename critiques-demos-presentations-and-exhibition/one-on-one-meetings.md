@@ -1,6 +1,6 @@
 # Individual "One on One" Meetings
 
-Individual "One on One" Meetings will be held over Zoom. You can always schedule a meeting with me beyond your "one on one" meetings at [http://calendly.com/deangela](http://calendly.com/deangela). Again, please schedule them via Zoom.
+Individual "One on One" Meetings can be held over Zoom or in person. You can always schedule a meeting with me beyond your "one on one" meetings at [http://calendly.com/deangela](http://calendly.com/deangela). Please schedule them via Zoom unless you want to meet on a Monday and you can schedule it in person.
 
 Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are ready to go _prior_ to meeting with the instructor. Also, have any required documents ready to go, as well.
 
