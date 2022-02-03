@@ -11,6 +11,7 @@
   * [Week 4 Detail Feb 14](schedule/week4\_detail.md)
   * [Week 5 Detail Feb 28](schedule/week5\_detail.md)
   * [Week 6 Detail Mar 7](schedule/week6\_detail.md)
+  * [🏄 Mar 14-20 Spring Break](schedule/mar-14-20-spring-break.md)
   * [Week 7 Detail Mar 21](schedule/week7\_detail.md)
   * [Week 8 Detail Mar 28](schedule/week8\_detail.md)
   * [Week 9 Detail Apr 4](schedule/week9\_detail.md)
