@@ -2,23 +2,18 @@
 
 ![Keep Going Illustration by Jolby from Gettoworkbook](<../.gitbook/assets/gettoworkbook keep going.png>)
 
-Project Demos will be held on designated Mondays, and will consist of the professor, ALL students, and outside critics, at times.
+Project Demos will be held on designated Mondays. Each demo will consist of:
 
-Each demo will consist of:
-
-* 7 minutes of presentation and&#x20;
-*   7 minutes of Q\&A
+* 5 minutes of presentation and&#x20;
+*   5 minutes of Q\&A
 
     (or a combination thereof)
 
-    for 14 minutes total.
+    for 10 minutes total.
 
-[Critiques](critiques.md) (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea.
+Review the rules of the [critiques](critiques.md) (AKA crits).
 
 * Have a member of your accountability team take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not.&#x20;
-* Review your crit notes and reflect upon what was said.
-* Ask yourself how you could combine, transform, or expand the ideas that show the most promise.&#x20;
-* However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.&#x20;
 
 ## Additional Guidelines for your Project Demo
 
