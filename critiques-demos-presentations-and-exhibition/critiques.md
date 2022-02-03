@@ -6,9 +6,17 @@
 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea.&#x20;
 
-Have at least a member(s) of your [accountability group](../assignments/accountability\_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not.&#x20;
+At its core a critique is simple:
 
-Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+* What is working?
+* What is not working?
+* How can the project be improved?
+
+Why are critiques important and useful? They help students to:
+
+* improve their projects.
+* get unstuck.
+* get exposed to other ideas and possibilities from others.
 
 **Rules of the critique** (four are taken from [_The Four Agreements_](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6/) by Don Miguel Ruiz):
 
@@ -22,6 +30,12 @@ Review your crit notes and reflect upon what was said. Ask yourself how you coul
   \
   Remember that critiques are about helping the creator to move their project forward or get unstuck. Think about the utility of your feedback. Positive feedback isn’t helpful or useful to the creator if it's only one descriptive word. What does "good" or "bad" actually mean? How can you use either to move your project forward? You can't. Specificity is key.
 
+**Have notes taken during the critique:**
+
+Have at least a member(s) of your [accountability group](../assignments/accountability\_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not.&#x20;
+
+Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+
 ## ****[**Liz Lerman's Critical Response Process**](https://lizlerman.com/critical-response-process/) **(Modified)**
 
 ### Role 1: Creator (Student Presenting)
@@ -30,13 +44,11 @@ Offers a work-in-progress for review and feels prepared to question that work in
 
 ### Role 2: Critic (Students who are providing feedback to the student presenting.)
 
-Engages in dialogue with the creator with a commitment to the creator’s intent to make excellent work.
+Engages in dialogue with the creator with a commitment to the creator’s intent to make impactful work.
 
 ### Role 3: Facilitator (Professor)
 
 Initiates each step, keeps the process on track, and works to help the creator and critics use the process to frame useful questions and responses.
-
-
 
 ## Step 1. Statements of Meaning&#x20;
 
@@ -50,11 +62,14 @@ The creator asks questions about the work. In answering, critics stay on topic w
 
 ## Step 3. Neutral Questions&#x20;
 
-### (What is confusing or needs more clarification about the project?)
-
 Critics ask neutral questions about the work, and the creator responds. Questions are neutral when they do not have an opinion couched in them.
 
 This step is one of the most fundamental, challenging, and misunderstood steps of the Critical Response Process.
+
+* What is confusing or needs more clarification about the project?
+* Ask the creator about their philosophy or creative process.&#x20;
+* Ask why the creator made a particular choice (tool, material, color, etc.)&#x20;
+* Ask the creator how they did something.&#x20;
 
 ## Step 4. Feedback Time&#x20;
 
@@ -67,10 +82,7 @@ If you’re having trouble coming up with feedback, think about:&#x20;
 * What additional references, resources, projects, and/or links would be useful for the project?
 * What do you like or what is working about the project?&#x20;
 * How does the work make you feel?&#x20;
-* Ask the creator about their philosophy or creative process.&#x20;
-* Ask why the creator made a particular choice (tool, material, color, etc.)&#x20;
-* Ask the creator how they did something.&#x20;
-* Find something you can personally relate to.&#x20;
+* Find something that personally resonates with you.&#x20;
 
 ## Other Models of Critique
 
