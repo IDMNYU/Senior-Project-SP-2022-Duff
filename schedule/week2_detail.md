@@ -22,8 +22,7 @@
 * Discuss [Project Management](../assignments/website.md) Platforms, particularly analog, and why.
 * Discuss [Workflowy](https://workflowy.com) for research and process
 * Review [Project Plan](../assignments/project\_plan/) Iterations.&#x20;
-* Discuss project scopes.
-* Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
+* Discuss concepts versus mediums of delivery.
 * Continue to discuss [Creativity Resources](../resources/creativity-resources.md) (Fair Use Assets and Inspiration)
 * Discuss busy vs productive below
 * [Accountability team](../assignments/accountability\_partner.md) assigned. Get to know your accountability team.
