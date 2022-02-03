@@ -36,6 +36,11 @@ Have at least a member(s) of your [accountability group](../assignments/accounta
 
 Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
+**Review your crit notes and reflect upon what was said.**
+
+* Ask yourself how you could combine, transform, or expand the ideas that show the most promise.&#x20;
+* However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.&#x20;
+
 ## ****[**Liz Lerman's Critical Response Process**](https://lizlerman.com/critical-response-process/) **(Modified)**
 
 ### Role 1: Creator (Student Presenting)
