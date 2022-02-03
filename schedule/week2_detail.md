@@ -8,12 +8,7 @@
 * Read the assigned, selected chapters from [_Getting Real_](../assignments/getting-real-readings.md).&#x20;
 * Write a [response](../assignments/responses.md) to the 3 chapters that resonate with you the most.
 * Populate or Iterate your [project plan](../assignments/project\_plan/).
-*   The scope of your project is key. Hone in on the scope of your project by using the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW\_method)**.** Create a google doc in your senior project folder and brainstorm the following or put it in your [project management](../assignments/website.md) platform:
-
-    M - _Must have_ project features\
-    S - _Should have_ project features\
-    C - _Could have_ project features\
-    W - _Won't have project features_
+* The scope of your project is key. Hone in on the scope of your project by using the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW\_method)**.**&#x20;
 * Begin to populate your [project management](../assignments/website.md) platform.&#x20;
 * Please add the URL of your progress and process project management platform(s) to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same. If it's analog, take photos of the pages in your planner and upload them to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**. Link to your project management google drive folder to the shared google doc above.&#x20;
 * After reviewing your classmate's project plans, direct message **deangela** on Slack 3 choices for members of your[ A-team](../assignments/accountability\_partner.md) by or before **Monday at 10am**.

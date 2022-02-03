@@ -29,6 +29,7 @@
   * [End of Semester Deliverables](assignments/end\_of\_semester\_deliverables.md)
   * [Getting Real Readings](assignments/getting-real-readings.md)
   * [Letter to Next Cohort](assignments/letter\_to\_next\_cohort.md)
+  * [MoSCoW Method](assignments/moscow-method.md)
   * [Project Documentation](assignments/project\_documentation.md)
   * [Project Management](assignments/website.md)
   * [Pro Practices Revisions](assignments/pro\_practices\_revisions.md)
