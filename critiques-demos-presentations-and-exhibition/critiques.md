@@ -4,15 +4,19 @@
 
 **Class and team critiques**
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability group](../assignments/accountability\_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea.&#x20;
 
-**Rules of the critique:**
+Have at least a member(s) of your [accountability group](../assignments/accountability\_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not.&#x20;
+
+Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+
+**Rules of the critique** (four are taken from [_The Four Agreements_](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6/) by Don Miguel Ruiz):
 
 * Be present and engaged.
 * Give feedback to your classmates.
 * Do not make assumptions. Ask questions.
 * Do your best.
-* Do NOT take feedback personally.
+* **Do NOT take feedback personally.** Remember critiques are about your work, not you. They are about making your work better.
 * Be impeccable with your word.
 
 ## ****[**Liz Lerman's Critical Response Process**](https://lizlerman.com/critical-response-process/) ****&#x20;
