@@ -11,7 +11,7 @@ You will either volunteer for or get assigned to a team of 3 people by or during
 1. Jack, Vida, and Yanxin
 2. Charitssa, Leon, and Shipon
 3. Jasmine, Kiana, and Lillian
-4. Nandita (backup Team 1) and Olivia (backup Team 2)
+4. Junwei, Nandita, and Olivia
 
 </details>
 
