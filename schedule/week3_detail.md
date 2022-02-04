@@ -12,6 +12,8 @@
 
 ## Class
 
+#### Individual Meetings
+
 |        |               |
 | ------ | ------------- |
 | 1:30pm | Olivia        |
