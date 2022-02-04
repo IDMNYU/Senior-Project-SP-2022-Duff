@@ -12,7 +12,22 @@
 
 ## Class
 
-* Discuss letters from a previous cohort
+|        |               |
+| ------ | ------------- |
+| 1:30pm | Olivia        |
+| 2pm    | Kiana         |
+| 2:15pm | Leon          |
+| 2:30pm | Jasmine       |
+| 2:45pm | Jack          |
+| 3pm    | Lillian       |
+| 3:15pm | Nandita       |
+| 3:30pm | Shipon        |
+| 3:45pm | Announcements |
+| 4pm    | Charitssa     |
+| 4:15pm | Yanxin        |
+| 4:30pm | Vida          |
+|        |               |
+
 * Individual Meetings.&#x20;
   * Review [Project Plan](../assignments/project\_plan/) Iterations.&#x20;
   * Discuss project scopes.
