@@ -27,8 +27,8 @@
 | 3:45pm | Announcements |
 | 4pm    | Charitssa     |
 | 4:15pm | Yanxin        |
-| 4:30pm | Vida          |
-|        |               |
+| TBD    | Vida          |
+| TBD    | Junwei        |
 
 * Individual Meetings.&#x20;
   * Review [Project Plan](../assignments/project\_plan/) Iterations.&#x20;
