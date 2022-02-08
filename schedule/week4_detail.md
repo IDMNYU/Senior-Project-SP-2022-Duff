@@ -4,7 +4,7 @@
 
 * Read [7 mental strategies for reaching your long term goals (at work and in life)](https://blog.rescuetime.com/mental-strategies-long-term-goals/)
   * Write a [response](../assignments/responses.md) to this article in relation to your semester-long senior project.
-* Create your [Project Teaser](../assignments/project\_plan/project\_versions.md) and post on our [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) board under the "All Students Overview."
+* Create your [Project Teaser](../assignments/project\_plan/project\_versions.md) and post on our [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) board under the "All Students Overview" Frame.
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once this week.&#x20;
 * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on the #duff slack channel.
 * Continue to [research and design](../assignments/project\_plan/) your project.
