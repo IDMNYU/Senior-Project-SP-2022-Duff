@@ -12,6 +12,7 @@
 
 ## Class
 
+* Discuss citing sources in [responses](../assignments/responses.md)
 * [Project Teasers](../assignments/project\_plan/project\_versions.md) Due
 * Discuss [Project Versions](../assignments/project\_plan/project\_versions.md)
 * Populate Project Versions in Miro
