@@ -13,7 +13,7 @@ The specific parameters and expectations of each version will be individually de
 
 ## Feedback Through User Testing
 
-You should be conducting research and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project.
+You should be conducting research and user testing with your target audience throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project.
 
 ## The following are guidelines and not rules.
 
