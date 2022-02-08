@@ -47,11 +47,11 @@ You may feel that it is crap, but at the very least, one person will think it is
 
 First of all, show up for yourself. By “showing up” I mean put all that you got into whatever you are doing. And if that doesn’t work for you, then at least show up for your classmates. Your presence and participation not only affect the quality of your education but your classmates’ as well. You do affect the people you interact with on a daily / weekly basis.
 
-### **8 Don’t Worry About What Other Folks Are Doing (Aka Worry About What You Are Or Are Not Doing)**
+### **8 Don’t Worry About What Other Folks Are Doing (AKA Worry About What You Are Or Are Not Doing)**
 
 “You will never come up against a greater adversary than your own potential, my young friend.” \~Michael Piller & Michael Wagner, _Star Trek: The Next Generation_, “Evolution,” Dr. Paul Stubbs to Wesley Crusher, original airdate 25 Sept. 1989, stardate 43,125.8
 
-### **9 Learn How To Learn (Aka You Learn How To Do Something By Doing It)**
+### **9 Learn How To Learn (AKA You Learn How To Do Something By Doing It)**
 
 > “If you teach a man anything, he will never learn.” \
 > **\~**George Bernard Shaw
@@ -128,7 +128,7 @@ There is never one “right” way to do something. Sometimes “hacking” get 
 
 In a similar vein, don’t rely exclusively on technology. Get off of the computer sometimes. A haptic process could make your project stand out from your peers. Technology is simply a tool. You are the creator.
 
-### 1**9 Ask Questions / Speak Up / Speak Out (Aka Don’t Make Assumptions)**
+### 1**9 Ask Questions / Speak Up / Speak Out (AKA Don’t Make Assumptions)**
 
 There is no such thing as a stupid question, but I beg of you to ask questions sooner rather than later, and definitely, BEFORE THE DAY something is due.
 
