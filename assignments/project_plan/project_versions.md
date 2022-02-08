@@ -4,9 +4,11 @@
 \
 The specific parameters and expectations of each version will be individually determined in consultation with the professor except for the teaser.
 
-* **A teaser** contains the ideas, vision, and story behind your project in a 1 to 3 minute video. You will use the contents of your [project plan](./) to create your teaser. The main requirement will be your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include. It can be live-action video, an animation/motion graphics, text only or a combination! You choose. This can also be done in powerpoint, keynote, or google slides. You can export any of these as a video. \
+* **A teaser** contains the ideas, vision, and story behind your project in a **1 to 3 minute video**. It's totally ok if it's less than a minute. \
   \
-  Create an account on padlet, post your video on this [padlet](https://padlet.com/dd1849/sp22duffteasers) board, and comment on at least your A-Teams. You can post on more, however.
+  You will use the contents of your [project plan](./) to create your teaser. The main requirement will be your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include. It can be live-action video, an animation/motion graphics, text only or a combination! You choose. This can also be done in powerpoint, keynote, or google slides. You can export any of these as a video. \
+  \
+  Post your video on our [Miro board](https://miro.com/app/board/uXjVOWb7kyo=/) under the frame labeled "All Students Overview."
 * **Preview AKA Alpha** is the **minimum viable product** (MVP) or proof of concept version of your project where your project is ready for user testing.
 * **Beta** is when the functionality, form, and implementation are as complete as possible.
 * **Launch AKA Gold** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public. It is ready to be "shipped" and consumed by the public.
