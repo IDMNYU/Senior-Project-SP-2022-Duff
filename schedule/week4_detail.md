@@ -13,6 +13,8 @@
 ## Class
 
 * [Project Teasers](../assignments/project\_plan/project\_versions.md) Due
+* Discuss [Project Versions](../assignments/project\_plan/project\_versions.md)
+* Populate Project Versions in Miro
 * (IF time) discuss letters from the last cohort
 * (IF time) Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan/)
