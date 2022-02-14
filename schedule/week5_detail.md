@@ -16,8 +16,7 @@
 
 ## Class
 
-**All students are expected to come to class (even if you're meeting with me before or after class!**\
-****
+<mark style="color:blue;">**All students are expected to come to class (even if you're meeting with me before or after class!**</mark>\ <mark style="color:blue;">****</mark>
 
 Individual Meetings and A-Team Meetings. \
 \
