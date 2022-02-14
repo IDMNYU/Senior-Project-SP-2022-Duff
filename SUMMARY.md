@@ -9,6 +9,7 @@
   * [📅 Feb 6 / Last Day to Add/Drop](schedule/feb-6-last-day-to-add-drop.md)
   * [Week 3 Detail Feb 7](schedule/week3\_detail.md)
   * [Week 4 Detail Feb 14](schedule/week4\_detail.md)
+  * [🎩 Feb 21 / President's Day NO CLASS](schedule/feb-21-presidents-day-no-class.md)
   * [Week 5 Detail Feb 28](schedule/week5\_detail.md)
   * [Week 6 Detail Mar 7](schedule/week6\_detail.md)
   * [🏄 Mar 14-20 Spring Break](schedule/mar-14-20-spring-break.md)
