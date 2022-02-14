@@ -16,7 +16,28 @@
 
 ## Class
 
+Individual Meetings
+
+| Time                         | Student       |
+| ---------------------------- | ------------- |
+| 1:30pm                       | Olivia        |
+| 2pm                          | Kiana         |
+| 2:15pm                       | Leon          |
+| 2:30pm                       | Jasmine       |
+| 2:45pm                       | Jack          |
+| 3pm                          | Lillian       |
+| 3:15pm                       | Nandita       |
+| 3:30pm                       | Shipon        |
+| 3:45pm                       | Announcements |
+| 4pm                          | Charitssa     |
+| 4:15pm                       | Yanxin        |
+| TBD                          | Vida          |
+| Tuesday sent calendar invite | Junwei        |
+
 * Individual Meetings.&#x20;
+  * Review [Project Plan](../assignments/project\_plan/), [Teaser Video](../assignments/project\_plan/project\_versions.md) & [Project Versions](../assignments/project\_plan/project\_versions.md) Iterations.&#x20;
+  * Discuss project scopes.
+  * Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
 * Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan/)
   * [project management](../assignments/website.md)
