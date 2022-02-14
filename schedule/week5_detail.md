@@ -22,21 +22,21 @@ Individual Meetings and A-Team Meetings. \
 \
 If you're meeting with me before or after class on Monday, please direct message me on slack and let me know if you want to meet in my office or via Zoom. IF you can't make Monday after class, we can meet via Zoom on Tuesday. Please let me know your availability as a direct message in slack.
 
-| Time              | Student       |
-| ----------------- | ------------- |
-| 1:30pm            | Olivia        |
-| 2pm               | Kiana         |
-| 2:15pm            | Leon          |
-| 2:30pm            | Jasmine       |
-| 2:45pm            | Jack          |
-| 3pm               | Lillian       |
-| 3:15pm            | Nandita       |
-| 3:30pm            | Shipon        |
-| 3:45pm            | Announcements |
-| 4pm               | Charitssa     |
-| 4:15pm            | Yanxin        |
-| 4:30pm or Tuesday | Vida          |
-| 4:45pm or Tuesday | Junwei        |
+| Time                                                                                          | Student       |
+| --------------------------------------------------------------------------------------------- | ------------- |
+| 1:30pm                                                                                        | Olivia        |
+| 2pm                                                                                           | Kiana         |
+| 2:15pm                                                                                        | Leon          |
+| 2:30pm                                                                                        | Jasmine       |
+| 2:45pm                                                                                        | Jack          |
+| 3pm                                                                                           | Lillian       |
+| 3:15pm                                                                                        | Nandita       |
+| 3:30pm                                                                                        | Shipon        |
+| 3:45pm                                                                                        | Announcements |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Charitssa     |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Yanxin        |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Vida          |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Junwei        |
 
 * Individual Meetings.&#x20;
   * Review [Project Plan](../assignments/project\_plan/), [Teaser Video](../assignments/project\_plan/project\_versions.md) & [Project Versions](../assignments/project\_plan/project\_versions.md) Iterations.&#x20;
