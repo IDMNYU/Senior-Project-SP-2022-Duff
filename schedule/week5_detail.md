@@ -16,7 +16,9 @@
 
 ## Class
 
-**All students are expected to come to class.** Individual Meetings and A-Team Meetings.&#x20;
+**All students are expected to come to class:** Individual Meetings and A-Team Meetings. \
+\
+If you're meeting with me before or after class on Monday, please direct message me on slack and let me know if you want to meet in my office or via Zoom. IF you can't make Monday after class, we can meet via Zoom on Tuesday. Please let me know your availability as a direct message in slack.
 
 | Time              | Student       |
 | ----------------- | ------------- |
