@@ -16,7 +16,7 @@
 
 ## Class
 
-Individual Meetings
+**All students are expected to come to class.** Individual Meetings and A-Team Meetings.&#x20;
 
 | Time              | Student       |
 | ----------------- | ------------- |
@@ -41,3 +41,4 @@ Individual Meetings
 * Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan/)
   * [project management](../assignments/website.md)
+* When you're finished meeting with your A-Team go meet with another A-Team and share your progress and learn about theirs!
