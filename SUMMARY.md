@@ -21,7 +21,7 @@
   * [Week 12 Detail Apr 25](schedule/week12\_detail.md)
   * [Week 13 Detail May 2](schedule/week13\_detail.md)
   * [Week 14 Detail May 9](schedule/week14\_detail.md)
-  * [Week 15 Detail May 11-16](schedule/week15\_detail.md)
+  * [Week 15 Detail May 11-13](schedule/week15\_detail.md)
   * [🎓 May 16 / Commencement](schedule/may-16-commencement.md)
 * [Assignments:](assignments/README.md)
   * [Accountability Team](assignments/accountability\_partner.md)
