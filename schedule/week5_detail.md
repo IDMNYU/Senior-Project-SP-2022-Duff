@@ -30,13 +30,13 @@ If you're meeting with me before or after class on Monday, please direct message
 | 2:30pm                                                                                        | Jasmine       |
 | 2:45pm                                                                                        | Jack          |
 | 3pm                                                                                           | Lillian       |
-| 3:15pm                                                                                        | Nandita       |
+| 3:15pm                                                                                        | Vida          |
 | 3:30pm                                                                                        | Shipon        |
 | 3:45pm                                                                                        | Announcements |
 | Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Charitssa     |
 | Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Yanxin        |
-| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Vida          |
 | Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Junwei        |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) |               |
 
 * Individual Meetings.&#x20;
   * Review [Project Plan](../assignments/project\_plan/), [Teaser Video](../assignments/project\_plan/project\_versions.md) & [Project Versions](../assignments/project\_plan/project\_versions.md) Iterations.&#x20;
