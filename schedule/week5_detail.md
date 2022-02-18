@@ -16,27 +16,26 @@
 
 ## Class
 
-<mark style="color:blue;">**All students are expected to come to class (even if you're meeting with me before or after class!**</mark>\ <mark style="color:blue;">****</mark>
+<mark style="color:blue;">**All students are expected to come to class (even if you're meeting with me before class or on Tuesday or Wednesay)!**</mark>\ <mark style="color:blue;">****</mark>
 
 Individual Meetings and A-Team Meetings. \
 \
 If you're meeting with me before or after class on Monday, please direct message me on slack and let me know if you want to meet in my office or via Zoom. IF you can't make Monday after class, we can meet via Zoom on Tuesday. Please let me know your availability as a direct message in slack.
 
-| Time                                                                                          | Student       |
-| --------------------------------------------------------------------------------------------- | ------------- |
-| 1:30pm                                                                                        | Olivia        |
-| 2pm                                                                                           | Kiana         |
-| 2:15pm                                                                                        | Leon          |
-| 2:30pm                                                                                        | Jasmine       |
-| 2:45pm                                                                                        | Jack          |
-| 3pm                                                                                           | Lillian       |
-| 3:15pm                                                                                        | Vida          |
-| 3:30pm                                                                                        | Shipon        |
-| 3:45pm                                                                                        | Announcements |
-| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Charitssa     |
-| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Yanxin        |
-| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Junwei        |
-| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) |               |
+| Time                                                                                            | Student       |
+| ----------------------------------------------------------------------------------------------- | ------------- |
+| 1:30pm                                                                                          | Olivia        |
+| 2pm                                                                                             | Kiana         |
+| 2:15pm                                                                                          | Leon          |
+| 2:30pm                                                                                          | Jasmine       |
+| 2:45pm                                                                                          | Jack          |
+| 3pm                                                                                             | Lillian       |
+| 3:15pm                                                                                          | Vida          |
+| 3:30pm                                                                                          | Shipon        |
+| 3:45pm                                                                                          | Announcements |
+| Wednesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Charitssa     |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela)   | Yanxin        |
+| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela)   | Junwei        |
 
 * Individual Meetings.&#x20;
   * Review [Project Plan](../assignments/project\_plan/), [Teaser Video](../assignments/project\_plan/project\_versions.md) & [Project Versions](../assignments/project\_plan/project\_versions.md) Iterations.&#x20;
