@@ -16,11 +16,11 @@
 
 ## Class
 
-<mark style="color:blue;">**All students are expected to come to class (even if you're meeting with me before class or on Tuesday or Wednesay)!**</mark>\ <mark style="color:blue;">****</mark>
+<mark style="color:blue;">**All students are expected to come to class (even if you're meeting with me before class or on Tuesday or Wednesday)!**</mark>\ <mark style="color:blue;">****</mark>
 
 Individual Meetings and A-Team Meetings. \
 \
-If you're meeting with me before or after class on Monday, please direct message me on slack and let me know if you want to meet in my office or via Zoom. IF you can't make Monday after class, we can meet via Zoom on Tuesday. Please let me know your availability as a direct message in slack.
+If you're meeting with me before or after class on Monday, please direct message me on slack and let me know if you want to meet in my office or via Zoom.&#x20;
 
 | Time                                                                                            | Student       |
 | ----------------------------------------------------------------------------------------------- | ------------- |
