@@ -16,7 +16,7 @@
 
 ## Class
 
-<mark style="color:blue;">**All students are expected to come to class (even if you're meeting with me before class or on Tuesday or Wednesday)!**</mark>\ <mark style="color:blue;">****</mark>
+<mark style="background-color:yellow;">**All students are expected to come to class (even if you're meeting with me before class or on Tuesday or Wednesday)!**</mark>\ <mark style="color:blue;">****</mark>
 
 Individual Meetings and A-Team Meetings. \
 \
