@@ -26,9 +26,9 @@ The Usual Weekly Deliverables:
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
   * **Document your** [**accountability team**](../assignments/accountability\_partner.md) **meeting(s).**
 * Iterate:&#x20;
-  * [research and design](../assignments/project\_plan/) of your project.
-  * [resources and milestones](../assignments/project\_plan/) for your project (if applicable).
-* Document your process and project, which includes your [resources and milestones](../assignments/project\_plan/) and [research and design](../assignments/project\_plan/),  [prototype(s)](../assignments/project\_plan/) of your project.
+  * [research and design](../assignments/project\_plan.md) of your project.
+  * [resources and milestones](../assignments/project\_plan.md) for your project (if applicable).
+* Document your process and project, which includes your [resources and milestones](../assignments/project\_plan.md) and [research and design](../assignments/project\_plan.md),  [prototype(s)](../assignments/project\_plan.md) of your project.
 
 ## **Class**
 

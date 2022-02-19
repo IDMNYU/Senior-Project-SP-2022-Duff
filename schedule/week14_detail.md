@@ -3,10 +3,10 @@
 ## Deliverables (DUE ON DATE LISTED)
 
 * Make sure you continue to check-in with your [accountability team](../assignments/accountability\_partner.md) and document.
-* Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan/) of your project as needed.
+* Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
 * Revise your 1-min video for the [IDM showcase](../critiques-demos-presentations-and-exhibition/idm\_showcase.md) if needed
-* Revise your [project plan](../assignments/project\_plan/) on our shared Miro, particularly your elevator pitch.&#x20;
+* Revise your [project plan](../assignments/project\_plan.md) on our shared Miro, particularly your elevator pitch.&#x20;
 * If you haven't done so already, please schedule your final [one-on-one](week15\_detail.md). _Thank you so much if you already have!_
 
 ## Class

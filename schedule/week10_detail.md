@@ -6,7 +6,7 @@
 * Watch the videos posted at the bottom of [pro practices](../assignments/pro\_practices\_revisions.md) revisions.
 * My feedback on pro practices material may vary from your pro practices instructor. Identify these variances and reflect on why the feedback is different in some cases. Post these differences in the #duff slack channel. Be prepared to discuss these differences during class.
 * Revise your [Pro Practices material](../assignments/pro\_practices\_revisions.md).
-* Continue to iterate the [prototype(s)](../assignments/project\_plan/) of your project, [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan/) of your project as needed.
+* Continue to iterate the [prototype(s)](../assignments/project\_plan.md) of your project, [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
 
 ## Class

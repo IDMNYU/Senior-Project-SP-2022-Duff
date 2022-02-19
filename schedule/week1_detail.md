@@ -15,7 +15,7 @@
 * [Project Management](../assignments/website.md)
 * Review [next week deliverables](week2\_detail.md)
 * Review Miro
-* Review [Project Plans](../assignments/project\_plan/)
+* Review [Project Plans](../assignments/project\_plan.md)
 
 
 

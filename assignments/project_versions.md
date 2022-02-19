@@ -6,7 +6,7 @@ The specific parameters and expectations of each version will be individually de
 
 * **A teaser** contains the ideas, vision, and story behind your project in a **1 to 3 minute video**. It's totally ok if it's less than a minute. \
   \
-  You will use the contents of your [project plan](./) to create your teaser. The main requirement will be your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include. It can be live-action video, an animation/motion graphics, text only or a combination! You choose. This can also be done in powerpoint, keynote, or google slides. You can export any of these as a video. \
+  You will use the contents of your [project plan](project\_plan.md) to create your teaser. The main requirement will be your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include. It can be live-action video, an animation/motion graphics, text only or a combination! You choose. This can also be done in powerpoint, keynote, or google slides. You can export any of these as a video. \
   \
   Post your video on our [Miro board](https://miro.com/app/board/uXjVOWb7kyo=/) under the frame labeled "All Students Overview."
 * **Preview AKA Alpha** is the **minimum viable product** (MVP) or proof of concept version of your project where your project is ready for user testing.

@@ -6,13 +6,13 @@
   * Write a [response](../assignments/responses.md) to this article in relation to your semester-long senior project.
 * Catch up on your other reading responses if you're behind.
 * Revise your project plan on our [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) board in the "All Students Overview" frame to reflect the current state of your project. You should be constantly revising this as the semester moves forward.
-* Decide or Revise [Project Versions](../assignments/project\_plan/project\_versions.md) on our [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) board in the "All Students Overview" frame
+* Decide or Revise [Project Versions](../assignments/project\_versions.md) on our [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) board in the "All Students Overview" frame
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
 * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on the #duff slack channel.
 * Iterate:&#x20;
-  * [research and design](../assignments/project\_plan/) of your project.
-  * [resources and milestones](../assignments/project\_plan/) for your project (if applicable).
-* Document your process and project, which includes your [resources and milestones](../assignments/project\_plan/) and [research and design](../assignments/project\_plan/) on your [project management](../assignments/website.md) platform(s).
+  * [research and design](../assignments/project\_plan.md) of your project.
+  * [resources and milestones](../assignments/project\_plan.md) for your project (if applicable).
+* Document your process and project, which includes your [resources and milestones](../assignments/project\_plan.md) and [research and design](../assignments/project\_plan.md) on your [project management](../assignments/website.md) platform(s).
 
 ## Class
 
@@ -38,10 +38,10 @@ If you're meeting with me before or after class on Monday, please direct message
 | Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela)   | Junwei        |
 
 * Individual Meetings.&#x20;
-  * Review [Project Plan](../assignments/project\_plan/), [Teaser Video](../assignments/project\_plan/project\_versions.md) & [Project Versions](../assignments/project\_plan/project\_versions.md) Iterations.&#x20;
+  * Review [Project Plan](../assignments/project\_plan.md), [Teaser Video](../assignments/project\_versions.md) & [Project Versions](../assignments/project\_versions.md) Iterations.&#x20;
   * Discuss project scopes.
   * Discuss [Design & Production Workflow](../resources/design-and-production-workflow.md)
 * Check-in with your A-Team and share your
-  * [research and design](../assignments/project\_plan/)
+  * [research and design](../assignments/project\_plan.md)
   * [project management](../assignments/website.md)
 * When you're finished meeting with your A-Team go meet with another A-Team and share your progress and learn about theirs!

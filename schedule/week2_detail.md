@@ -7,7 +7,7 @@
 * Complete last week's [pre-work](../pre-work.md) if you haven't before you move forward with the following.
 * Read the assigned, selected chapters from [_Getting Real_](../assignments/getting-real-readings.md).&#x20;
 * Write a [response](../assignments/responses.md) to the 3 chapters that resonate with you the most.
-* Populate or Iterate your [project plan](../assignments/project\_plan/).
+* Populate or Iterate your [project plan](../assignments/project\_plan.md).
 * The scope of your project is key. Hone in on the scope of your project by using the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW\_method)**.**&#x20;
 * Begin to populate your [project management](../assignments/website.md) platform.&#x20;
 * Please add the URL of your progress and process project management platform(s) to this [shared google doc](https://docs.google.com/document/d/1elrWEXkkqw9J00IAxHJVk38GcK-rxs0C\_QGn\_0UWCzU/edit). Please note that they may be one and the same. If it's analog, take photos of the pages in your planner and upload them to your google drive folder for this course (see the [pre-work](../pre-work.md)) in a folder labeled **project management**. Link to your project management google drive folder to the shared google doc above.&#x20;
@@ -21,7 +21,7 @@
 * Discuss Why Slack? FYI. You can edit slack messages.
 * Discuss [Project Management](../assignments/website.md) Platforms, particularly analog, and why.
 * Discuss [Workflowy](https://workflowy.com) for research and process
-* Review [Project Plan](../assignments/project\_plan/) Iterations.&#x20;
+* Review [Project Plan](../assignments/project\_plan.md) Iterations.&#x20;
 * Discuss concepts versus mediums of delivery.
 * Continue to discuss [Creativity Resources](../resources/creativity-resources.md) (Fair Use Assets and Inspiration)
 * Discuss busy vs productive below
