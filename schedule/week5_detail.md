@@ -26,7 +26,7 @@ If you're meeting with me before or after class on Monday, please direct message
 | ----------------------------------------------------------------------------------------------- | ------------- |
 | 1:30pm                                                                                          | Olivia        |
 | 2pm                                                                                             | Kiana         |
-| 2:15pm                                                                                          | Leon          |
+| 2:15pm                                                                                          | Yanxin        |
 | 2:30pm                                                                                          | Jasmine       |
 | 2:45pm                                                                                          | Jack          |
 | 3pm                                                                                             | Lillian       |
@@ -34,7 +34,6 @@ If you're meeting with me before or after class on Monday, please direct message
 | 3:30pm                                                                                          | Shipon        |
 | 3:45pm                                                                                          | Announcements |
 | Wednesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela) | Charitssa     |
-| Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela)   | Yanxin        |
 | Tuesday via Zoom; setup time via [http://calendly.com/deangela](http://calendly.com/deangela)   | Junwei        |
 
 * Individual Meetings.&#x20;
