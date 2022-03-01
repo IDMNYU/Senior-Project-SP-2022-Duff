@@ -13,11 +13,13 @@ The specific parameters and expectations of each version will be individually de
 * **Beta** is when the functionality, form, and implementation are as complete as possible.
 * **Launch AKA Gold** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public. It is ready to be "shipped" and consumed by the public.
 
-**On your project plan in Miro, you should set your expected outcomes and deadlines for the Preview (Alpha), Beta, and Launch(Gold) versions of your project**. Outline what each version of your project needs to include, and put dates on when they should be completed by.&#x20;
+**On your project plan in Miro, you should set your expected outcomes and deadlines for the Preview (Alpha), Beta, and Launch(Gold) versions of your project**. Outline what each version of your project needs to include, and put a timeline (midterm demo, IDM showcase, or last day of class) on when they should be completed by.&#x20;
 
 * Preview (Alpha) should land roughly about a week before the Midterm demo. However, if you're moving quicker it might be your Beta.&#x20;
 * Otherwise, your Beta should be completed for the IDM Showcase. However, if you're moving quicker it might be your Launch (Gold) version.&#x20;
 * At the very latest, your Launch (Gold) version should be the version that you present on the last day of class.
+
+Note: **unless the IDM showcase is scheduled AFTER the last day of class.** Then, your Beta would be due on the last day of class and the launch(gold) at the IDM showcase.
 
 ## Feedback Through User Testing
 
