@@ -24,7 +24,7 @@
 * Quickly list next steps.&#x20;
 * Come with questions to ask others about your project direction(s).
 
-## **Midterm Project Demo Setup**
+## **Midterm Project Demo Agenda**
 
 * You will be paired with a student for 20 min total.&#x20;
 * **Do not pair with a student from your own section.**&#x20;
