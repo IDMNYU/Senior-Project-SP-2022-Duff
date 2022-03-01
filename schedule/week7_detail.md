@@ -4,22 +4,14 @@
 
 Project Demo Deliverables:
 
-* **REVISE your** [**project demo**](../critiques-demos-presentations-and-exhibition/project\_demo.md) **** or link(s) and supporting files and post them on {padlet URL here} **by noon on Monday, March 21 at the very latest** so your classmates can make comments about your project demo revisions. You should be able to edit your previous padlet posts.
+* **REVISE your** [**teaser video**](../assignments/project\_versions.md) **** to include your current working title, refined elevator pitch, etc.
+* **REVISE your** [**project demo**](../critiques-demos-presentations-and-exhibition/project\_demo.md) **** or link(s) and supporting files.&#x20;
+* Post your teaser video first and post your project demo and supporting files on {padlet URL here} **by noon on Monday, March 21 at the very latest** so your classmates can make comments about your project demo revisions.&#x20;
 * **Comment on 3 additional classmates' project demos** by adding a comment or card with your name as the title (unless you create a padlet account and are logged in. We need to know whose comments are which) underrneath the column of the classmate project demo you are commenting on.
   * What is working about the project?
   * What is confusing or needs more clarification about the project? Questions?
   * What are ways that the project can be improved? Suggestions?
   * What additional references, resources, projects, and/or links would be useful for this project?
-
-Project Demo Info & Resources:
-
-* Because each student is working on individual projects, your [project demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) may vary, but you need to show something visible and concrete.&#x20;
-* You can also show multiple things for your project demo. Put each one in a separate padlet card (see link below).
-* The majority of you are working on either UI/UX for websites or apps or animations/videos. Make sure you review the [Design & Production Workflow (AKA Pipeline) ](../resources/design-and-production-workflow.md)resources.
-* For UI/UX for websites and apps, your project demo could include user workflow, user journey, and/or customer journey, sitemaps, wireframes/schematics, and/or clickable prototypes in the software of your choice.&#x20;
-  * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
-* For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests. &#x20;
-* If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc.&#x20;
 
 The Usual Weekly Deliverables:
 
