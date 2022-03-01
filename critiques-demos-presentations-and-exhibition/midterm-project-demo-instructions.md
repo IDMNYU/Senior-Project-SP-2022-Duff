@@ -5,21 +5,12 @@
 ## **Midterm Project Demo Prep**
 
 * IF you haven't already, please sign up for a [padlet](http://padlet.com) account so your name will be attributed to your comments.&#x20;
-* You will find the room # and padlet you're assigned to in this google doc.
+* You will find the room # and padlet you're assigned to in this google sheet {to be shared}.&#x20;
 * **By or before Sunday, March 27, 2022, at noon EST**, please document your prototype(s) by posting the link(s) directly to the thing itself if it is a website (incl. soundcloud links), social media feed (instagram, etc), animatic or animation on vimeo or youtube, etc to your group's respective padlet.&#x20;
 * You can also show multiple assets for your project demo. Put each one in a separate padlet card.
 * **Please look at the prototype(s) of the students in your assigned room BEFORE 2pm on midterm project demo day and leave comments for at least 3 students who are not in our section.** Also, leave comments for other students if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 
-## Midterm Project Demo Info & Resources:
-
-* Because each student is working on individual projects, your [project demo](project\_demo.md) may vary, but you need to show something visible and concrete.&#x20;
-* The majority of you are working on either UI/UX for websites or apps or animations/videos. Make sure you review the [Design & Production Workflow (AKA Pipeline) ](../resources/design-and-production-workflow.md)resources.
-* For UI/UX for websites and apps, your project demo could include user workflow, user journey, and/or customer journey, sitemaps, wireframes/schematics, and/or clickable prototypes in the software of your choice.&#x20;
-  * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
-* For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests. &#x20;
-* If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc.&#x20;
-
-## **Midterm Project Demo**
+## **Midterm Project Demo Overview**
 
 * **Review rules of the** [**critique (AKA giving and receiving feedback)**](critiques.md)**.**
 * Think of this as a show and tell.
@@ -46,7 +37,6 @@
 
 ## Reminders
 
-* You should look at your room's padlet BEFORE Monday at 2pm EST of every student in your room.&#x20;
 * **Do NOT create a supporting presentation.**
 * Make sure you present the prototype(s) itself.
 * Make sure your elevator pitch is just that. Short. 1 to 2 sentences maximum.
