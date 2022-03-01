@@ -2,6 +2,8 @@
 
 ![Keep Going Illustration by Jolby from Gettoworkbook](<../.gitbook/assets/gettoworkbook keep going.png>)
 
+## Project Demos Agenda
+
 Project Demos will be held on designated Mondays. Each demo will consist of:
 
 * Up to 5 minutes max of presentation and&#x20;
@@ -12,6 +14,12 @@ Review the rules of the [critiques](critiques.md) (AKA getting and giving feedba
 
 * Have a member of your accountability team take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not.&#x20;
 
+## Project Demo Overview
+
+* You will demo the project in its current state.
+* The focus is on the actual artifact you are creating and nothing else.
+* **Do NOT create a supporting presentation.**
+
 ## Project Demo Info & Resources:
 
 * Because each student is working on individual projects, your [project demo](project\_demo.md) may vary, but you need to show something visible and concrete.&#x20;
@@ -21,16 +29,9 @@ Review the rules of the [critiques](critiques.md) (AKA getting and giving feedba
   * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
 * For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests. &#x20;
 * If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc.&#x20;
-* For additional information, visit [project versions](../assignments/project\_versions.md).
 
-## Additional Guidelines for your Project Demo
+## For additional information, visit [project versions](../assignments/project\_versions.md).
 
-* You will demo the project in its current state.
-* The focus is on the actual artifact you are creating and nothing else.
-* Do NOT create a supporting presentation.
-
-###
-
-### Document your feedback
+## Document your feedback
 
 Always document any feedback you receive on your project management platform after any [critique](critiques.md). This critique feedback post should include images of the current status of your project (prototype or version), a description of your project progress as it currently stands, and discussion of the feedback you received from the critique. How will this feedback improve your work and ideas?
