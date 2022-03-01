@@ -8,7 +8,7 @@
 * You will find the room # and padlet you're assigned to in this google doc.
 * **By or before Sunday, March 27, 2022, at noon EST**, please document your prototype(s) by posting the link(s) directly to the thing itself if it is a website (incl. soundcloud links), social media feed (instagram, etc), animatic or animation on vimeo or youtube, etc to your group's respective padlet.&#x20;
 * You can also show multiple assets for your project demo. Put each one in a separate padlet card.
-* **Please look at the prototype(s) of the students in your group BEFORE 2pm on midterm project demo day and leave comments for at least 3 students who are not in our section.** Also, leave comments for other students if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
+* **Please look at the prototype(s) of the students in your assigned room BEFORE 2pm on midterm project demo day and leave comments for at least 3 students who are not in our section.** Also, leave comments for other students if you look at their projects. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 
 ## Midterm Project Demo Info & Resources:
 
@@ -21,7 +21,7 @@
 
 ## **Midterm Project Demo**
 
-* Review why [feedback](critiques.md) is important.
+* **Review rules of the** [**critique (AKA giving and receiving feedback)**](critiques.md)**.**
 * Think of this as a show and tell.
 * Be prepared to deliver an elevator pitch of your project verbally.&#x20;
 * Be prepared to demo the project at its current state.&#x20;
@@ -48,24 +48,11 @@
 
 ## Reminders
 
-* You should **look at and comment on your group's padlet BEFORE Monday at 2pm of everyone in your group**.&#x20;
-* Make sure you do not use a presentation to describe your project.
+* You should look at your room's padlet BEFORE Monday at 2pm EST of every student in your room.&#x20;
+* **Do NOT create a supporting presentation.**
 * Make sure you present the prototype(s) itself.
 * Make sure your elevator pitch is just that. Short. 1 to 2 sentences maximum.
 * Make sure you spend the bulk of your 5 min presenting your prototype(s).
-* Make sure you share your screen when you are presenting your prototype(s).
-  * Make sure you select fullscreen on padlet to show your prototype(s).
-* Use your entire 14 min. If students are not giving you feedback, ask them questions you are currently grappling with.
-* Give feedback to everybody at your table if at all possible.
-* Do not just let the IDM grad student(s) or faculty talk.
-* There should be peer-to-peer feedback.
-
-## **Rules of the critique:**
-
-* Do your best.
-* Be present and engaged.
-* Give feedback to your classmates.&#x20;
-* Do not make assumptions. Ask questions.
-* Do NOT take feedback personally.
-* Read [more guidelines here](critiques.md).
+* Use your entire 10 min. If students are not giving you feedback, ask them questions you are currently grappling with.
+* There should be peer-to-peer feedback and conversation.
 
