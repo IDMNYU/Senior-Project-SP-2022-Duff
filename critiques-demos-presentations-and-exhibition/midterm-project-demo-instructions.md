@@ -35,8 +35,6 @@
 
 ## **Midterm Project Demo Setup**
 
-* IF you haven't already, please sign up for a [padlet](https://padlet.com/dashboard) account so your name will be attributed to your comments.&#x20;
-* You will find the room # and padlet you're assigned to in this google sheet {to be shared}.&#x20;
 * You will be paired with a student for 20 min total.&#x20;
 * **Do not pair with a student from your own section.**&#x20;
 * Each student in the pair will have 10 min total:
