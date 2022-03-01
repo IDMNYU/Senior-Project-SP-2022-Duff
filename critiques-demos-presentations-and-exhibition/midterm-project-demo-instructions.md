@@ -1,6 +1,6 @@
 # Midterm Project Demo
 
-**Attendance for the Midterm Project Demo is MANDATORY on both dates.**
+**Attendance for the Midterm Project Demo is MANDATORY!**
 
 ## **Midterm Project Demo Prep**
 
