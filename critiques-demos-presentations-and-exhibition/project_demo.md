@@ -21,6 +21,7 @@ Review the rules of the [critiques](critiques.md) (AKA crits).
   * This is an example of a good wireframe: [https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf](https://fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf) with the exception of the one paragraph of lorem ipsum text. Also do not use color.
 * For animations/videos, your project demo could include storyboards, style frames, animatics, audio, and/or motion tests. &#x20;
 * If you're working on a game, you could include the story, character & other object sketches, interaction tests, levels, maps, puzzles, etc.&#x20;
+* For additional information, visit [project versions](../assignments/project\_versions.md).
 
 ## Additional Guidelines for your Project Demo
 
