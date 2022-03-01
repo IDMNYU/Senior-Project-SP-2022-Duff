@@ -11,6 +11,7 @@ Project Demo Deliverables:
 
 The Usual Weekly Deliverables:
 
+* Please make sure that all of your info is up to date re: your project on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) under the "All Students Overview" frame. Also, make sure you flesh out your [project versions](../assignments/project\_versions.md) as well in the same frame.
 * (OPTIONAL since you met during class already) Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
 * **Document your** [**accountability team**](../assignments/accountability\_partner.md) **meeting(s).**
 * Iterate:&#x20;
