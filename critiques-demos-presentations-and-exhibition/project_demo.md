@@ -8,7 +8,7 @@ Project Demos will be held on designated Mondays. Each demo will consist of:
 * use the remaining time for feedback
 * 10 minutes total
 
-Review the rules of the [critiques](critiques.md) (AKA crits).
+Review the rules of the [critiques](critiques.md) (AKA getting and giving feedback).
 
 * Have a member of your accountability team take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not.&#x20;
 
