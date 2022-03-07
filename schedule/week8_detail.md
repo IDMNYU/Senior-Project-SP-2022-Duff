@@ -2,6 +2,7 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
+* Prepare your [project demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) for [midterm demo and critique](week8\_detail.md#midterm-demo-and-critique).
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
   * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on your [process website](../assignments/website.md).
 * Iterate:&#x20;
