@@ -4,7 +4,9 @@
 
 Project Demo Deliverables:
 
-* **REVISE your** [**teaser video**](../assignments/project\_versions.md) **** to include your current working title, refined elevator pitch, etc.
+* **REVISE your** [**teaser video**](../assignments/project\_versions.md) **** to include your current working title, refined elevator pitch, etc.  It's totally ok if it's less than a minute. Again, the main requirement is your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include. \
+  \
+  Post your video on our [Miro board](https://miro.com/app/board/uXjVOWb7kyo=/) under the frame labeled "Revised Teaser."
 * **REVISE your** [**project demo**](../critiques-demos-presentations-and-exhibition/project\_demo.md) **** or link(s) and supporting files.&#x20;
 * Post your revised teaser video first and post your revised project demo and supporting files on [**https://padlet.com/dd1849/sp22duffdemos2**](https://padlet.com/dd1849/sp22duffdemos2) **by noon on Monday, March 21 at the very latest** so your classmates can make comments about your project demo revisions.&#x20;
 * **Comment on 3 additional classmates' project demos** by adding a comment or card with your name as the title (unless you create a padlet account and are logged in. We need to know whose comments are which) underrneath the column of the classmate project demo you are commenting on.
