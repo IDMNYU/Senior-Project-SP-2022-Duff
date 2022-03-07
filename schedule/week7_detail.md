@@ -6,7 +6,7 @@ Project Demo Deliverables:
 
 * **REVISE your** [**teaser video**](../assignments/project\_versions.md) **** to include your current working title, refined elevator pitch, etc.
 * **REVISE your** [**project demo**](../critiques-demos-presentations-and-exhibition/project\_demo.md) **** or link(s) and supporting files.&#x20;
-* Post your revised teaser video first and post your revised project demo and supporting files on [https://padlet.com/dd1849/sp22duffdemos2](https://padlet.com/dd1849/sp22duffdemos2) **by noon on Monday, March 21 at the very latest** so your classmates can make comments about your project demo revisions.&#x20;
+* Post your revised teaser video first and post your revised project demo and supporting files on [**https://padlet.com/dd1849/sp22duffdemos2**](https://padlet.com/dd1849/sp22duffdemos2) **by noon on Monday, March 21 at the very latest** so your classmates can make comments about your project demo revisions.&#x20;
 * **Comment on 3 additional classmates' project demos** by adding a comment or card with your name as the title (unless you create a padlet account and are logged in. We need to know whose comments are which) underrneath the column of the classmate project demo you are commenting on.
   * What is working about the project?
   * What is confusing or needs more clarification about the project? Questions?
