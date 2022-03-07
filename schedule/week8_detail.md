@@ -12,7 +12,6 @@
 ## [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md)&#x20;
 
 * Attendance is MANDATORY.
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) (depending on where you are in your process.)
 
 
 
