@@ -28,7 +28,7 @@ See more info above under midterm self assessment.
 | 3:45pm                    | Junwei (let me know if this works for you or not:)    |
 | Thursday, March 31 at 1pm | Olivia                                                |
 
-## Check-in with your A-Team in our classroom 370 Jay 307.&#x20;
+## Check-in with your A-Team in our classroom.&#x20;
 
 When you're finished meeting with your A-Team go meet with another A-Team and share your progress and learn about theirs!
 
