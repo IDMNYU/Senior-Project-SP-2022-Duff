@@ -13,19 +13,19 @@
 
 See more info above under midterm self assessment.
 
-| Time                      | Student                                               |
-| ------------------------- | ----------------------------------------------------- |
-| 1:30pm                    |                                                       |
-| 1:45pm                    | Charitssa (let me know if this works for you or not.) |
-| 2pm                       | Kiana                                                 |
-| 2:15pm                    | Yanxin                                                |
-| 2:30pm                    | Jasmine                                               |
-| 2:45pm                    | Jack                                                  |
-| 3pm                       | Lillian                                               |
-| 3:15pm                    | Vida                                                  |
-| 3:30pm                    | Shipon                                                |
-| 3:45pm                    | Junwei (let me know if this works for you or not:)    |
-| Thursday, March 31 at 1pm | Olivia                                                |
+| Time   | Student                                               |
+| ------ | ----------------------------------------------------- |
+| 1:30pm | Olivia                                                |
+| 1:45pm | Charitssa (let me know if this works for you or not.) |
+| 2pm    | Kiana                                                 |
+| 2:15pm | Yanxin                                                |
+| 2:30pm | Jasmine                                               |
+| 2:45pm | Jack                                                  |
+| 3pm    | Lillian                                               |
+| 3:15pm | Vida                                                  |
+| 3:30pm | Shipon                                                |
+| 3:45pm | Junwei (let me know if this works for you or not:)    |
+|        |                                                       |
 
 ## Check-in with your A-Team in our classroom.&#x20;
 
