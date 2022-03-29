@@ -1,6 +1,6 @@
 # Midterm Self-Assessment
 
-* Please name your file as lastname\_senior\_sp21\_midtermassessment.pdf
+* Please name your file as lastname\_senior\_sp22\_midtermassessment.pdf
 * Direct Message as pdf to deangela on Slack.
 * Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](../end\_of\_semester\_deliverables.md).
 
