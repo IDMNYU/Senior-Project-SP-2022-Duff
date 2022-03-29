@@ -7,7 +7,7 @@
 * Continue to iterate and develop your [project](../assignments/project\_versions.md).
 * [Midterm Self Assessment](../assignments/assessments/midterm\_self\_assessment.md)&#x20;
   * Please read all of the directions.&#x20;
-  * Direct message as pdf to De Angela on slack **BEFORE your meeting**. For those of you who are meeting with me on Monday, April 4, by or before 11am EDT.
+  * Direct message as pdf to De Angela on slack **BEFORE your meeting** on Monday, April 4, by or before 11am EDT.
 
 ## **Midterm One On One Review with me in my office 370 Jay Rm 361**
 
