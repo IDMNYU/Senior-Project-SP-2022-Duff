@@ -15,7 +15,7 @@ As a student, you should also develop your critical thinking skills. This will i
 * Critically analyze/evaluate your senior project **process**.
 * At this point in time, what qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).
 * Reflect upon your project's progress at this point in time.
-* What feedback about your project (from anyone) has been the most useful to you and why?
+* What feedback about your project (from anyone and including the midtem demo) has been the most useful to you and why?
 * What are your open issues?
 * What are your risks of failure (lack of tech, time, knowledge, money, etc.)?
 * Create a contingency plan for major risks.
