@@ -2,8 +2,8 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-* (OPTIONAL since you met during class already) Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
-  * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on your [process website](../assignments/website.md).
+* Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week and discuss the feedback you got from the [midterm demo](https://docs.google.com/spreadsheets/d/1U9xOT\_r\_jnaPtbKW-pZMSXHni-UoA5cN-KGZrbMJg1E/edit#gid=0).
+  * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on slack.
 * Iterate [prototype(s)](../assignments/project\_plan.md) of your project.
 * [Document](../assignments/website.md) your process and artifacts which include the [prototype(s)](../assignments/project\_plan.md) of your project.
 * If you have not done so already, please schedule your **Midterm One On One Review anytime on or between Tue Mar 29-Fri Apr 1.** For those of you who already have, thank you.
