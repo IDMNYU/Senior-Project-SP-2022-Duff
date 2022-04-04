@@ -9,9 +9,16 @@
   * Please read all of the directions.&#x20;
   * Direct message as pdf to De Angela on slack **BEFORE your meeting** on Monday, April 4, by or before 11am EDT.
 
+## Check-in with your A-Team in our classroom while I conduct one on ones in my office.&#x20;
+
+* [research and design](../assignments/project\_plan.md)
+* [project management](../assignments/website.md)
+
+When you're finished meeting with your A-Team go meet with another A-Team and share your progress and learn about theirs!
+
 ## **Midterm One On One Review with me in my office 370 Jay Rm 361**
 
-See more info above under midterm self assessment.
+See more info here: [Midterm Self Assessment](../assignments/assessments/midterm\_self\_assessment.md)&#x20;
 
 | Time   | Student                                               |
 | ------ | ----------------------------------------------------- |
@@ -27,12 +34,7 @@ See more info above under midterm self assessment.
 | 3:45pm | Junwei (let me know if this works for you or not:)    |
 |        |                                                       |
 
-## Check-in with your A-Team in our classroom.&#x20;
-
-When you're finished meeting with your A-Team go meet with another A-Team and share your progress and learn about theirs!
-
-* [research and design](../assignments/project\_plan.md)
-* [project management](../assignments/website.md)
+##
 
 ##
 
