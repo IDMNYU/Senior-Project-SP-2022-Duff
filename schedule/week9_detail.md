@@ -28,7 +28,7 @@ See more info here: [Midterm Self Assessment](../assignments/assessments/midterm
 | 2:15pm | Yanxin                                                |
 | 2:30pm | Jasmine                                               |
 | 2:45pm | Jack                                                  |
-| 3pm    | Lillian                                               |
+| 2:50pm | Lillian                                               |
 | 3:15pm | Vida                                                  |
 | 3:30pm | Shipon                                                |
 | 3:45pm | Junwei (let me know if this works for you or not:)    |
