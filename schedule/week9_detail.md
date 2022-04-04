@@ -20,20 +20,20 @@ When you're finished meeting with your A-Team go meet with another A-Team and sh
 
 See more info here: [Midterm Self Assessment](../assignments/assessments/midterm\_self\_assessment.md)&#x20;
 
-| Time   | Student                                            |
-| ------ | -------------------------------------------------- |
-| 1:30pm | Olivia                                             |
-| 1:45pm | Charitssa                                          |
-| 2pm    | Kiana                                              |
-| 2:15pm | Yanxin                                             |
-| 2:30pm | Jasmine                                            |
-| 2:45pm | Jack                                               |
-| 2:50pm | Lillian                                            |
-| 3:05pm | Vida                                               |
-| 3:15pm | Leon                                               |
-| 3:30pm | Shipon                                             |
-| 3:45pm | Junwei (let me know if this works for you or not:) |
-|        |                                                    |
+| Time   | Student   |
+| ------ | --------- |
+| 1:30pm | Olivia    |
+| 1:45pm | Charitssa |
+| 2pm    | Kiana     |
+| 2:15pm | Yanxin    |
+| 2:30pm | Jasmine   |
+| 2:45pm | Jack      |
+| 2:50pm | Vida      |
+| 3:05pm | Lillian   |
+| 3:15pm | Leon      |
+| 3:30pm | Shipon    |
+| 3:45pm | Junwei    |
+|        |           |
 
 ##
 
