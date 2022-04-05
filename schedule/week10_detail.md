@@ -11,6 +11,7 @@
 
 ## Class
 
+* Guest: [Cadence Daniels](https://madebycd.com) (IDM BS 2018)
 * Class Critique: [Pro Practices Material Revisions](../assignments/pro\_practices\_revisions.md)
 * Discuss:&#x20;
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
