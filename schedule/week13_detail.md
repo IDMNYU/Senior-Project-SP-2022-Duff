@@ -11,7 +11,7 @@
 
 ## Class
 
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) or Revision (if applicable)
+* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)
 * Discuss:&#x20;
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
   * [End of Semester Deliverables](../assignments/end\_of\_semester\_deliverables.md)
