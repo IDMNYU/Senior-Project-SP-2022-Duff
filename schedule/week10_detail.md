@@ -9,6 +9,7 @@
 * Revise your [Pro Practices material](../assignments/pro\_practices\_revisions.md).
 * Continue to iterate the [prototype(s)](../assignments/project\_plan.md) of your project, [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
+* Review your [project scope using the MoSCoW method](../assignments/moscow-method.md).
 
 ## Class
 
