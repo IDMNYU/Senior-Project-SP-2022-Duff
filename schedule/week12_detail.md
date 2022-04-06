@@ -4,15 +4,17 @@
 
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
 * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) in the duff slack channel.
-* Prepare or revise your [project presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md).
-* Add the URL to your [one-minute IDM showcase video](https://docs.google.com/document/d/1EfXgca1QsOS6xNGzMvSjeAmHDSRgqK2bK1CTrJRPoNU/edit) to the project presentation google doc.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
+* **REVISE your** [**teaser video**](../assignments/project\_versions.md) **** to include your current working title, refined elevator pitch, and a preview of your project. It's totally ok if it's less than a minute. Again, the main requirement is your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include beyond the preview of your project. \
+  \
+  Post your video on our [Miro board](https://miro.com/app/board/uXjVOWb7kyo=/) under the frame labeled "Revised Teaser."
+* Review the [project demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) overview.
 
-## Class
+## Class Critique
 
-* 1-min video reviews & class critique
-*   Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)&#x20;
+* [Teaser Videos](../assignments/project\_versions.md)
+* [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)&#x20;
 
 
 
