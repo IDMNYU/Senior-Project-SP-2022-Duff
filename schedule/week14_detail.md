@@ -6,8 +6,6 @@
 * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) in the duff slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
-* Revise your 1-min video for the [IDM showcase](../critiques-demos-presentations-and-exhibition/idm\_showcase.md) if needed
-* Revise your [project plan](../assignments/project\_plan.md) on our shared Miro, particularly your elevator pitch.&#x20;
 * If you haven't done so already, please schedule your final [one-on-one](week15\_detail.md). _Thank you so much if you already have!_
 
 ## Class
@@ -17,5 +15,4 @@
 * Class Critique:
   * State Elevator Pitch
   * Show Project
-* Review Events on [Master Schedule](./)
-* (IF time) 1-min video revision reviews & class critique
+

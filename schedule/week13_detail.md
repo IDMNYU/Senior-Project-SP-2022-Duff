@@ -6,11 +6,10 @@
 * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) in the duff slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
-* (If applicable) revised your 1-minute video for the IDM showcase
+* Revise your [project plan](../assignments/project\_plan.md) on our shared Miro, particularly your elevator pitch.&#x20;
 
 ## Class
 
-* 1-min video reviews & class critique
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) or Revision (if applicable)
 * Discuss:&#x20;
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
