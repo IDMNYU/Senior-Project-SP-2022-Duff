@@ -8,10 +8,11 @@ Participation is MANDATORY for the end-of-semester showcase!! The student showca
 
 At a minimum, the following materials are due on **Date TBD**:
 
-* A URL to view the project (can be a video link, documentation, live site, etc)&#x20;
-* an image that represents the project (can be of the thing itself, a graphic treatment, etc)&#x20;
-* text describing the project&#x20;
-* project title
+1\) A one to two-minute video that explains your project (a revised teaser)\
+2\) a URL to view the project (can be a video link, documentation, live site, etc) \
+3\) an image that represents the project (can be of the thing itself, a graphic treatment, etc) \
+4\) text describing the project \
+5\) project title
 
 Students may also submit additional media- images, videos- as appropriate.
 

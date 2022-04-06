@@ -15,16 +15,12 @@
 * In other words, it's better to integrate the talking with the showing of your project instead of having a separate slideshow.&#x20;
 * If you choose to create a separate slideshow make sure it's image-heavy as opposed to text-heavy.&#x20;
 * Use the [project plan](../assignments/project\_plan.md) sections as a template for your oral or visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
-* Post the link in this [google doc](https://docs.google.com/document/d/1EfXgca1QsOS6xNGzMvSjeAmHDSRgqK2bK1CTrJRPoNU/edit) before class begins to your presentation **or your project** if you will be speaking primarily through showing your project.
+* Post the link in this [google doc](https://docs.google.com/document/d/1EfXgca1QsOS6xNGzMvSjeAmHDSRgqK2bK1CTrJRPoNU/edit) before class begins to an accompanying slideshow **or your project** if you will be speaking primarily through showing your project (which is recommended).
 
 Each presentation will consist of:
 
-* 7 minutes of presentation (to include watching your 1-min IDM showcase video) and&#x20;
-*   7 minutes of feedback and Q\&A
-
-    (or a combination thereof)
-
-    for 14 minutes total.
+* 7 minutes of presentation&#x20;
+* (OPTIONAL) If you choose to create an accompanying slideshow please use google slides, prezi, or a platform that can be shared via a URL.
 
 ## Document your feedback
 
