@@ -12,7 +12,5 @@
 
 * 10min
   * Complete [Course Evaluation](../assignments/course\_evaluation.md) if you haven't already done so. _(Please try to do this before class if at all possible.)_
-* Class Critique:
-  * State Elevator Pitch
-  * Show Project
+* [Project Presentations](../critiques-demos-presentations-and-exhibition/project-presentation.md) (7 minutes maximum per student)
 
