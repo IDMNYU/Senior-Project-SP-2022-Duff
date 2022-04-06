@@ -8,7 +8,7 @@
 * Continue to document your process and artifacts (the thing(s) itself).
 * **REVISE your** [**teaser video**](../assignments/project\_versions.md) **** to include your current working title, refined elevator pitch, and a preview of your project. It's totally ok if it's less than a minute. Again, the main requirement is your elevator pitch which is your concept + primary audience + medium. You decide what else you want to include beyond the preview of your project. \
   \
-  Post your video on our [Miro board](https://miro.com/app/board/uXjVOWb7kyo=/) under the frame labeled "Revised Teaser."
+  Post your video on our [Miro board](https://miro.com/app/board/uXjVOWb7kyo=/) under the frame labeled "Revised Teaser Videos **April**."
 * Review the [project demo](../critiques-demos-presentations-and-exhibition/project\_demo.md) overview.
 
 ## Class Critique
