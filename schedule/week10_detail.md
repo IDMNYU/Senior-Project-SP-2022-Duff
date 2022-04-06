@@ -11,8 +11,9 @@
 * Continue to document your process and artifacts (the thing(s) itself).
 * (OPTIONAL) If you're feeling overwhelmed, revisit your [project scope using the MoSCoW method](../assignments/moscow-method.md).
 
-## Class
+## Class (on Zoom this week)
 
+* Check Slack or your google calendar for the Zoom link
 * Guest: [Cadence Daniels](https://madebycd.com) (IDM BS 2018)
 * Class Critique: [Pro Practices Material Revisions](../assignments/pro\_practices\_revisions.md)
 * Discuss:&#x20;
