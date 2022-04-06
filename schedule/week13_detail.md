@@ -6,7 +6,8 @@
 * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) in the duff slack channel.
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
-* Revise your [project plan](../assignments/project\_plan.md) on our shared Miro, particularly your elevator pitch.&#x20;
+* Strategize and rehearse [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) approach
+* (IF Needed) Iterate [Project Teaser Video](../assignments/project\_versions.md)
 
 ## Class
 
