@@ -8,7 +8,7 @@
 
 ## Class
 
-* Individual Meetings.&#x20;
+* Individual Meetings to discuss your pro practices materials (resume, website, and LinkedIn profile), and post-graduation plans.&#x20;
 * Check-in with your A-Team and share your
   * [research and design](../assignments/project\_plan.md)
   * [project management](../assignments/website.md)
