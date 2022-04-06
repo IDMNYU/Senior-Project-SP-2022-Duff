@@ -3,7 +3,7 @@
 ## Deliverables (DUE ON DATE LISTED)
 
 * Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week and discuss the feedback you got from the [midterm demo](https://docs.google.com/spreadsheets/d/1U9xOT\_r\_jnaPtbKW-pZMSXHni-UoA5cN-KGZrbMJg1E/edit#gid=0) feedback.
-  * Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on the #duff slack channel.
+* Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) on the #duff slack channel.
 * Continue to iterate and develop your [project](../assignments/project\_versions.md).
 * [Midterm Self Assessment](../assignments/assessments/midterm\_self\_assessment.md)&#x20;
   * Please read all of the directions.&#x20;

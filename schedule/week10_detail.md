@@ -2,7 +2,8 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-* Make sure you continue to check-in with your [accountability team](../assignments/accountability\_partner.md).
+* Meet with your [accountability team ](../assignments/accountability\_partner.md)at least once, this week.&#x20;
+* Document your [accountability team](../assignments/accountability\_partner.md) meeting(s) in the duff slack channel.
 * Watch the videos posted at the bottom of [pro practices](../assignments/pro\_practices\_revisions.md) revisions.
 * My feedback on pro practices material may vary from your pro practices instructor. Identify these variances and reflect on why the feedback is different in some cases. Post these differences in the #duff slack channel. Be prepared to discuss these differences during class.
 * Revise your [Pro Practices material](../assignments/pro\_practices\_revisions.md).
