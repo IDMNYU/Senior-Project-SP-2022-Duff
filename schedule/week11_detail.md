@@ -9,14 +9,14 @@
 
 ## Class
 
-## Check-in with your A-Team in our classroom while I conduct one on ones in my office.&#x20;
+## Check-in with your A-Team in our classroom (while I conduct one on ones in my office)&#x20;
 
 * [research and design](../assignments/project\_plan.md)
 * [project management](../assignments/website.md)
 
 When you're finished meeting with your A-Team go meet with another A-Team and share your progress and learn about theirs!
 
-## Individual One on One Meetings In My Office
+## Individual One on One Meetings In My Office **370 Jay Rm 361**
 
 to discuss your pro practices materials (resume, website, and LinkedIn profile), and post-graduation plans.&#x20;
 
