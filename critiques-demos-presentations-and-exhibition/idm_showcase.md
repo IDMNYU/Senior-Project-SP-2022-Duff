@@ -6,6 +6,8 @@
 
 Participation is MANDATORY for the end-of-semester showcase!! The student showcase is a part of your grade.
 
+## Submit to the IDM Showcase
+
 Here's the submission form for the IDM senior showcase. **You must fill out this form by April 20, 2022.** Your participation in the show is a requirement for this class. Late submissions will not be allowed so be sure to submit it by the deadline: [https://forms.gle/NBP4o1aGsjAXDar99](https://forms.gle/NBP4o1aGsjAXDar99)
 
 At a minimum, the following materials are due on **April 20, 2022**:
@@ -19,7 +21,7 @@ Students may also submit additional media- images, videos- as appropriate.
 
 **You can see submissions from last semester here:** [**http://idm.show/F2021/**](http://idm.show/F2021/)
 
-Other information:
+## Participate in the IDM Showcase
 
 * It will be science fair style, meaning most students will be presenting from their laptop.
 * Equipment will be available for students to use on a case by case basis (primarily determined by Dylan who is managing the install/ hardware distribution).
