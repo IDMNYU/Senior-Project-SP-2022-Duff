@@ -2,7 +2,7 @@
 
 ![You Got This! Illustration by Jolby from gettoworkbook](<../.gitbook/assets/GETTOWORKBOOK\_ you got this.jpg>)
 
-**Wednesday, May 11th, 5-8pm EDT**
+**Wednesday, May 11, 2022, 5-8pm EDT**
 
 Participation is MANDATORY for the end-of-semester showcase!! The student showcase is a part of your grade.
 
