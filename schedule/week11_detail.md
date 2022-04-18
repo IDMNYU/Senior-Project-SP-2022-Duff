@@ -17,4 +17,7 @@
 * Discuss [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
 * Discuss [End of Semester Deliverables](../assignments/end\_of\_semester\_deliverables.md)
 * Class Critique: [Pro Practices Material Revisions](../assignments/pro\_practices\_revisions.md)
+* Review [Career Preparation Resources](../resources/recommended\_resources.md)
+* Discuss [https://read.cv/](https://read.cv)
+* Discuss IDM alum résumé: [https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf](https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf)
 
