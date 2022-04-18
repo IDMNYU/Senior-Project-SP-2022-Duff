@@ -13,6 +13,7 @@
 
 ## Class Critique
 
+* [Course Evaluations](../assignments/course\_evaluation.md) DUE May 10, 2022, 11:59pm EDT
 * [Teaser Videos](../assignments/project\_versions.md)
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)&#x20;
 
