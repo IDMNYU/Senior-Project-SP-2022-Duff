@@ -19,5 +19,7 @@
 * Class Critique: [Pro Practices Material Revisions](../assignments/pro\_practices\_revisions.md)
 * Review [Career Preparation Resources](../resources/recommended\_resources.md)
 * Discuss [https://read.cv/](https://read.cv)
-* Discuss IDM alum résumé: [https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf](https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf)
+* Discuss IDM alum résumé:&#x20;
+  * [https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf](https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf)
+  * [https://madebycd.com/resume](https://madebycd.com/resume)
 
