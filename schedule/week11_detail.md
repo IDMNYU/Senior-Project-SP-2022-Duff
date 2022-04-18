@@ -22,4 +22,6 @@
 * Discuss IDM alum résumé:&#x20;
   * [https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf](https://cattsmall.com/assets/files/cattsmall\_resume\_color.pdf)
   * [https://madebycd.com/resume](https://madebycd.com/resume)
+  * Maxine Kho [pdf](https://drive.google.com/drive/folders/1xmAsl4kvBtNqjJemNNeda82qmMcOb82A) on google drive linked from [website](https://maxinekho.com)
+  * [http://www.hillarychin.com/RESUME\_design.pdf](http://www.hillarychin.com/RESUME\_design.pdf)
 
