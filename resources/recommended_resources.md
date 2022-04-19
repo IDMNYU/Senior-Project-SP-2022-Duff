@@ -29,6 +29,10 @@
   * [Let Recruiters Know You’re Open to Job Opportunities | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en\&src=aff-lilpar\&veh=aff\_src.aff-lilpar\_c.partners\_pkw.123201\_plc.adgoal%20GmbH\_pcrid.449670\_learning\&trk=aff\_src.aff-lilpar\_c.partners\_pkw.123201\_plc.adgoal%20GmbH\_pcrid.449670\_learning\&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0\&irgwc=1)
   * [Find Jobs on LinkedIn – Best Practices | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 
+## Portfolio
+
+* [http://kritikakushwaha.com/dear-student](http://kritikakushwaha.com/dear-student)
+
 ## AIGA (Professional Org for Creatives)
 
 * [AIGA Professional Resources](http://www.aiga.org/professional-resources)
