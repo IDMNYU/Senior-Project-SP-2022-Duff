@@ -71,6 +71,7 @@
 * [Design X](https://salary.design) &#x20;
 * [Design Census](https://designcensus.org)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
+* [Levels](https://www.levels.fyi)
 
 ## Branding
 
