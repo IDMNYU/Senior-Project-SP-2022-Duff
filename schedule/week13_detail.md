@@ -11,6 +11,7 @@
 
 ## Class
 
+* [Course Evaluations](../assignments/course\_evaluation.md) DUE May 10, 2022, 11:59pm EDT
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)
 * Discuss:&#x20;
   * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
