@@ -10,7 +10,6 @@
 
 ## Class
 
-* [Course Evaluations](../assignments/course\_evaluation.md) DUE May 10, 2022, 11:59pm EDT
 * Here's the submission form for the IDM senior showcase: [https://forms.gle/NBP4o1aGsjAXDar99](https://forms.gle/NBP4o1aGsjAXDar99) \
   \
   **You must fill out this form by April 20th (Wed evening at the latest).** Your participation in the show is a senior project requirement. Late submissions will not be allowed so be sure to submit it by the deadline.
