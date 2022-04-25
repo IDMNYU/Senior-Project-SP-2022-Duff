@@ -16,6 +16,12 @@
 * [Course Evaluations](../assignments/course\_evaluation.md) DUE May 10, 2022, 11:59pm EDT
 * Review [Teaser Videos](../assignments/project\_versions.md)
 * [Project Demo](../critiques-demos-presentations-and-exhibition/project\_demo.md)&#x20;
+*   Discuss:&#x20;
+
+    * [IDM Showcase ](../critiques-demos-presentations-and-exhibition/idm\_showcase.md)
+    * [End of Semester Deliverables](../assignments/end\_of\_semester\_deliverables.md)
+
+
 
 
 
