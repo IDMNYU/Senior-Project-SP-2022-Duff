@@ -2,7 +2,7 @@
 
 ## Final One on One Review
 
-* Schedule 15 minutes ONLY at [https://calendly.com/deangela/15min](https://calendly.com/deangela/15min) anytime from May 13.&#x20;
+* Schedule 15 minutes ONLY at [https://calendly.com/deangela/15min](https://calendly.com/deangela/15min) on May 13.&#x20;
 * [Final Self Assessment ](../assignments/assessments/final\_self\_assessment.md)
   * Please read all of the directions.&#x20;
   * Direct message as pdf to deangela on slack **BEFORE your meeting.**
