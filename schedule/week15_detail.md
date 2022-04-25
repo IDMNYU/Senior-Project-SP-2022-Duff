@@ -1,8 +1,8 @@
-# Week 15 Detail May 11-13
+# Week 15 Detail May 13
 
 ## Final One on One Review
 
-* Schedule 15 minutes ONLY at [https://calendly.com/deangela/15min](https://calendly.com/deangela/15min) anytime from May 11-13.&#x20;
+* Schedule 15 minutes ONLY at [https://calendly.com/deangela/15min](https://calendly.com/deangela/15min) anytime from May 13.&#x20;
 * [Final Self Assessment ](../assignments/assessments/final\_self\_assessment.md)
   * Please read all of the directions.&#x20;
   * Direct message as pdf to deangela on slack **BEFORE your meeting.**
