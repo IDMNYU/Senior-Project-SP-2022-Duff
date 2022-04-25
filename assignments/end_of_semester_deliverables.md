@@ -9,6 +9,7 @@ Over the course of the semester, you should upload the corresponding files and f
 NEW:
 
 * [Project Documentation](project\_documentation.md) folder
+* [Career Culture Roadmap](pdf\_or\_book.md)
 * [Final Self-assessment](assessments/final\_self\_assessment.md) pdf
 * [Letter To Next Cohort](letter\_to\_next\_cohort.md) file&#x20;
 
