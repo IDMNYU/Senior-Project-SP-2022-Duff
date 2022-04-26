@@ -7,7 +7,7 @@
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
 * Strategize and rehearse [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) approach
-* (If applicable) Post your [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) on the [class' Miro](https://miro.com/app/board/uXjVOWb7kyo=/) under the "Draft of Project Presentations" frame. Remember your project presentation can be:&#x20;
+* (If applicable) Post your [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) on our [Miro](https://miro.com/app/board/uXjVOWb7kyo=/) board under the "Draft of Project Presentations" frame. Remember your project presentation can be:&#x20;
   * the thing itself with verbal commentary,&#x20;
   * your project teaser video with audio narration embedded within or spoken verbally, OR
   * (least recommended) a keynote / powerpoint / prezi / google slides
