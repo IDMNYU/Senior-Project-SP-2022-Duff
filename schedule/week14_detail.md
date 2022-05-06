@@ -2,7 +2,12 @@
 
 ## Deliverables (DUE ON DATE LISTED)
 
-* Please post your final project to the padlet {URL will be posted here} by or before Monday morning, May 8, at noon. Please leave feedback for your classmates by or before Monday, May 9, at 2pm.
+* (If applicable) Post your [Project Presentation](../critiques-demos-presentations-and-exhibition/project-presentation.md) on the [class' Miro](https://miro.com/app/board/uXjVOWb7kyo=/) under the "Final Project Presentations" frame. If your presentation hasn't changed since last week, move/drag your presentation to the "Final Project Presentations" frame.\
+  \
+  Remember your project presentation can be:&#x20;
+  * the thing itself with verbal commentary,&#x20;
+  * your project teaser video with audio narration embedded within or spoken verbally, OR
+  * (least recommended) a keynote / powerpoint / prezi / google slides
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../assignments/project\_plan.md) of your project as needed.
 * Continue to document your process and artifacts (the thing(s) itself).
 * If you haven't done so already, please schedule your final [one-on-one](week15\_detail.md). _Thank you so much if you already have!_
