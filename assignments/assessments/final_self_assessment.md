@@ -65,5 +65,4 @@ Critically analyze/evaluate your senior project **process.**
 
 * What worked? What didn't work? Ideas? Suggestions for Improvement? for the:
   * IDM showcase submission process
-  * IDM showcase virtual event
   * IDM showcase website
