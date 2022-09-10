@@ -10,7 +10,7 @@
 
     **Students** can get free headshots from the NYU Photo Bureau. I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it (sometimes weeks) in advance.&#x20;
 * [NYU Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html) for Career Development
-* [NYU Leslie Elab](https://entrepreneur.nyu.edu) (Entrepreneurship)
+* [NYU Leslie Elab](https://entrepreneur.nyu.edu/) (Entrepreneurship)
 
 ## Catt Small (IDM Alumna)
 
@@ -29,6 +29,10 @@
   * [Let Recruiters Know You’re Open to Job Opportunities | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en\&src=aff-lilpar\&veh=aff\_src.aff-lilpar\_c.partners\_pkw.123201\_plc.adgoal%20GmbH\_pcrid.449670\_learning\&trk=aff\_src.aff-lilpar\_c.partners\_pkw.123201\_plc.adgoal%20GmbH\_pcrid.449670\_learning\&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0\&irgwc=1)
   * [Find Jobs on LinkedIn – Best Practices | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 
+## Resumé
+
+* Resume tips from a Senior Google recruiter [https://www.tiktok.com/@careerdivacoaching/video/7138837823611997486?](https://www.tiktok.com/@careerdivacoaching/video/7138837823611997486?)
+
 ## Portfolio
 
 * [http://kritikakushwaha.com/dear-student](http://kritikakushwaha.com/dear-student)
@@ -43,7 +47,7 @@
 ## Job Boards
 
 * [Glass Door](http://glassdoor.com)
-* **Highly Recommended!** Subscribe to the [Words of Mouth Newsletter](http://www.wordsofmouth.org)
+* **Highly Recommended!** Subscribe to the [Words of Mouth Newsletter](http://www.wordsofmouth.org/)
 * [https://designx.community/jobs/](https://designx.community/jobs/) (UX, Design, & Research jobs)
 * [Uncubed](https://uncubed.com)
 * [We Work Remotely](https://weworkremotely.com)
@@ -55,7 +59,7 @@
 
 ## **Miscellaneous**
 
-* [Pew Research](http://www.pewresearch.org)
+* [Pew Research](http://www.pewresearch.org/)
 * [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
 * (Book) [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8\&qid=1516586778\&sr=1-1-spell) by Adrian Shaughnessy
 
@@ -68,10 +72,10 @@
 
 ## Salaries
 
-* [Design X](https://salary.design) &#x20;
-* [Design Census](https://designcensus.org)
+* [Design X](https://salary.design/?utm\_source=newsletter\&utm\_medium=email\&utm\_campaign=weekly\_digest\_of\_community\_conversations\_resources\_jobs\&utm\_term=2021-04-01) &#x20;
+* [Design Census](https://designcensus.org/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
-* [Levels](https://www.levels.fyi)
+* [Levels](https://www.levels.fyi/)
 
 ## Branding
 
@@ -81,9 +85,9 @@
 
 * [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr\_1\_1?s=books\&ie=UTF8\&qid=1516833304\&sr=1-1\&keywords=never+eat+alone) by Keith Ferrazzi
 * Conferences by Design X:
-  * [Remote Design Week](https://remotedesignweek.com)
+  * [Remote Design Week](https://remotedesignweek.com/)
   * [Design Leadership Summit](https://designleadership.io/summit-2019)
-  * [5to9 Conference](https://5to9.co)
+  * [5to9 Conference](https://5to9.co/)
   * [Ladders Conference](https://designx.community/ladders-conference/)
 
 ## Writing
