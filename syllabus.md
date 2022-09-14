@@ -18,7 +18,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 | **Office**        | 370 Jay St., Rm 361                                                      | **Location**     | 370 Jay, Rm 307 |
 | **Student Hours** | by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs**   | 3               |
 
-**IDM EQUIPMENT ROOM:** [**http://equipment.bxmc.poly.edu/**](http://equipment.bxmc.poly.edu)****
+**IDM EQUIPMENT ROOM:** [**http://equipment.bxmc.poly.edu/**](http://equipment.bxmc.poly.edu/)****
 
 ## In the event that the course needs to be offered entirely online for a particular class meeting, we will meet synchronously at the standard class time using Zoom. The zoom link will be posted on the class Slack and included in a calendar invite that I will also send.
 
@@ -216,6 +216,10 @@ NYU offers many health and wellness services and resources. Take advantage of th
 ## Academic Accommodations
 
 If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway\&entry=gmail\&source=g) on the 2nd floor.
+
+## Religious Accommodations
+
+NYU’s Calendar Policy on Religious Holidays states that members of any religious group may, without penalty, absent themselves from classes when required in compliance with their religious obligations. You must notify me in advance of religious holidays or observances that might coincide with exams, assignments, or class times to schedule mutually acceptable alternatives. Students may also contact [religiousaccommodations@nyu.edu](mailto:religiousaccommodations@nyu.edu) for assistance.
 
 ## NYU Tandon's Equity & Inclusion Statement
 
