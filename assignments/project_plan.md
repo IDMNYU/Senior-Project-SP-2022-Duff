@@ -1,8 +1,18 @@
 # Project Plan
 
-> Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. \~James Clear
+>
+>
+> Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort but a lack of direction. There are many capable people in the world, but relatively few that focus on what matters. \~James Clear, Author of _Atomic Habits_
 
-![Create More Than You Consume Illustration by Jolby from Get To Work Book](<../../.gitbook/assets/GETTOWORKBOOK\_create more than you consume.jpg>)
+![Create More Than You Consume Illustration by Jolby from Get To Work Book](<../.gitbook/assets/GETTOWORKBOOK\_create more than you consume.jpg>)
+
+> The first step—perhaps the most enormous step—is to find what you are genuinely interested in.\
+> \
+> If you are genuinely interested, you will discover endless opportunities for improvement. But if you are disinterested, even obvious improvements will feel like a chore.\
+> \
+> And, if you can maintain your genuine interest and curiosity as the years accumulate, you will become hard to compete with because you will have skill to go with your passion. If you're interested, you're dangerous.\
+> \
+> \~James Clear, Author of _Atomic Habits_
 
 Your project plan will be located on this shared board for the entire class on [Miro](https://miro.com/app/board/uXjVOWb7kyo=/).
 
@@ -16,7 +26,7 @@ Keep your Miro board up to date. Please revise the Miro board to reflect any sig
 
 #### Projects: Why + What + How
 
-![](<../../.gitbook/assets/bullet journal plans goals intentions.jpeg>)
+![](<../.gitbook/assets/bullet journal plans goals intentions.jpeg>)
 
 <details>
 
@@ -149,12 +159,12 @@ __How are you achieving this?
 * All actionable tasks should start with a verb (i.e. write, call, email, build, code, collect, etc.), and can be completed in a day.
 * Also, be specific with your tasks. (For example, "take 20 photographs" is more explicit than "take photographs". "Take 5 photos of tigers, 5 photos of bears, 5 photos of lizards, and 5 photos of cats" is more explicit than "take 20 photographs".)
 * For creating and tracking your milestones and actionable tasks, you don't need a fancy system or tool. Google Docs works just fine. The main thing is whatever you use needs to be editable. However, other tools, besides google docs, that you can use to track your milestones progress are:
-  * [Asana](https://asana.com)
+  * [Asana](https://asana.com/)
     * [Monday](http://monday.com) is an Asana alternative.
   * [Milanote](https://milanote.com)
-  * [Notion](https://www.notion.so)
-  * [Trello](http://trello.com)
-    * [Kanbanery.com](http://kanbanery.com) is a Trello aternative.
+  * [Notion](https://www.notion.so/)
+  * [Trello](http://trello.com/)
+    * [Kanbanery.com](http://kanbanery.com/) is a Trello aternative.
   * Moleskine's [Actions](https://moleskinestudio.com/actions/)&#x20;
 
 </details>
@@ -163,7 +173,7 @@ __How are you achieving this?
 
 <summary>Research</summary>
 
-Including, but not limited to, brainstorming ([free writing, word lists, and mind maps](../../resources/brainstorming/free-writing-word-lists-and-mind-maps.md), [card sorting technique](../../resources/brainstorming/card\_sorting.md), [SCAMPER technique](http://www.mindtools.com/pages/article/newCT\_02.htm), [storytelling exercise](../../resources/brainstorming/storytelling\_exercise.md), word lists, etc.), readings, screenings / viewings, exhibitions, talks, tech research, material research, visual research, collection, interviews, observation, etc.
+Including, but not limited to, brainstorming ([free writing, word lists, and mind maps](../resources/brainstorming/free-writing-word-lists-and-mind-maps.md), [card sorting technique](../resources/brainstorming/card\_sorting.md), [SCAMPER technique](http://www.mindtools.com/pages/article/newCT\_02.htm), [storytelling exercise](../resources/brainstorming/storytelling\_exercise.md), word lists, etc.), readings, screenings / viewings, exhibitions, talks, tech research, material research, visual research, collection, interviews, observation, etc.
 
 * You should decide what kinds of research / reference / influences are most appropriate for your project.
 
