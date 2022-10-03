@@ -13,7 +13,7 @@ As a student, you should also develop your critical thinking skills. This will i
 **Of Project**
 
 * Critically describe and analyze/evaluate your senior project **process**. What have you learned about yourself and your working habits through this project so far? Time management, strengths, weaknesses, preferences, needs, etc.
-* At this point in time, what qualitative description would you give your overall **process** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).
+* At this point in time, what qualitative description would you give your overall **process** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).)
 * Reflect upon your **project's development progress** at this point in time.
   * Give a brief description of the project and the work you have done thus far. List using bullet points if needed.
   * Describe the parts of the project you have yet to complete.
@@ -21,6 +21,6 @@ As a student, you should also develop your critical thinking skills. This will i
   * What do you like about your project or research so far? What have you been able to do well?
   * What have you struggled with (if at all)? Why? Identify any specific hurdles you are dealing with (if any).
 * What feedback about your project (from anyone including students from the midterm demo) has been the most useful to you and why? What feedback has not been useful to you (if any)?
-* At this point in time, what qualitative description would you give your overall **project development progress** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).
+* At this point in time, what qualitative description would you give your overall **project development progress** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).)
 * What are your risks of failure (lack of tech, time, knowledge, money, etc.)?
 * Create a contingency plan for major risks.
