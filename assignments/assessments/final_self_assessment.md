@@ -28,11 +28,8 @@ Critically analyze/evaluate your senior project **process.**
 * How did you approach your project? Did you focus on the forest (entire project as a whole) or the trees (details) at first? When did you transition to the other IF you did?
 * Did you manage your time properly?
 * Did you prioritize effectively?
-*   What qualitative description would you give your overall **process** and why?&#x20;
-
-    * (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
-
-
+* What qualitative description would you give your overall **process** and why?&#x20;
+  * (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 
 **Of Self**
 
@@ -61,7 +58,7 @@ Critically analyze/evaluate your senior project **process.**
 
 **Of IDM Showcase**
 
-**Please note I will copy and paste all of your responses in one document, while keeping your anonymity intact, and forward to the IDM Showcase organizers.**
+**Please note I will copy and paste all of your responses into one document while keeping your anonymity intact and forward them to the IDM Showcase organizers.**
 
 * What worked? What didn't work? Ideas? Suggestions for Improvement? for the:
   * IDM showcase submission process
