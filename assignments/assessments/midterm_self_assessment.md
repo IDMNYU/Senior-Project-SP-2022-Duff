@@ -24,6 +24,6 @@ As a student, you should also develop your critical thinking skills. This will i
   * What do you like about your project or research so far? What have you been able to do well?
   * What have you struggled with (if at all)? Why? Identify any specific hurdles you are dealing with (if any).
 * What feedback about your project (from anyone including students from the midterm demo) has been the most useful to you and why? What feedback has not been useful to you (if any)?
-* At this point in time, what qualitative description would you give your overall **project development progress** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).)
 * What are your risks of failure (lack of tech, time, knowledge, money, etc.)?
 * Create a contingency plan for major risks.
+* At this point in time, what qualitative description would you give your overall **project development progress** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in the [syllabus](../../syllabus.md).)
